@@ -1,0 +1,60 @@
+.image.is-testimonial-portrait
+{
+
+    height: 192px;
+    width: 192px;
+
+}
+
+.logmate-background
+{
+
+    background-image: url(../images/bg.jpg) ;
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    background-color: #999;
+
+}
+
+a.topnav {
+
+    color: hsl(0, 0%, 100%);
+
+}
+
+a.topnav:hover {
+
+    color: hsl(217, 71%, 53%);
+
+}
+
+.newsflash
+{
+
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 4%);
+
+}
+
+.newsflash .title
+{
+
+    color: hsl(0, 0%, 100%);
+
+}
+
+.bg-black
+{
+
+    background-color: hsl(0, 0%, 4%);
+
+}
+
+.bg-blue
+{
+
+    background-color: rgb(28, 137, 197);;
+
+}
