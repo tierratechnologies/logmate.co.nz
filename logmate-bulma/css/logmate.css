@@ -3,6 +3,9 @@
 
     height: 192px;
     width: 192px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -11,9 +14,9 @@
 
     background-image: url(../images/bg.jpg) ;
     background-position: center center;
-    background-repeat:  no-repeat;
+    background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:  cover;
+    background-size: cover;
     background-color: #999;
 
 }
@@ -55,6 +58,42 @@ a.topnav:hover {
 .bg-blue
 {
 
-    background-color: rgb(28, 137, 197);;
+    background-color: rgb(28, 137, 197);
+
+}
+
+.bg-testimonials
+{
+
+    background-color: rgb(238, 238, 238);
+
+}
+
+.testimonial
+{
+
+    padding-left: 6rem;
+    padding-right: 6rem;
+
+}
+
+.points-section-title
+{
+
+    color: hsl(204, 97%, 75%)
+
+}
+
+.appstore-boxes
+{
+
+    border-radius: 1rem;
+
+}
+
+h1.title
+{
+
+    font-weight: bold;
 
 }
