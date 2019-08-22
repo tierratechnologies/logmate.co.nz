@@ -98,3 +98,46 @@ h1.title
 
 }
 
+.mellow-alert
+{
+
+    background-color: #faebcc;
+
+}
+
+.pad-some
+{
+
+    padding: 1rem;
+
+}
+
+.monthy-table-border
+{
+
+    border: 1px solid hsl(217, 71%, 53%);
+
+}
+
+td.monthly-table-heading-padding
+{
+
+    padding: 1.2rem;
+
+}
+
+td.monthly-table-row-padding
+{
+
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.alternate-text-info
+{
+
+    color: #31708f;
+
+}
