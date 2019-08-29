@@ -208,15 +208,15 @@ a.multi-page-nav-li:hover
 body
 {
 
-    font-family: 'Glegoo', serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 
 }
 
-/*
-.quoted
+hr 
 {
 
-    quotes: "'" "'";
+    background: transparent;
+    border-top: 1px solid rgba(0,0,0, .3);
+    border-bottom: 1px solid rgba(250,250, 250, .3);
 
 }
-*/
