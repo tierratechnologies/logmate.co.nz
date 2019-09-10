@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+{{ partial "head.html" . }}
+<body class="default-single">
+{{ partial "header.html" . }}
+<main>
+    <div>
+        <h1>{{ .Params.Title  }} policies/list.html</h1>
+        {{ .Content }}
+
+        {{ range .Pages }}
+        <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+        </li>
+        {{ end }}
+    </div>
+    {{ partial "footer.html" . }}
+</main>
+</body>
+</html>
