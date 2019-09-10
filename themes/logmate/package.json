@@ -1,0 +1,18 @@
+{
+  "name": "logmate",
+  "version": "1.0.0",
+  "description": "logmate hugo theme within new logmate.co.nz website",
+  "main": "static/sass/index.sass",
+  "scripts": {
+    "css-build": "node-sass --omit-source-map-url static/sass/index.scss static/css/index.css",
+    "css-watch": "npm run css-build -- --watch",
+    "start": "npm run css-watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bulma": "^0.7.5",
+    "bulma-pricingtable": "^0.2.0",
+    "node-sass": "^4.12.0"
+  }
+}

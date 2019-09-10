@@ -5,13 +5,6 @@ draft: true
 kind: "home"
 ---
 
-
-
-
-
-
-
-
 <!-- Pricing plans -->
 
 <section class="" style="padding-top: 40px; padding-bottom: 40px; border-top: 1px solid lightgrey;">
