@@ -13,6 +13,7 @@
   "devDependencies": {
     "bulma": "^0.7.5",
     "bulma-pricingtable": "^0.2.0",
+    "bulma-timeline": "^3.0.4",
     "node-sass": "^4.12.0"
   }
 }

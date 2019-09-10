@@ -1,14 +1,10 @@
 @charset "utf-8";
 
+@import "colours.scss";
+
 // Import a Google Font
 @import url('https://fonts.googleapis.com/css?family=Nunito|Libre+Franklin&display=swap');
 //@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri&display=swap');
-
-// Set your brand colors
-$blue: #09398a;
-$pink: #FA7C91;
-$orange: #772f10;
-$white: #ffffff;
 
 // Update Bulma's global variables
 $family-sans-serif: "Nunito", sans-serif;
@@ -21,15 +17,15 @@ $widescreen-enabled: false;
 $fullhd-enabled: false;
 
 
-// Update some of Bulma's component variables
-//$body-background-color: $white;
+// Bulma
+$body-background-color: $white;
 $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
 
 @import "../../node_modules/bulma/bulma.sass";
 
-// Update Bulma PricingTables component variables
+// Bulma PricingTables
 $pricing-plan-border: .1rem solid $white-ter;
 $pricing-plan-border-radius: $radius;
 $pricing-plan-active-shadow: 0 8px 12px 0 rgba($grey, 0.2);
@@ -40,9 +36,9 @@ $pricing-item-border: .1rem solid white;
 $pricing-item-color: $grey;
 $pricing-price-background: $white;
 
-
 @import "../../node_modules/bulma-pricingtable/src/sass/index.sass";
 
+// Font Awesome
 $fa-font-path: "../webfonts";
 @import "./font-awesome-scss/fontawesome.scss";
 @import "./font-awesome-scss/regular.scss";
