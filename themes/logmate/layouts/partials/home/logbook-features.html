@@ -1,0 +1,29 @@
+<section class="" style="padding-top: 40px; padding-bottom: 40px; border-top: 1px solid lightgrey;">
+    <div class="columns is-centered has-text-centered">
+        <div class="column is-one-third">
+            <h3 class="title">Why go digital?</h3>
+        </div>
+    </div>
+
+    {{ range $i,$p := .Site.Data.home.features }}
+
+    {{ if gt $i 0 }}
+    <div class="columns is-centered">
+        <div class="column is-8">
+            <hr/>
+        </div>
+    </div>
+    {{ end }}
+
+    <div class="columns is-vcentered is-centered">
+        {{ if not (modBool $i 2) }}
+        {{ partial "home/logbook-features/feature_entry_icon.html" $p }}
+        {{ partial "home/logbook-features/feature_entry_text.html" $p }}
+        {{ else }}
+        {{ partial "home/logbook-features/feature_entry_text.html" $p }}
+        {{ partial "home/logbook-features/feature_entry_icon.html" $p }}
+        {{ end }}
+    </div>
+    {{end}}
+
+</section>
