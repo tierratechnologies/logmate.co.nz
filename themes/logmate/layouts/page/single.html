@@ -4,15 +4,15 @@
     <div class="columns is-centered is-mobile">
         <div class="column is-1">
             <aside class="menu">
+                {{ $cp := .File.UniqueID }}
                 <p class="menu-label">General</p>
                 <ul class="menu-list">
-                    <li>
-                        <a href="/about/">About</a>
+                    <li class="menu-item">
+                        {{ with .Site.GetPage "about" }}<a href="{{.Permalink}}" class="{{if eq .UniqueID $cp}}is-active{{end}}">{{ .Title }}</a>{{ end }}
                     </li>
                 </ul>
                 <p class="menu-label">Policies</p>
                 <ul class="menu-list">
-                    {{ $cp := .File.UniqueID }}
                     {{range $p := where .Site.RegularPages "Section" "policies" }}
                     <li>
                         <a href="{{$p.Permalink}}" class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
