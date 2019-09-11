@@ -6,14 +6,195 @@ type: page
 ---
 
 <div class="columns is-centered">
-    <div class="column has-text-centered">
-        <h2 class="title">Our Timeline</h2>
+    <div class="column is-offset-1">
+        <h2 class="title is-1">The Team</h2>                
+    </div>
+</div>
+
+<div class="columns is-centered is-multiline">
+    <div class="column is-5">
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="placeholder">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p class="title is-small">Hans Hazen</p>
+                        <p class="subtitle is-small">Senior Customer Support Specialist</p>                        
+                    </div>
+                    <div class="content is-hidden-mobile">
+                        <p>
+                            Hans joined us in September 2017. He lives in Kansas, USA with his young family and is the preacher for a local church.
+                        </p>
+                        <p>He is expecting his 2nd child very soon and is so excited he can't begin to tell you.. or maybe he will.</p>
+                        <p>Be sure to ask him next time you are chatting to him ;)</p>
+                      </div>                  
+                    </div>
+            </article>
+        </div>
+    </div>
+    <div class="column is-5">
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="placeholder">
+                    </figure>
+                </div>
+                <div class="media-content">
+                      <div class="content">
+                          <p class="title is-small">Karthick Palani</p>
+                          <p class="subtitle is-small">Customer Support Specialist</p>                        
+                      </div>
+                      <div class="content is-hidden-mobile">                        
+                        <p>
+                            Karthick joined us in September 2017. He lives in Bangalore, India.
+                        </p>
+                        <p>He is a qualified Network engineer and a young man with a bright future.</p>
+                        <p>Karthick covers the late nights so be sure to stop by and say Hi if you find yourself with a few minutes to spare.</p>                            
+                      </div>                  
+                    </div>
+            </article>
+        </div>
+     </div>
+    <div class="column is-5">
+         <div class="box">
+             <article class="media">
+                 <div class="media-left">
+                     <figure class="image is-64x64">
+                         <img src="https://bulma.io/images/placeholders/128x128.png" alt="placeholder">
+                     </figure>
+                 </div>
+                 <div class="media-content">
+                       <div class="content">
+                             <p class="title is-small">Paul Sanderson</p>
+                             <p class="subtitle is-small">Senior Software Engineer</p>                        
+                        </div>
+                        <div class="content is-hidden-mobile">   
+                            <p>
+                             Paul started working with the Dev team late 2018. He lives in Gulf Harbour, New Zealand with his young family.
+                            </p>
+                             <p>He has worked in Silicon Valley; calls Senior Google Engineers 'buddy', and races one of the fastest non-production rally cars in New Zealand with his brother and dad.</p>
+                             <p>Paul is one of the most experienced Crypto Engineers in New Zealand, but loves New Zealand too much to move the USA where the money is. </p>
+                            <p>We love him for it.</p>                                                     
+                       </div>                  
+                     </div>
+            </article>
+        </div>
+     </div>
+    <div class="column is-5">
+          <div class="box">
+              <article class="media">
+                  <div class="media-left">
+                      <figure class="image is-64x64">
+                          <img src="https://bulma.io/images/placeholders/128x128.png" alt="placeholder">
+                      </figure>
+                  </div>
+                  <div class="media-content">
+                         <div class="content">
+                             <p class="title is-small">Sam Peacy</p>
+                             <p class="subtitle is-small">Senior Software Engineer</p>                        
+                        </div>
+                        <div class="content is-hidden-mobile">   
+                          <p>
+                              Sam started working with the Dev team in 2017. He lives in Japan, his young wife.
+                          </p>
+                          <p>Originally from the UK, Sam is a true English gentle-man.</p>
+                          <p>Sam helps on the encumbent Ruby on Rails backend and Admins and basically saves our bacon when we need it most.</p>
+                          <p>We love him for it too.</p>                                                     
+                        </div>                  
+                      </div>
+             </article>
+         </div>
+      </div>
+    <div class="column is-5">
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="placeholder">
+                    </figure>
+                </div>
+                <div class="media-content">
+                      <div class="content">
+                           <p class="title is-small">Rick Cranswick</p>
+                           <p class="subtitle is-small">Finance &amp; Business Advisor</p>                        
+                      </div>
+                      <div class="content is-hidden-mobile">  
+                        <p>
+                            Rick is the former managing partner of Crowe Howarth Accountants in the Hawkes Bay, and now works around New Zealand providing Strategic advisory and Governance to several tech start-ups. 
+                        </p>
+                        <p>Based in the Hawkes Bay, Rick works as a key member of the Management team providing advice, guidance and generally keep the wheels moving.</p>                        
+                      </div>                  
+                    </div>
+           </article>
+       </div>
+    </div>
+    <div class="column is-5">
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="placeholder">
+                    </figure>
+                </div>
+                <div class="media-content">
+                     <div class="content">
+                            <p class="title is-small">Jay Stead</p>
+                            <p class="subtitle is-small">Advisor &amp; Consultant</p>                        
+                       </div>
+                       <div class="content is-hidden-mobile">  
+                        <p>
+                            Based in Auckland, New Zealand since 2002, Jay provides executive advisory services and serves on the boards of a select group of technology-oriented software, services, and internet businesses around the world.  
+                        </p>
+                        <p>Jay is the former President &amp; CEO of Sagebrush Corporation, a leader in educational software, and was a senior executive at Reynolds &amp; Reynolds. In addition, he has held key management positions with Allen-Bradley and McKinsey &amp; Co.</p>                        
+                      </div>                  
+                    </div>
+           </article>
+       </div>
+    </div>
+    <div class="column is-5">
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="placeholder">
+                    </figure>
+                </div>
+                <div class="media-content">
+                     <div class="content">
+                            <p class="title is-small">Greg McDowell</p>
+                            <p class="subtitle is-small">Managing Director &amp; Founder</p>                        
+                       </div>
+                       <div class="content is-hidden-mobile">  
+                        <p>
+                            Based in Matakana, New Zealand with his young family, Greg is a software engineer &amp; serial entrepreneur.  
+                        </p>
+                        <p>Greg is the driving force behind the business; performing everything from Software Development &amp; Design, commercial negotiations, and when required Customer Support.</p>
+                        <p class="is-italic is-large"> <span class="fa fa-quote-left"></span> My goal is to build <strong>logmate</strong> into a best-in-class logbook and compliance platform. <span class="fa fa-quote-left"></span></p>                        
+                      </div>                  
+                    </div>
+           </article>
+       </div>
+    </div>
+</div>
+
+<div class="columns" style="margin-top: 80px; margin-bottom: 80px;">
+    <div class="column is-fullwidth"><hr></div>
+</div>  
+
+<div class="columns is-centered has-text-centered">
+    <div class="column">
+        <h2 class="title is-1">Our Timeline</h2>
         <p>Because things don't just happen over night.</p>
         <p>They do happen though, when you keep working at it...</p>
         <p>... and we aren't done yet, by any means.</p>
     </div>
 </div>
-<div class="timeline is-centered">
+<div class="timeline is-centered" style="margin-top: 80px;">
     <!--    2012-->
     <header class="timeline-header">
         <span class="tag is-small is-primary">2012</span>

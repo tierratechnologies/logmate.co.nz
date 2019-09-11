@@ -6,14 +6,12 @@ type: page
 ---
 
 <h1 class="title is-1">Terms of use</h1>
-
+                
 <p><i>Effective 1 May 2014</i></p>
-
-<br>
+            
 <p>Hi. Welcome to our Terms & Conditions of use. By using the Logmate service you are implicitly, explicity and comprehensibly bound to
-the following condtions, policies and legal mumbo jumbo. So best you take a gander eh.</p>
+the following conditions, policies and legal mumbo jumbo. So best you take a gander eh.</p>
 
-<br>
 <h2 class="title is-2">Introduction</h2>
 
 <p>Thanks for choosing Logmate (<b>"Logmate"</b>, <b>"we"</b>, <b>"us"</b>, <b>"our"</b>, <b>"Tierra
