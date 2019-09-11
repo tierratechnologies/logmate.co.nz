@@ -38,6 +38,17 @@ $pricing-price-background: $white;
 
 @import "../../node_modules/bulma-pricingtable/src/sass/index.sass";
 
+// Bulma Timeline
+$timeline-marker-background-color: $white;
+$timeline-marker-border: .1em solid $grey-light;
+$timeline-line: .1rem solid $grey-light;
+$timeline-content-padding: 1em 0 0 2em;
+$timeline-icon-size: $size-5;
+$timeline-header-width: 4em;
+$dimensions: 16 24 32 48 64 96 128;
+
+@import "../../node_modules/bulma-timeline/src/sass/index.sass";
+
 // Font Awesome
 $fa-font-path: "../webfonts";
 @import "./font-awesome-scss/fontawesome.scss";
