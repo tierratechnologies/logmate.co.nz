@@ -2,6 +2,7 @@
 title: "Mobile"
 date: 2019-09-10T16:20:04+12:00
 draft: true
+type: page
 ---
 
 <h1 class="title is-1">Mobile policy</h1>

@@ -2,6 +2,7 @@
 title: "Privacy"
 date: 2019-09-10T16:20:32+12:00
 draft: true
+type: page
 ---
 
 <h1 class="title is-1">Privacy policy</h1>
