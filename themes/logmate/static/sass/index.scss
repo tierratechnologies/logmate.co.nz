@@ -11,7 +11,7 @@ $family-sans-serif: "Nunito", sans-serif;
 //$font-family: 'Libre Franklin', sans-serif;
 
 $primary: $blue;
-$link: $blue;
+//$link: $blue;
 $widescreen-enabled: false;
 $fullhd-enabled: false;
 
@@ -23,6 +23,11 @@ $input-border-color: transparent;
 $input-shadow: none;
 
 @import "../../node_modules/bulma/bulma.sass";
+
+// overrides
+$warning: $orange;
+
+
 
 // Bulma PricingTables
 $pricing-plan-border: .1rem solid $white-ter;

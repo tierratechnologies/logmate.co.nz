@@ -1,12 +1,23 @@
 // Set your brand colors
-$blue: #09398a;
-$pink: #FA7C91;
-$orange: #772f10;
-$white: #ffffff;
-$red: #ff151a;
+$black: hsl(0, 0%, 4%);
+$black-bis: hsl(0, 0%, 7%);
+$black-bis: hsl(0, 0%, 14%);
+$grey-dark: hsl(0, 0%, 29%);
+$grey: hsl(0, 0%, 48%);
+$grey-light: hsl(0, 0%, 71%);
+$white-ter: hsl(0, 0%, 96%);
+$white-bis: hsl(0, 0%, 98%);
+$white: hsl(0, 0%, 100%);
+$orange: hsl(14, 100%, 53%);
+$yellow: hsl(48, 100%, 67%);
+$green: hsl(141, 71%, 48%);
+$turquoise: hsl(171, 100%, 41%);
+$cyan: hsl(204, 86%, 53%);
+$blue: hsl(217, 71%, 53%);
+$purple hsl(271, 100%, 71%);
+//$pink: #FA7C91;
+$red: hsl(348, 100%, 61%);
 
-$grey-dark: #727272;
-$grey-light: #c3c3c3;
 
 // colour classes
 .red {
@@ -15,4 +26,8 @@ $grey-light: #c3c3c3;
 
 .gold {
   color: goldenrod;
+}
+
+.orange {
+  color: $orange
 }

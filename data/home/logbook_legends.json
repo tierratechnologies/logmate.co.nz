@@ -1,82 +1,1002 @@
 [
   {
-    "first_name": "Garry",
-    "family_name": "JONES",
-    "created_at": "2014-06-21 06:19:29.654557",
-    "avatar": {
-      "file_name": null
-    }
+    "first_name": "Carl",
+    "family_name": "HESSELTINE",
+    "created_at": "2014-03-11 05:29:38.217266",
+    "shift_count": "655",
+    "shift_violation_count": "0",
+    "vehicle_count": "10",
+    "operator_count": "0",
+    "avatar": ""
+  },
+  {
+    "first_name": "Cameron",
+    "family_name": "PETERSEN",
+    "created_at": "2014-06-28 01:34:47.666484",
+    "shift_count": "1025",
+    "shift_violation_count": "2",
+    "vehicle_count": "55",
+    "operator_count": "8",
+    "avatar": ""
   },
   {
     "first_name": "Owen",
     "family_name": "TURNER",
     "created_at": "2014-07-08 07:10:26.021195",
-    "avatar": {
-      "file_name": null
-    }
+    "shift_count": "1551",
+    "shift_violation_count": "0",
+    "vehicle_count": "11",
+    "operator_count": "4",
+    "avatar": ""
   },
   {
     "first_name": "Robert",
     "family_name": "MACE",
     "created_at": "2014-07-10 05:21:49.475079",
-    "avatar": {
-      "file_name": null
-    }
+    "shift_count": "1212",
+    "shift_violation_count": "11",
+    "vehicle_count": "77",
+    "operator_count": "2",
+    "avatar": ""
   },
   {
     "first_name": "Dahya",
     "family_name": "GOVIND",
     "created_at": "2014-07-18 21:54:26.114227",
-    "avatar": {
-      "file_name": null
-    }
+    "shift_count": "1030",
+    "shift_violation_count": "9",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
   },
   {
     "first_name": "Murray",
     "family_name": "HOLMES",
     "created_at": "2014-08-14 08:11:33.651638",
-    "avatar": {
-      "file_name": null
-    }
+    "shift_count": "522",
+    "shift_violation_count": "2",
+    "vehicle_count": "17",
+    "operator_count": "1",
+    "avatar": ""
   },
   {
     "first_name": "Dylan",
     "family_name": "BURHENNE",
     "created_at": "2014-10-17 18:58:47.789009",
-    "avatar": {
-      "file_name": null
-    }
+    "shift_count": "942",
+    "shift_violation_count": "0",
+    "vehicle_count": "66",
+    "operator_count": "5",
+    "avatar": ""
+  },
+  {
+    "first_name": "Graham",
+    "family_name": "COOK",
+    "created_at": "2014-10-23 02:10:04.659012",
+    "shift_count": "874",
+    "shift_violation_count": "15",
+    "vehicle_count": "11",
+    "operator_count": "6",
+    "avatar": ""
   },
   {
     "first_name": "Bevin",
     "family_name": "SEVERINSEN",
     "created_at": "2014-11-25 09:51:52.590599",
-    "avatar": {
-      "file_name": null
-    }
+    "shift_count": "485",
+    "shift_violation_count": "1",
+    "vehicle_count": "56",
+    "operator_count": "5",
+    "avatar": ""
+  },
+  {
+    "first_name": "Francesco",
+    "family_name": "GARINO CANINA",
+    "created_at": "2014-12-17 22:51:42.251913",
+    "shift_count": "700",
+    "shift_violation_count": "1",
+    "vehicle_count": "29",
+    "operator_count": "2",
+    "avatar": ""
   },
   {
     "first_name": "Stuart",
     "family_name": "TREWHEELA",
     "created_at": "2015-01-15 08:20:36.875457",
-    "avatar": {
-      "file_name": null
-    }
+    "shift_count": "414",
+    "shift_violation_count": "1",
+    "vehicle_count": "16",
+    "operator_count": "7",
+    "avatar": ""
   },
   {
-    "first_name": "Simon",
-    "family_name": "ADAM",
-    "created_at": "2015-02-24 11:01:54.439601",
-    "avatar": {
-      "file_name": null
-    }
+    "first_name": "Choong Hwan",
+    "family_name": "LIM",
+    "created_at": "2015-02-18 00:27:18.275963",
+    "shift_count": "885",
+    "shift_violation_count": "8",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
   },
   {
     "first_name": "Srivastava",
     "family_name": "RAJNEESH",
     "created_at": "2015-04-03 02:53:30.684211",
-    "avatar": {
-      "file_name": null
-    }
+    "shift_count": "372",
+    "shift_violation_count": "7",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "ishwar",
+    "family_name": "SINGH",
+    "created_at": "2015-05-06 04:01:45.974034",
+    "shift_count": "891",
+    "shift_violation_count": "96",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Gavin",
+    "family_name": "CAIN",
+    "created_at": "2015-05-12 23:13:34.721032",
+    "shift_count": "421",
+    "shift_violation_count": "13",
+    "vehicle_count": "139",
+    "operator_count": "0",
+    "avatar": ""
+  },
+  {
+    "first_name": "sheikh",
+    "family_name": "ASIFUR RAHMAN",
+    "created_at": "2015-07-18 06:26:04.29608",
+    "shift_count": "786",
+    "shift_violation_count": "0",
+    "vehicle_count": "1",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Bruce",
+    "family_name": "NICKEL",
+    "created_at": "2015-08-26 04:27:26.513143",
+    "shift_count": "603",
+    "shift_violation_count": "1",
+    "vehicle_count": "4",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "John",
+    "family_name": "BEECHEY",
+    "created_at": "2015-08-26 13:27:04.350248",
+    "shift_count": "470",
+    "shift_violation_count": "20",
+    "vehicle_count": "28",
+    "operator_count": "7",
+    "avatar": ""
+  },
+  {
+    "first_name": "Brian",
+    "family_name": "STAPLEY",
+    "created_at": "2015-10-03 23:53:17.35373",
+    "shift_count": "550",
+    "shift_violation_count": "8",
+    "vehicle_count": "14",
+    "operator_count": "7",
+    "avatar": ""
+  },
+  {
+    "first_name": "Julian",
+    "family_name": "OSTLING",
+    "created_at": "2015-10-21 07:20:33.826497",
+    "shift_count": "559",
+    "shift_violation_count": "1",
+    "vehicle_count": "8",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Benjamin",
+    "family_name": "PARADZA",
+    "created_at": "2015-11-05 10:15:52.264351",
+    "shift_count": "423",
+    "shift_violation_count": "9",
+    "vehicle_count": "1",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Barry",
+    "family_name": "HENDERSON",
+    "created_at": "2015-11-25 23:24:35.092178",
+    "shift_count": "1020",
+    "shift_violation_count": "5",
+    "vehicle_count": "3",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Poh",
+    "family_name": "NG",
+    "created_at": "2015-12-04 21:06:15.374217",
+    "shift_count": "649",
+    "shift_violation_count": "0",
+    "vehicle_count": "2",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "usman",
+    "family_name": "AMJAD",
+    "created_at": "2015-12-10 02:01:08.763845",
+    "shift_count": "715",
+    "shift_violation_count": "9",
+    "vehicle_count": "11",
+    "operator_count": "5",
+    "avatar": ""
+  },
+  {
+    "first_name": "Zafar",
+    "family_name": "KHAN",
+    "created_at": "2015-12-25 07:11:51.604925",
+    "shift_count": "413",
+    "shift_violation_count": "2",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Stephen",
+    "family_name": "PRESS",
+    "created_at": "2015-12-30 07:49:50.280477",
+    "shift_count": "708",
+    "shift_violation_count": "4",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Deborah",
+    "family_name": "STEVENS",
+    "created_at": "2016-01-10 08:11:41.274601",
+    "shift_count": "817",
+    "shift_violation_count": "9",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Kuldeep",
+    "family_name": "SINGH",
+    "created_at": "2016-02-02 05:34:27.963342",
+    "shift_count": "494",
+    "shift_violation_count": "0",
+    "vehicle_count": "3",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Imraz",
+    "family_name": "SAHIB",
+    "created_at": "2016-02-13 04:41:05.025897",
+    "shift_count": "473",
+    "shift_violation_count": "5",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Harpreet",
+    "family_name": "SINGH",
+    "created_at": "2016-02-26 21:14:39.428477",
+    "shift_count": "912",
+    "shift_violation_count": "3",
+    "vehicle_count": "1",
+    "operator_count": "5",
+    "avatar": ""
+  },
+  {
+    "first_name": "Paul",
+    "family_name": "JOSE",
+    "created_at": "2016-03-07 09:53:03.610101",
+    "shift_count": "611",
+    "shift_violation_count": "0",
+    "vehicle_count": "2",
+    "operator_count": "5",
+    "avatar": ""
+  },
+  {
+    "first_name": "Peter",
+    "family_name": "PAPAS",
+    "created_at": "2016-03-19 23:21:03.966854",
+    "shift_count": "1013",
+    "shift_violation_count": "19",
+    "vehicle_count": "1",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Anoop",
+    "family_name": "GANGISHETTY",
+    "created_at": "2016-03-26 02:24:30.190488",
+    "shift_count": "442",
+    "shift_violation_count": "26",
+    "vehicle_count": "2",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Tama",
+    "family_name": "JOSEPHS",
+    "created_at": "2016-03-31 06:05:31.686988",
+    "shift_count": "430",
+    "shift_violation_count": "41",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Mahmood",
+    "family_name": "NAREJO",
+    "created_at": "2016-04-12 12:10:30.27717",
+    "shift_count": "592",
+    "shift_violation_count": "23",
+    "vehicle_count": "3",
+    "operator_count": "4",
+    "avatar": ""
+  },
+  {
+    "first_name": "DHIRAJ",
+    "family_name": "GULATI",
+    "created_at": "2016-05-02 19:32:15.98614",
+    "shift_count": "797",
+    "shift_violation_count": "3",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Tapan",
+    "family_name": "MUNSHI",
+    "created_at": "2016-05-30 22:49:09.111209",
+    "shift_count": "322",
+    "shift_violation_count": "1",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Benjamin",
+    "family_name": "SMITH",
+    "created_at": "2016-06-05 03:31:54.668228",
+    "shift_count": "495",
+    "shift_violation_count": "21",
+    "vehicle_count": "46",
+    "operator_count": "5",
+    "avatar": ""
+  },
+  {
+    "first_name": "Hari Babu",
+    "family_name": "KUNCHALA",
+    "created_at": "2016-06-11 09:29:31.715101",
+    "shift_count": "614",
+    "shift_violation_count": "6",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Charandeep",
+    "family_name": "SINGH",
+    "created_at": "2016-06-19 17:01:17.063833",
+    "shift_count": "375",
+    "shift_violation_count": "1",
+    "vehicle_count": "6",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Bradley",
+    "family_name": "MANNERING",
+    "created_at": "2016-07-02 04:12:42.194734",
+    "shift_count": "306",
+    "shift_violation_count": "0",
+    "vehicle_count": "11",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Mekuria",
+    "family_name": "KIFLE MAMAY",
+    "created_at": "2016-08-30 05:24:33.949661",
+    "shift_count": "516",
+    "shift_violation_count": "3",
+    "vehicle_count": "5",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Girishkumar",
+    "family_name": "PATEL",
+    "created_at": "2016-08-31 06:53:28.080038",
+    "shift_count": "317",
+    "shift_violation_count": "10",
+    "vehicle_count": "3",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "MEGHALKUMAR RAJENDRAKUMAR",
+    "family_name": "LALPURIA",
+    "created_at": "2016-09-07 22:18:14.941553",
+    "shift_count": "317",
+    "shift_violation_count": "13",
+    "vehicle_count": "4",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Ross",
+    "family_name": "BARROW",
+    "created_at": "2016-09-13 08:58:14.079666",
+    "shift_count": "721",
+    "shift_violation_count": "0",
+    "vehicle_count": "12",
+    "operator_count": "7",
+    "avatar": ""
+  },
+  {
+    "first_name": "Terrence",
+    "family_name": "PRIDDLE",
+    "created_at": "2016-10-17 04:07:20.599011",
+    "shift_count": "733",
+    "shift_violation_count": "4",
+    "vehicle_count": "103",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Harpreet Singh Basra",
+    "family_name": "BASRA",
+    "created_at": "2016-11-07 01:25:52.030144",
+    "shift_count": "614",
+    "shift_violation_count": "4",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Etuate",
+    "family_name": "ULUINACEVA",
+    "created_at": "2016-11-08 03:38:20.123462",
+    "shift_count": "638",
+    "shift_violation_count": "0",
+    "vehicle_count": "4",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Armaan",
+    "family_name": "VERMA",
+    "created_at": "2016-11-16 22:03:34.124595",
+    "shift_count": "475",
+    "shift_violation_count": "0",
+    "vehicle_count": "3",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "ANDRE",
+    "family_name": "MENDES DA COSTA",
+    "created_at": "2016-11-24 02:00:09.171187",
+    "shift_count": "415",
+    "shift_violation_count": "0",
+    "vehicle_count": "22",
+    "operator_count": "4",
+    "avatar": ""
+  },
+  {
+    "first_name": "Andy",
+    "family_name": "BARBER",
+    "created_at": "2016-11-29 20:45:03.982497",
+    "shift_count": "432",
+    "shift_violation_count": "3",
+    "vehicle_count": "9",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Wayne",
+    "family_name": "ANDERSON",
+    "created_at": "2017-01-29 04:16:51.606304",
+    "shift_count": "366",
+    "shift_violation_count": "0",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "anthony",
+    "family_name": "GREGORY-HUNT",
+    "created_at": "2017-02-19 07:18:22.108192",
+    "shift_count": "745",
+    "shift_violation_count": "7",
+    "vehicle_count": "1",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Steven",
+    "family_name": "LLOYD",
+    "created_at": "2017-03-30 01:52:57.140078",
+    "shift_count": "479",
+    "shift_violation_count": "1",
+    "vehicle_count": "4",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Kapil",
+    "family_name": "VYAS",
+    "created_at": "2017-03-30 04:06:57.184253",
+    "shift_count": "391",
+    "shift_violation_count": "1",
+    "vehicle_count": "6",
+    "operator_count": "5",
+    "avatar": ""
+  },
+  {
+    "first_name": "Ramandeep",
+    "family_name": "MANN",
+    "created_at": "2017-03-30 08:37:45.716994",
+    "shift_count": "544",
+    "shift_violation_count": "1",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Christian",
+    "family_name": "MAHONY",
+    "created_at": "2017-03-31 21:08:30.651908",
+    "shift_count": "286",
+    "shift_violation_count": "2",
+    "vehicle_count": "21",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Ian",
+    "family_name": "CALLARD",
+    "created_at": "2017-04-05 02:28:11.387972",
+    "shift_count": "514",
+    "shift_violation_count": "1",
+    "vehicle_count": "3",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Vicente Jr. Albano",
+    "family_name": "TIONGSON",
+    "created_at": "2017-04-26 00:10:23.665847",
+    "shift_count": "278",
+    "shift_violation_count": "0",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Harris",
+    "family_name": "HENRY",
+    "created_at": "2017-05-02 22:28:05.751339",
+    "shift_count": "493",
+    "shift_violation_count": "10",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Amon",
+    "family_name": "MUDZVITI",
+    "created_at": "2017-05-08 09:39:17.454104",
+    "shift_count": "282",
+    "shift_violation_count": "0",
+    "vehicle_count": "1",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Krishan Gopal",
+    "family_name": "VIJ",
+    "created_at": "2017-05-09 00:27:07.038602",
+    "shift_count": "500",
+    "shift_violation_count": "6",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Rommel",
+    "family_name": "GONZALES",
+    "created_at": "2017-05-17 12:08:00.614139",
+    "shift_count": "435",
+    "shift_violation_count": "5",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Martin",
+    "family_name": "HARRIS",
+    "created_at": "2017-05-18 06:39:44.900853",
+    "shift_count": "411",
+    "shift_violation_count": "2",
+    "vehicle_count": "10",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Faisal Jahangir",
+    "family_name": "BHATTI",
+    "created_at": "2017-05-20 04:14:16.230775",
+    "shift_count": "321",
+    "shift_violation_count": "1",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "VENKAT",
+    "family_name": "NARAYAN",
+    "created_at": "2017-05-23 20:19:33.884927",
+    "shift_count": "314",
+    "shift_violation_count": "6",
+    "vehicle_count": "1",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Euan",
+    "family_name": "PATTIE",
+    "created_at": "2017-05-24 19:59:55.262851",
+    "shift_count": "520",
+    "shift_violation_count": "4",
+    "vehicle_count": "49",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Travis",
+    "family_name": "LEIPPI",
+    "created_at": "2017-06-23 22:16:48.313842",
+    "shift_count": "530",
+    "shift_violation_count": "1",
+    "vehicle_count": "1",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Noel",
+    "family_name": "WILLIAMS",
+    "created_at": "2017-06-29 23:48:12.142613",
+    "shift_count": "588",
+    "shift_violation_count": "9",
+    "vehicle_count": "2",
+    "operator_count": "0",
+    "avatar": ""
+  },
+  {
+    "first_name": "Naveen",
+    "family_name": "KUMAR",
+    "created_at": "2017-07-13 03:54:26.003921",
+    "shift_count": "383",
+    "shift_violation_count": "7",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Jameel",
+    "family_name": "DEAN",
+    "created_at": "2017-07-17 09:19:41.989386",
+    "shift_count": "560",
+    "shift_violation_count": "0",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "wang",
+    "family_name": "LEI",
+    "created_at": "2017-07-18 11:39:25.925647",
+    "shift_count": "345",
+    "shift_violation_count": "1",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Timothy",
+    "family_name": "WILMOT-SITWELL",
+    "created_at": "2017-07-21 07:44:32.269887",
+    "shift_count": "307",
+    "shift_violation_count": "1",
+    "vehicle_count": "3",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Rahul",
+    "family_name": "JAIN",
+    "created_at": "2017-08-03 08:40:16.155782",
+    "shift_count": "381",
+    "shift_violation_count": "2",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Christopher",
+    "family_name": "LARKING",
+    "created_at": "2017-08-15 07:33:48.934414",
+    "shift_count": "332",
+    "shift_violation_count": "2",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Kamalpreet",
+    "family_name": "SINGH",
+    "created_at": "2017-09-07 02:38:19.441137",
+    "shift_count": "334",
+    "shift_violation_count": "5",
+    "vehicle_count": "5",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Kane",
+    "family_name": "MCINTYRE",
+    "created_at": "2017-09-08 09:00:03.506085",
+    "shift_count": "306",
+    "shift_violation_count": "2",
+    "vehicle_count": "66",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Mohammed",
+    "family_name": "INTAZ",
+    "created_at": "2017-09-22 05:49:25.396692",
+    "shift_count": "454",
+    "shift_violation_count": "0",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Robert",
+    "family_name": "JAMES",
+    "created_at": "2017-10-05 05:01:31.255605",
+    "shift_count": "429",
+    "shift_violation_count": "6",
+    "vehicle_count": "2",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Sahil",
+    "family_name": "BABBAR",
+    "created_at": "2017-10-06 07:43:18.341886",
+    "shift_count": "386",
+    "shift_violation_count": "3",
+    "vehicle_count": "2",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Jason",
+    "family_name": "LUM",
+    "created_at": "2017-10-06 11:46:00.669017",
+    "shift_count": "595",
+    "shift_violation_count": "0",
+    "vehicle_count": "3",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Shamsher",
+    "family_name": "SINGH",
+    "created_at": "2017-10-07 22:27:16.837756",
+    "shift_count": "275",
+    "shift_violation_count": "5",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Sanjit",
+    "family_name": "SETHI",
+    "created_at": "2017-10-08 10:34:18.441315",
+    "shift_count": "426",
+    "shift_violation_count": "3",
+    "vehicle_count": "2",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Ashish",
+    "family_name": "SHARMA",
+    "created_at": "2017-10-10 05:51:22.592074",
+    "shift_count": "479",
+    "shift_violation_count": "0",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Afzal",
+    "family_name": "KHAN",
+    "created_at": "2017-10-10 05:51:34.829238",
+    "shift_count": "294",
+    "shift_violation_count": "1",
+    "vehicle_count": "1",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "SOUKTHAVISINH",
+    "family_name": "LANTHONG",
+    "created_at": "2017-10-11 01:00:11.382464",
+    "shift_count": "303",
+    "shift_violation_count": "0",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Sumit",
+    "family_name": "SUMIT",
+    "created_at": "2017-10-11 01:15:55.19827",
+    "shift_count": "352",
+    "shift_violation_count": "3",
+    "vehicle_count": "3",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Aavesh",
+    "family_name": "SAINI",
+    "created_at": "2017-10-11 04:17:57.231346",
+    "shift_count": "515",
+    "shift_violation_count": "1",
+    "vehicle_count": "4",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Buta Singh",
+    "family_name": "BUTA SINGH",
+    "created_at": "2017-10-11 04:18:19.745494",
+    "shift_count": "280",
+    "shift_violation_count": "16",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Charlie",
+    "family_name": "LOIZOU",
+    "created_at": "2017-10-11 04:18:28.859626",
+    "shift_count": "478",
+    "shift_violation_count": "9",
+    "vehicle_count": "2",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Jimmy",
+    "family_name": "(GURLAL) MANN",
+    "created_at": "2017-10-11 04:18:35.998103",
+    "shift_count": "410",
+    "shift_violation_count": "13",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Mandeep",
+    "family_name": "SINGH",
+    "created_at": "2017-10-11 04:19:58.78494",
+    "shift_count": "474",
+    "shift_violation_count": "0",
+    "vehicle_count": "1",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Galina",
+    "family_name": "ZADOROZHNAYA",
+    "created_at": "2017-10-11 04:20:18.22128",
+    "shift_count": "525",
+    "shift_violation_count": "6",
+    "vehicle_count": "1",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Anthony",
+    "family_name": "SARTEN",
+    "created_at": "2017-10-11 04:20:45.129805",
+    "shift_count": "550",
+    "shift_violation_count": "2",
+    "vehicle_count": "11",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Pawan",
+    "family_name": "KUMAR",
+    "created_at": "2017-10-11 04:21:30.650107",
+    "shift_count": "307",
+    "shift_violation_count": "5",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Mohammad Yousuf",
+    "family_name": "MOTON",
+    "created_at": "2017-10-11 04:21:35.333881",
+    "shift_count": "302",
+    "shift_violation_count": "11",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Pradeep",
+    "family_name": "SINGH",
+    "created_at": "2017-10-11 04:21:50.961517",
+    "shift_count": "481",
+    "shift_violation_count": "4",
+    "vehicle_count": "1",
+    "operator_count": "3",
+    "avatar": ""
+  },
+  {
+    "first_name": "Qurban Mohammed",
+    "family_name": "SAFI",
+    "created_at": "2017-10-11 04:21:59.454715",
+    "shift_count": "266",
+    "shift_violation_count": "1",
+    "vehicle_count": "1",
+    "operator_count": "1",
+    "avatar": ""
+  },
+  {
+    "first_name": "Toseef",
+    "family_name": "KHAN",
+    "created_at": "2017-10-11 04:23:44.499094",
+    "shift_count": "343",
+    "shift_violation_count": "5",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
+  },
+  {
+    "first_name": "Jong Jin",
+    "family_name": "SEO",
+    "created_at": "2017-10-11 04:23:45.954433",
+    "shift_count": "568",
+    "shift_violation_count": "0",
+    "vehicle_count": "2",
+    "operator_count": "2",
+    "avatar": ""
   }
 ]
