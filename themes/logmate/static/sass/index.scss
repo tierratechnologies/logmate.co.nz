@@ -3,12 +3,14 @@
 @import "colours.scss";
 
 // Import a Google Font
-@import url('https://fonts.googleapis.com/css?family=Nunito|Libre+Franklin&display=swap');
+//@import url('https://fonts.googleapis.com/css?family=Nunito|Libre+Franklin&display=swap');
 //@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri&display=swap');
-
+//@import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Overpass&display=swap');
+//@import url('https://fonts.googleapis.com/css?family=Telex&display=swap');
 // Update Bulma's global variables
-$family-sans-serif: "Nunito", sans-serif;
-//$font-family: 'Libre Franklin', sans-serif;
+$family-sans-serif: 'Overpass', sans-serif;
+$font-family: 'Overpass', sans-serif;
 
 $primary: $blue;
 //$link: $blue;
