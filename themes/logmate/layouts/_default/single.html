@@ -1,3 +1,46 @@
 {{ define "main" }}
-    {{ .Content }}
+
+<div class="container is-fluid">
+    <div class="columns is-centered is-mobile">
+
+        <div class="column is-10">
+            <section class="section">
+                <div class="content">
+                    {{ .Content }}
+                </div>
+
+            </section>
+
+        </div>
+
+        <div class="column is-2">
+            <aside class="menu">
+                {{ $cp := .File.UniqueID }}
+
+                <p class="menu-label">General</p>
+                <ul class="menu-list">
+                    {{$list := where .Site.RegularPages "Section" "about" }}
+                    {{range $p := sort $list ".Title" }}
+                    <li>
+                        <a href="{{$p.Permalink}}" class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+                <p class="menu-label">Policies</p>
+                <ul class="menu-list">
+                    {{ $list := where .Site.RegularPages "Section" "policies" }}
+                    {{range $p := sort $list ".Title" }}
+                    <li>
+                        <a href="{{$p.Permalink}}" class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </aside>
+        </div>
+
+
+    </div>
+</div>
+
 {{ end }}
+

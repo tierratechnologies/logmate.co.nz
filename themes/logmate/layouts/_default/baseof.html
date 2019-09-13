@@ -17,12 +17,17 @@
 
 </head>
 <body>
+<header class="section is-header">
 {{ block "header" . }}{{ partial "site-header.html" . }}{{ end }}
-<main role="main">
+</header>
+
+<main class="section" role="main">
     {{ block "main" . }}{{ end }}
 </main>
 
+<footer class="section">
 {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
+</footer>
 
 </body>
 </html>

@@ -8,13 +8,14 @@
         {{ $list := .Site.Data.home.logbook_legends }}
         {{ $len := (len $list) }}
         {{ range $i,$c := first 3 $list }}
-        {{ $family_name := (substr $c.family_name 0 1) }}
-        {{ $full_name := print $c.first_name " " $family_name }}
-        {{ $shift_count := float $c.shift_count }}
-        {{ $shift_violation_count := float $c.shift_violation_count }}
-        {{ $shift_count_no_violations := (sub $shift_count $shift_violation_count )}}
-        {{ $proficiency := (div $shift_count_no_violations $shift_count) }}
-        {{ $proficiency_percentage := (mul $proficiency 100) | math.Round }}
+
+            {{ $family_name := (substr $c.family_name 0 1) }}
+            {{ $full_name := print $c.first_name " " $family_name }}
+            {{ $shift_count := float $c.shift_count }}
+            {{ $shift_violation_count := float $c.shift_violation_count }}
+            {{ $shift_count_no_violations := (sub $shift_count $shift_violation_count )}}
+            {{ $proficiency := (div $shift_count_no_violations $shift_count) }}
+            {{ $proficiency_percentage := (mul $proficiency 100) | math.Round }}
 
 
         <div class="column is-2 ">
