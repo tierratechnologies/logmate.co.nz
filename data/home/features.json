@@ -1,6 +1,6 @@
 [
   {
-    "title": "NO More Paper",
+    "title": "NO more paper",
     "image": {
       "file_name": "images/np_diary_111061_000000.png"
     },
@@ -25,6 +25,15 @@
     },
     "descriptors": [
       "Intelligent Alarms give you a heads up when you need to Take a Break, End a Break, even when you need to End Work for the day."
+    ]
+  },
+  {
+    "title": "Less admin",
+    "image": {
+      "file_name": "images/np_email_2845040_000000.svg"
+    },
+    "descriptors": [
+      "Automatic delivery of logbook records to nominated Transport Service license holders."
     ]
   },
   {
