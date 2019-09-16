@@ -13,7 +13,10 @@
     <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     {{ end }}
 
-    <link rel="stylesheet" href={{"css/index.css" | absURL}}>
+    {{ $sass := resources.Get "sass/index.scss" }}
+    {{ $options := (dict "outputStyle" "compressed") }}
+    {{ $style := $sass | resources.ToCSS $options }}
+    <link rel="stylesheet" href={{ $style.Permalink }}>
 
 </head>
 <body>

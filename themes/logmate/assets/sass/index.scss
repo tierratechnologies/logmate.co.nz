@@ -1,16 +1,16 @@
 @charset "utf-8";
 
-@import "colours.scss";
+@import "colours";
 
 // Import a Google Font
 //@import url('https://fonts.googleapis.com/css?family=Nunito|Libre+Franklin&display=swap');
 //@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri&display=swap');
-//@import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Overpass&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
+//@import url('https://fonts.googleapis.com/css?family=Overpass&display=swap');
 //@import url('https://fonts.googleapis.com/css?family=Telex&display=swap');
 // Update Bulma's global variables
-$family-sans-serif: 'Overpass', sans-serif;
-$font-family: 'Overpass', sans-serif;
+$family-sans-serif: 'Barlow', sans-serif;
+$font-family: 'Barlow', sans-serif;
 
 $primary: $blue;
 //$link: $blue;
@@ -24,7 +24,7 @@ $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
 
-@import "../../node_modules/bulma/bulma.sass";
+@import "../../node_modules/bulma/bulma";
 
 // overrides
 $warning: $orange;
@@ -42,7 +42,7 @@ $pricing-item-border: .1rem solid white;
 $pricing-item-color: $grey;
 $pricing-price-background: $white;
 
-@import "../../node_modules/bulma-pricingtable/src/sass/index.sass";
+@import "../../node_modules/bulma-pricingtable/src/sass/index";
 
 // Bulma Timeline
 $timeline-marker-background-color: $white;
@@ -53,11 +53,11 @@ $timeline-icon-size: $size-5;
 $timeline-header-width: 4em;
 $dimensions: 16 24 32 48 64 96 128;
 
-@import "../../node_modules/bulma-timeline/src/sass/index.sass";
+@import "../../node_modules/bulma-timeline/src/sass/index";
 
 // Font Awesome
 $fa-font-path: "../webfonts";
-@import "./font-awesome-scss/fontawesome.scss";
-@import "./font-awesome-scss/regular.scss";
-@import "./font-awesome-scss/solid.scss";
+@import "font-awesome-scss/fontawesome";
+@import "font-awesome-scss/regular";
+@import "font-awesome-scss/solid";
 
