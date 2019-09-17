@@ -7,7 +7,7 @@
     <div class="columns is-centered is-multiline is-vcentered is-mobile has-text-centered">
         {{ $list := .Site.Data.home.logbook_legends }}
         {{ $len := (len $list) }}
-        {{ range $i,$c := first 12 $list }}
+        {{ range $i,$c := first 10 $list }}
 
             {{ $family_name := (substr $c.family_name 0 1) }}
             {{ $full_name := print $c.first_name " " $family_name }}

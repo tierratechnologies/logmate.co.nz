@@ -55,6 +55,9 @@ $dimensions: 16 24 32 48 64 96 128;
 
 @import "../../node_modules/bulma-timeline/src/sass/index";
 
+// Bulma steps
+//@import "../../node_modules/bulma-steps/dist/css/bulma-steps";
+
 // Font Awesome
 $fa-font-path: "../webfonts";
 @import "font-awesome-scss/fontawesome";

@@ -14,11 +14,14 @@
     </div>
 
     <!-- Menu-->
+    {{ $cp := .File.UniqueID }}
+
     <div id="main-nav" class="navbar-menu">
         <div class="navbar-start">
-            <a class="navbar-item" href="/about/us">About</a>
-            <a class="navbar-item" href="/pricing/">Pricing</a>
-            <a class="navbar-item" href="/products/drivers-logbook">Logbook</a>
+            {{$list := where .Site.RegularPages "Section" "products" }}
+            {{range $p := sort $list ".Title" }}
+            <a href="{{$p.Permalink}}" class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+            {{ end }}
         </div>
 
         <div class="navbar-end">
@@ -45,6 +48,7 @@
                     <a class="navbar-item">Transport Operator</a>
                 </div>
             </div>
+<!--            <a class="navbar-item" href="/about/company">About</a>-->
         </div>
 
     </div>

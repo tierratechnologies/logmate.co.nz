@@ -3,21 +3,25 @@
 <div class="container is-fluid">
     <div class="columns is-centered is-mobile">
 
-        <div class="column is-10">
-            <section class="section">
-                <div class="content">
-                    {{ .Content }}
-                </div>
-
-            </section>
-
-        </div>
-
         <div class="column is-2">
             <aside class="menu">
                 {{ $cp := .File.UniqueID }}
 
-                <p class="menu-label">General</p>
+                <p class="menu-label">Products</p>
+                <ul class="menu-list">
+                    {{$list := where .Site.RegularPages "Section" "products" }}
+                    {{range $p := sort $list ".Title" }}
+                    <li>
+                        <a href="{{$p.Permalink}}" class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+
+                <p class="menu-label">About</p>
+                <ul class="menu-list">
+
+                </ul>
+                <p class="menu-label">About</p>
                 <ul class="menu-list">
                     {{$list := where .Site.RegularPages "Section" "about" }}
                     {{range $p := sort $list ".Title" }}
@@ -36,6 +40,16 @@
                     {{ end }}
                 </ul>
             </aside>
+        </div>
+
+        <div class="column is-10">
+            <section class="section">
+                <div class="content">
+                    {{ .Content }}
+                </div>
+
+            </section>
+
         </div>
 
 

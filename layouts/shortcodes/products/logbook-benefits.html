@@ -1,0 +1,24 @@
+<div class="section">
+
+{{ range $i,$p := .Site.Data.home.features }}
+
+{{ if gt $i 0 }}
+<div class="columns">
+    <div class="column is-8">
+        <hr/>
+    </div>
+</div>
+{{ end }}
+
+<div class="columns ">
+    {{ if not (modBool $i 2) }}
+    {{ partial "home/logbook-features/feature_entry_icon.html" $p }}
+    {{ partial "home/logbook-features/feature_entry_text.html" $p }}
+    {{ else }}
+    {{ partial "home/logbook-features/feature_entry_text.html" $p }}
+    {{ partial "home/logbook-features/feature_entry_icon.html" $p }}
+    {{ end }}
+</div>
+{{end}}
+
+</div>
