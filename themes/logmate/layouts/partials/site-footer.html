@@ -1,26 +1,62 @@
-
-<div class="columns has-text-centered is-centered">
-    <div class="column is-two-thirds">
-        &copy; 2019 Tierra Technologies Limited. "logmate" is a trademark of Tierra Technologies Limited.
-    </div>
-</div>
-<div class="columns has-text-centered is-centered">
-    <div class="column is-narrow">
-        <div class="level is-mobile">
-            <div class="level-item">designed, developed &amp; operated in</div>
+<div class="columns is-centered">
+    <div class="column is-2">
+        <div class="level">
             <div class="level-item">
-                <span class="icon is-large">
-                    <img src={{"images/np_new-zealand_585823_000000.svg" | absURL}} alt="New Zealand" title="New Zealand">
-                </span>
+                <p class="content">
+                    Owned &amp; operated in
+                </p>
             </div>
-            <div class="level-item">by a cohort of</div>
             <div class="level-item">
-                <span class="icon is-medium">
-                    <img src={{"images/np_kiwi_1010_000000.svg" | absURL }} alt="Kiwi bird">
-                </span>
+                <p class="content">
+                    <span class="icon is-large">
+                        <img src={{"images/np_new-zealand_585823_000000.svg" | absURL}} alt="New Zealand"
+                             title="New Zealand">
+                    </span>
+                </p>
             </div>
         </div>
+    </div>
 
+    <div class="column is-narrow">
+        <p class="menu-label">Products</p>
+        <ul class="menu-list">
+            {{$list := where .Site.RegularPages "Section" "products" }}
+            {{range $p := sort $list ".Title" }}
+            <li>
+                <a href="{{$p.Permalink}}" class="menu-item">{{$p.Title}}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
 
+    <div class="column is-narrow">
+        <p class="menu-label">About</p>
+        <ul class="menu-list">
+            {{$list := where .Site.RegularPages "Section" "about" }}
+            {{range $p := sort $list ".Title" }}
+            <li>
+                <a href="{{$p.Permalink}}" class="menu-item">{{$p.Title}}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    <div class="column is-narrow">
+        <p class="menu-label">Policies</p>
+        <ul class="menu-list">
+            {{ $list := where .Site.RegularPages "Section" "policies" }}
+            {{range $p := sort $list ".Title" }}
+            <li>
+                <a href="{{$p.Permalink}}" class="menu-item">{{$p.Title}}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+
+<div class="columns has-text-centered is-centered">
+    <div class="column is-one-third">
+        <span class="content is-small">
+            &copy; 2019 Tierra Technologies Limited. "logmate" is a trademark of Tierra Technologies Limited.
+        </span>
     </div>
 </div>

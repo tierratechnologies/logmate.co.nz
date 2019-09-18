@@ -1,60 +1,41 @@
 {{ define "main" }}
+<section class="section">
+    <div class="container">
+        <div class="columns is-centered">
 
-<div class="container">
-    <div class="columns is-centered">
+            <div class="column">
 
-        <div class="column">
+                <div class="content">
+                    {{ .Content }}
+                </div>
 
-            <div class="content">
-                {{ .Content }}
             </div>
 
+            <div class="column is-narrow">
+                <aside class="menu">
+                    {{ $cp := .File.UniqueID }}
+
+                    <p class="menu-label">Products & Pricing</p>
+                    <ul class="menu-list">
+                        {{$list := where .Site.RegularPages "Section" "products" }}
+                        {{range $p := sort $list ".Title" }}
+                        <li>
+                            <a href="{{$p.Permalink}}"
+                               class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                        </li>
+                        {{ end }}
+
+                        <li>
+                            <a href="/pricing/">Pricing</a>
+                        </li>
+                    </ul>
+
+                </aside>
+            </div>
+
+
         </div>
-
-        <div class="column is-narrow">
-            <aside class="menu">
-                {{ $cp := .File.UniqueID }}
-
-                <p class="menu-label">Products & Pricing</p>
-                <ul class="menu-list">
-                    {{$list := where .Site.RegularPages "Section" "products" }}
-                    {{range $p := sort $list ".Title" }}
-                    <li>
-                        <a href="{{$p.Permalink}}" class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
-                    </li>
-                    {{ end }}
-
-                    <li>
-                        <a href="/pricing/">Pricing</a>
-                    </li>
-                </ul>
-
-                <p class="menu-label">About</p>
-                <ul class="menu-list">
-                    {{$list := where .Site.RegularPages "Section" "about" }}
-                    {{range $p := sort $list ".Title" }}
-                    <li>
-                        <a href="{{$p.Permalink}}" class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
-                    </li>
-                    {{ end }}
-                </ul>
-                <p class="menu-label">Policies</p>
-                <ul class="menu-list">
-                    {{ $list := where .Site.RegularPages "Section" "policies" }}
-                    {{range $p := sort $list ".Title" }}
-                    <li>
-                        <a href="{{$p.Permalink}}" class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
-                    </li>
-                    {{ end }}
-                </ul>
-            </aside>
-        </div>
-
-
-
-
     </div>
-</div>
-
+</section>
 {{ end }}
 
