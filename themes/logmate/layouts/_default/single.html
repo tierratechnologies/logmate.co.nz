@@ -1,13 +1,21 @@
 {{ define "main" }}
 
 <div class="container is-fluid">
-    <div class="columns is-centered is-mobile">
+    <div class="columns is-centered">
 
-        <div class="column is-2">
+        <div class="column">
+
+            <div class="content">
+                {{ .Content }}
+            </div>
+
+        </div>
+
+        <div class="column is-narrow">
             <aside class="menu">
                 {{ $cp := .File.UniqueID }}
 
-                <p class="menu-label">Products</p>
+                <p class="menu-label">Products & Pricing</p>
                 <ul class="menu-list">
                     {{$list := where .Site.RegularPages "Section" "products" }}
                     {{range $p := sort $list ".Title" }}
@@ -15,12 +23,12 @@
                         <a href="{{$p.Permalink}}" class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
                     </li>
                     {{ end }}
+
+                    <li>
+                        <a href="/pricing/">Pricing</a>
+                    </li>
                 </ul>
 
-                <p class="menu-label">About</p>
-                <ul class="menu-list">
-
-                </ul>
                 <p class="menu-label">About</p>
                 <ul class="menu-list">
                     {{$list := where .Site.RegularPages "Section" "about" }}
@@ -42,15 +50,7 @@
             </aside>
         </div>
 
-        <div class="column is-10">
-            <section class="section">
-                <div class="content">
-                    {{ .Content }}
-                </div>
 
-            </section>
-
-        </div>
 
 
     </div>
