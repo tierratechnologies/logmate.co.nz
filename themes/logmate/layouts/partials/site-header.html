@@ -19,11 +19,19 @@
 
         <div id="main-nav" class="navbar-menu">
             <div class="navbar-start">
-                {{$list := where .Site.RegularPages "Section" "products" }}
-                {{range $p := sort $list ".Title" }}
-                <a href="{{$p.Permalink}}"
-                   class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
-                {{ end }}
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-link">Products</a>
+
+                    <div class="navbar-dropdown">
+                        {{$list := where .Site.RegularPages "Section" "products" }}
+                        {{range $p := sort $list ".Title" }}
+                        <a href="{{$p.Permalink}}"
+                           class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                        {{ end }}
+                    </div>
+
+                </div>
+
             </div>
 
             <div class="navbar-end">
@@ -59,7 +67,7 @@
                 </div>
                 <div class="column has-text-centered">
                     <h3 class="title has-text-white-bis">I'm work for a Transport Operator and want to manage our
-                        Drivers and account..</h3>
+                        Drivers and account ...</h3>
                     <p class="">
                         <a class="button is-large is-success" href="https://operator.logmate.co.nz/account/sign_in">Operator
                             Admin</a>
@@ -96,69 +104,5 @@
         </div>
         <button class="modal-close is-large" aria-label="close"></button>
     </div>
-
-    <script type="application/javascript">
-
-        // Functions
-        function getAll(selector) {
-            return Array.prototype.slice.call(document.querySelectorAll(selector), 0);
-        }
-
-        // root element
-        var rootEl = document.documentElement;
-        var $modals = getAll('.modal');
-        var $modalButtons = getAll('.modal-button');
-        var $modalCloses = getAll('.modal-close, .modal-background')
-
-        // Modal
-        function openModal(target) {
-            var $target = document.getElementById(target);
-            rootEl.classList.add('is-clipped');
-            $target.classList.add('is-active');
-        }
-
-        function closeModals() {
-            rootEl.classList.remove('is-clipped');
-            $modals.forEach(function ($el) {
-                $el.classList.remove('is-active');
-            });
-        }
-
-        // Modal Event listeners
-
-        if ($modalButtons.length > 0) {
-            $modalButtons.forEach(function ($el) {
-                $el.addEventListener('click', function () {
-                    var target = $el.dataset.target;
-                    openModal(target);
-                });
-            });
-        }
-
-        if ($modalCloses.length > 0) {
-            $modalCloses.forEach(function ($el) {
-                $el.addEventListener('click', function () {
-                    closeModals();
-                });
-            });
-        }
-
-        // Toggle Event Listeners
-
-        var $burgers = getAll('.burger');
-
-        if ($burgers.length > 0) {
-            $burgers.forEach(function ($el) {
-                $el.addEventListener('click', function () {
-                    var target = $el.dataset.target;
-                    var $target = document.getElementById(target);
-                    $el.classList.toggle('is-active');
-                    $target.classList.toggle('is-active');
-                });
-            });
-        }
-
-
-    </script>
 
 </div>

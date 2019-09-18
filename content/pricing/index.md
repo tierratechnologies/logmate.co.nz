@@ -4,11 +4,11 @@ date: 2019-09-16T16:43:53+12:00
 draft: true
 ---
 
-<section class="section" style="padding-top: 100px; ">
-    <div class="container is-fluid has-text-centered" style="padding-bottom: 60px;">
+<section class="section">
+    <div class="container" style="padding-bottom: 60px;">
         <h2 class="title is-3">Pricing</h2>
     </div>
-    <div class="container is-fluid">
+    <div class="container">
         <div class="pricing-table">
             <div class="pricing-plan">
                 <div class="plan-header">
@@ -64,8 +64,7 @@ draft: true
                     </ol>
                 </div>
             </div>
-
         </div>
-    </div>
+    </div>    
 </section>
 

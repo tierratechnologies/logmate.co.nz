@@ -30,6 +30,36 @@
                         </li>
                     </ul>
 
+                    <p class="menu-label">About</p>
+                    <ul class="menu-list">
+                        {{$list := where .Site.RegularPages "Section" "about" }}
+                        {{range $p := sort $list ".Title" }}
+                        <li>
+                            <a href="{{$p.Permalink}}"
+                               class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                        </li>
+                        {{ end }}
+
+                        <li>
+                            <a href={{"/pricing/" | absURL}} class="{{if eq .Page.Title "Pricing"}}is-active{{end}}">Pricing</a>
+                        </li>
+                    </ul>
+
+                    <p class="menu-label">Policies</p>
+                    <ul class="menu-list">
+                        {{$list := where .Site.RegularPages "Section" "policies" }}
+                        {{range $p := sort $list ".Title" }}
+                        <li>
+                            <a href="{{$p.Permalink}}"
+                               class="{{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                        </li>
+                        {{ end }}
+
+                        <li>
+                            <a href="/pricing/">Pricing</a>
+                        </li>
+                    </ul>
+
                 </aside>
             </div>
 

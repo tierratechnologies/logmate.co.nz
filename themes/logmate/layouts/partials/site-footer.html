@@ -60,3 +60,67 @@
         </span>
     </div>
 </div>
+
+<script type="application/javascript">
+
+    // Functions
+    function getAll(selector) {
+        return Array.prototype.slice.call(document.querySelectorAll(selector), 0);
+    }
+
+    // root element
+    var rootEl = document.documentElement;
+    var $modals = getAll('.modal');
+    var $modalButtons = getAll('.modal-button');
+    var $modalCloses = getAll('.modal-close, .modal-background')
+
+    // Modal
+    function openModal(target) {
+        var $target = document.getElementById(target);
+        rootEl.classList.add('is-clipped');
+        $target.classList.add('is-active');
+    }
+
+    function closeModals() {
+        rootEl.classList.remove('is-clipped');
+        $modals.forEach(function ($el) {
+            $el.classList.remove('is-active');
+        });
+    }
+
+    // Modal Event listeners
+
+    if ($modalButtons.length > 0) {
+        $modalButtons.forEach(function ($el) {
+            $el.addEventListener('click', function () {
+                var target = $el.dataset.target;
+                openModal(target);
+            });
+        });
+    }
+
+    if ($modalCloses.length > 0) {
+        $modalCloses.forEach(function ($el) {
+            $el.addEventListener('click', function () {
+                closeModals();
+            });
+        });
+    }
+
+    // Toggle Event Listeners
+
+    var $burgers = getAll('.burger');
+
+    if ($burgers.length > 0) {
+        $burgers.forEach(function ($el) {
+            $el.addEventListener('click', function () {
+                var target = $el.dataset.target;
+                var $target = document.getElementById(target);
+                $el.classList.toggle('is-active');
+                $target.classList.toggle('is-active');
+            });
+        });
+    }
+
+
+</script>
