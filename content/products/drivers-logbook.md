@@ -5,27 +5,24 @@ draft: true
 ---
 # Drivers logbook
 
-Available on both iOS and Android phones, _logmate_ is an easy-to-use Electronic Work-time diary for all commercial drivers.
+- I want to ensure I don't exceed the work-time limits
+- I want to reduce the risk of incurring a fine due to inelligble hand-writing
+- I want to simply the admin associated with keeping a logbook and providing copies to those that I drive for
+- I want to ensure I can't loose my logbook
+- I want to be informed when I need to take a break as required by the work-time and logbook rules
+- I want to be informed when I need to take a day-off as required by the work-time and logbook rules
+- I drive a mix of vehicles and want to ensure I'm calculating the work-time limits correctly
+- I don't just drive for a living and want to ensure I keep an accurate logbook that reflects my total work-time
+- I just don't want to use a paper logbook
 
-If you drive a mix of Vehicle types e.g. SPSV, LPSV, CRANE, HEAVY, etc. no problem; _logmate_ has you covered.
+If any of the above reasons resonate, then you should give _logmate_ a try.
 
--------
+**_logmate_** is an easy-to-use Electronic Work-time diary for all commercial drivers.
 
-## Why use _logmate_ as your logbook ?
+
 
 {{<products/logbook-benefits>}}
 
-## How it works ?
-
-Operating _logmate_ is pretty straight forward once you are familiar with a couple of new concepts.
-
-### 1. Clock In; Work; then Clock Out
-
-Unlike a _Paper logbook_, _logmate_ differentiates between 'Time at work' (On Duty) and 'Time not at work' (Off Duty).
-
-Drivers need to _Clocks In_ at the beginning of a Work Shift, create the entries that reflect their _Work day_ in their logboook, then _Clock Out_.
-
-Below is a _timeline_ of an example _Work Shift_ to demonstrate: 
 
 
-{{<products/logbook-how-it-works>}}
+ 
