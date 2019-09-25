@@ -1,0 +1,19 @@
+<section class="section" style="">
+    <div class="container">
+        <div class="columns is-centered has-text-centered">
+            <div class="column is-one-third">
+                <h3 class="title">We <span class="icon red"><i class="fa fa-heart"></i></span> our Customers</h3>
+            </div>
+        </div>
+        <div class="columns is-centered is-multiline is-vcentered is-mobile">
+            {{ range $i,$c := sort .Site.Data.home.customers "name" "asc"}}
+            <div class="column is-2 is-narrow">
+                <figure class="image is-fullwidth">
+                    <img title="{{ .title }}" src="{{ .image.file_name | relURL }}" alt="{{ .title }}">
+                </figure>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+</section>

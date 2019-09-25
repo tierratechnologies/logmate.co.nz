@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
+    <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    {{ .Hugo.Generator }}
+    {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
+    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
+    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    {{ else }}
+    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    {{ end }}
+
+    {{ $sass := resources.Get "sass/index.scss" }}
+    {{ $options := (dict "outputStyle" "compressed") }}
+    {{ $style := $sass | resources.ToCSS $options }}
+    <link rel="stylesheet" href={{ $style.Permalink }}>
+
+</head>
+<body>
+<header class="is-header" style="margin-top: 40px; ">
+{{ block "header" . }}{{ partial "site-header.html" . }}{{ end }}
+</header>
+
+<main class="" role="main">
+    {{ block "main" . }}{{ end }}
+</main>
+
+<footer class="section has-background-white-bis">
+{{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
+</footer>
+
+<script>
+
+    window.intercomSettings = {
+        app_id: "c7uq6rky"
+    };
+</script>
+
+{{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/c7uq6rky';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+{{ end }}
+</body>
+</html>

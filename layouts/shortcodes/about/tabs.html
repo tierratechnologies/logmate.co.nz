@@ -1,0 +1,11 @@
+<div class="tabs">
+    <ul>
+        {{$cp := .Page.UniqueID}}
+        {{$list := where .Site.RegularPages "Section" "about" }}
+        {{range $p := sort $list ".Title" }}
+        <li class="{{if eq $p.UniqueID $cp}}is-active{{end}}">
+            <a href="{{$p.Permalink}}">{{$p.Title}}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>

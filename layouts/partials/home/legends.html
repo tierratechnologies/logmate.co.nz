@@ -1,0 +1,76 @@
+<section class="section has-background-white-bis" style="">
+    <div class="columns is-centered has-text-centered">
+        <div class="column is-one-third">
+            <h3 class="title">Logbook <span class="icon gold"><i class="fa fa-trophy"></i></span> Legends</h3>
+        </div>
+    </div>
+    <div class="columns is-centered is-multiline is-vcentered is-mobile has-text-centered">
+        {{ $list := .Site.Data.home.logbook_legends }}
+        {{ $len := (len $list) }}
+        {{ range $i,$c := first 10 $list }}
+
+            {{ $family_name := (substr $c.family_name 0 1) }}
+            {{ $full_name := print $c.first_name " " $family_name }}
+            {{ $shift_count := float $c.shift_count }}
+            {{ $shift_violation_count := float $c.shift_violation_count }}
+            {{ $shift_count_no_violations := (sub $shift_count $shift_violation_count )}}
+            {{ $proficiency := (div $shift_count_no_violations $shift_count) }}
+            {{ $proficiency_percentage := (mul $proficiency 100) | math.Round }}
+
+
+        <div class="column is-2 ">
+            <div class="card">
+                <div class="card-content">
+                    <div class="media">
+                        <div class="media-left">
+                            <figure class="image is-24x24">
+                                {{$p := "images/np_medal_811626_000000.svg"}}
+                                <img src="{{ $p | relURL }}" alt="medal">
+                            </figure>
+                        </div>
+                        <div class="media-content">
+                            <h4 class="title is-6">{{ $full_name }}</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <div class="card-footer-item">
+                        <div class="field is-grouped is-grouped-multiline is-grouped-centered">
+                            <!-- Member since -->
+                            <div class="control">
+                                <div class="tags has-addons">
+                                    <span class="tag is-dark">joined</span>
+                                    <span class="tag is-grey-light">{{ dateFormat "Jan 2006" $c.created_at}}</span>
+                                </div>
+                            </div>
+
+                            <div class="control">
+                                <div class="tags has-addons">
+                                    <span class="tag is-dark">shifts</span>
+                                    <span class="tag is-warning">{{ $shift_count }}</span>
+                                </div>
+                            </div>
+
+                            <div class="control">
+                                <div class="tags has-addons">
+                                    <span class="tag is-dark">precision</span>
+                                    <span class="tag is-success">{{ $proficiency_percentage }}%</span>
+                                </div>
+                            </div>
+
+<!--                            <div class="control">-->
+<!--                                <div class="tags has-addons">-->
+<!--                                    <span class="tag is-dark">kms</span>-->
+<!--                                    <span class="tag is-error">100,000+</span>-->
+<!--                                </div>-->
+<!--                            </div>-->
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {{ end }}
+    </div>
+</section>

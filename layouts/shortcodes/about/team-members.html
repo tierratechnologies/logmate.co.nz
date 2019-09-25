@@ -1,0 +1,23 @@
+<div class="columns is-centered is-multiline">
+    {{ range $i,$c := .Site.Data.about.team }}
+    <div class="column is-4">
+        <div class="box">
+            <article class="media">
+
+                <div class="media-content">
+                    <div class="content">
+                        <p class="title is-5">{{ $c.full_name }}</p>
+                        <p class="subtitle is-6">{{ $c.job_title | safeHTML }}</p>
+                    </div>
+                    <div class="content is-hidden-mobile">
+                        {{ range $c.biography }}
+                        <p>{{ . | safeHTML }}</p>
+                        {{ end }}
+                    </div>
+                </div>
+            </article>
+        </div>
+    </div>
+    {{ end }}
+</div>
+

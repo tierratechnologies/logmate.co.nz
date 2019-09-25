@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Uber New Zealand",
+    "type": "rideshare",
+    "image": {
+      "file_name": "images/Uber_Logo_Black.png"
+    }
+  },
+  {
+    "name": "Ola New Zealand",
+    "type": "rideshare",
+    "image": {
+      "file_name": "images/ola-logo.svg"
+    }
+  },
+  {
+    "name": "Booths Transport",
+    "type": "freight",
+    "image": {
+      "file_name": "https://www.booths.co.nz/templates/booths_main/images/booths_logo.jpg"
+    }
+  },
+  {
+    "name": "Agtrans",
+    "type": "freight",
+    "image": {
+      "file_name": "https://www.agtrans.nz/wp-content/uploads/2019/06/AGTRANS_logo_transparent_trucks.png"
+    }
+  },
+  {
+    "name": "Interwaste",
+    "type": "logistics",
+    "image": {
+      "file_name": "https://www.interwaste.co.nz/sites/default/files/iwaste_logo.png"
+    }
+  },
+  {
+    "name": "J.Swap Contractors",
+    "type": "logistics",
+    "image": {
+      "file_name": "https://jswap.co.nz/wp-content/uploads/2017/11/logo-footer.png"
+    }
+  },
+  {
+    "name": "Hireaccess Ltd",
+    "type": "logistics",
+    "image": {
+      "file_name": "http://www.hireaccess.co.nz/wp-content/uploads/2018/10/cropped-logo2.jpg"
+    }
+  },
+  {
+    "name": "Mahu City Express",
+    "type": "transport",
+    "image": {
+      "file_name": "images/mahu-city-express-logo.png"
+    }
+  },
+  {
+    "name": "Mountain Bike Station",
+    "type": "transport",
+    "image": {
+      "file_name": "https://www.mountainbikestation.co.nz/uploads/1/1/4/8/11486764/editor/mtbstation1jpg_2.jpg?1495837793"
+    }
+  },
+  {
+    "name": "Tongariro River Rafting",
+    "type": "transport",
+    "image": {
+      "file_name": "https://trr.co.nz/wp-content/uploads/2018/11/logo.png"
+    }
+  },
+  {
+    "name": "Flexi Tours NZ",
+    "type": "transport",
+    "image": {
+      "file_name": "https://www.flexitoursnz.com/wp-content/uploads/2016/12/logonew.jpg"
+    }
+  },
+  {
+    "name": "Zero C Cabs",
+    "type": "transport",
+    "image": {
+      "file_name": "https://static1.squarespace.com/static/5cbfbe01a5682746a17081c5/t/5ce26da7b6e1970001432308/1567474521408/?format=1500w"
+    }
+  },
+  {
+    "name": "Gravity Nelson",
+    "type": "transport",
+    "image": {
+      "file_name": "https://nelsonmtb.club/assets/Uploads/f7b0114b4f/gravity-nelson-logo250__FitWzExMDAsNzM0XQ.png"
+    }
+  },
+  {
+    "name": "Grape Escape",
+    "type": "transport",
+    "image": {
+      "file_name": "https://static.wixstatic.com/media/570560_512c32036b454ca3b35c9c51e41be487~mv2.png"
+    }
+  },
+  {
+    "name": "Zoomy",
+    "type": "rideshare",
+    "image": {
+      "file_name": "https://zoomy.co.nz/images/logo-zoomy.png"
+    }
+  }
+]

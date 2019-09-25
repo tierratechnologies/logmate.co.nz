@@ -1,0 +1,53 @@
+[
+  {
+    "title": "NO more paper",
+    "image": {
+      "file_name": "images/np_diary_111061_000000.png"
+    },
+    "descriptors": [
+      "Paper logbooks expose you to unnecessary risk of error and/or ommision that can lead to costly fines & loss of license.",
+      "Is it really worth it?"
+    ]
+  },
+  {
+    "title": "Informed with a glance",
+    "image": {
+      "file_name": "images/traffic-light-icon.png"
+    },
+    "descriptors": [
+      "Our Traffic light colour scheme and simplified metrics mean, at a glance, you know your current work-time status.",
+      "No squinting or mental calculations required."
+    ]
+  },
+  {
+    "title": "Notified when needed",
+    "image": {
+      "file_name": "images/np_smartphone-notice_2815100_000000.png"
+    },
+    "descriptors": [
+      "Intelligent Alarms give you a heads up when you need to Take a Break, Resume work, even when you need to End Work for the day."
+    ]
+  },
+  {
+    "title": "Streamline admin",
+    "image": {
+      "file_name": "images/np_email_2845040_000000.svg"
+    },
+    "descriptors": [
+      "Automatic delivery of logbook records to nominated Transport Service license holders.",
+      "Access your historic logbook records at the push of a button"
+    ]
+  },
+  {
+    "title": "Reduce Stress",
+    "image": {
+      "file_name": "images/np_lost-and-found_968821_000000.png"
+    },
+    "descriptors": [
+      "Did I bring my logbook ?",
+      "Am I legal ?",
+      "Uncertain about how the rules apply ?",
+      "Eliminate the anxiety that comes with having your logbook scrutinized and how the rules apply, in real-time"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "logmate",
+  "version": "1.0.0",
+  "description": "## Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bulma": "^0.7.5",
+    "bulma-pricingtable": "^0.2.0",
+    "bulma-steps": "^2.2.1",
+    "bulma-timeline": "^3.0.4"
+  }
+}

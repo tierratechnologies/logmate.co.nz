@@ -1,0 +1,61 @@
+<div class="container margin-biggest">
+
+{{ range $i,$p := .Site.Data.products.logbook_features }}
+
+{{ if gt $i 0 }}
+<div class="columns">
+    <div class="column">
+        <hr/>
+    </div>
+</div>
+{{ end }}
+
+<div class="columns ">
+    {{ if not (modBool $i 2) }}
+    <div class="column has-text-centered">
+        <div class="columns is-centered is-mobile">
+            <div class="column is-narrow">
+                <figure class="image is-96x96">
+                    <img title="{{ $p.title }}" src="{{ $p.image.file_name | relURL }}" alt="{{ $p.title }}">
+                </figure>
+            </div>
+        </div>
+    </div>
+
+    <div class="column has-text-centered">
+        <div class="container">
+            <h4 class="title is-4">{{ $p.title }}</h4>
+            {{ range $p.descriptors }}
+            <p>{{ . | safeHTML }}</p>
+            {{ end }}
+        </div>
+    </div>
+
+
+    {{ else }}
+
+    <div class="column has-text-centered">
+        <div class="container">
+            <h4 class="title is-4">{{ $p.title }}</h4>
+            {{ range $p.descriptors }}
+            <p>{{ . | safeHTML }}</p>
+            {{ end }}
+        </div>
+    </div>
+
+
+    <div class="column has-text-centered">
+        <div class="columns is-centered is-mobile">
+            <div class="column is-narrow">
+                <figure class="image is-96x96">
+                    <img title="{{ $p.title }}" src="{{ $p.image.file_name | relURL }}" alt="{{ $p.title }}">
+                </figure>
+            </div>
+        </div>
+    </div>
+
+    {{ end }}
+</div>
+{{end}}
+
+</div>

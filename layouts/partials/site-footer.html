@@ -1,0 +1,121 @@
+<div class="columns is-centered has-text-centered">
+    <div class="column is-3">
+        <p class="content">
+            Owned &amp; operated<br/>by <span class="has-text-weight-bold">Tierra Technologies Ltd</span>
+        </p>
+        <p>
+            <span class="icon is-large">
+            <img src={{"images/np_new-zealand_585823_000000.svg" | absURL}} alt="New Zealand"
+                 title="New Zealand">
+        </span>
+        </p>
+
+    </div>
+
+    <div class="column is-narrow">
+        <p class="menu-label">Products</p>
+        <ul class="menu-list">
+            {{$list := where .Site.RegularPages "Section" "products" }}
+            {{range $p := sort $list ".Title" }}
+            <li>
+                <a href="{{$p.Permalink}}" class="menu-item">{{$p.Title}}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+
+    <div class="column is-narrow">
+        <p class="menu-label">About</p>
+        <ul class="menu-list">
+            {{$list := where .Site.RegularPages "Section" "about" }}
+            {{range $p := sort $list ".Title" }}
+            <li>
+                <a href="{{$p.Permalink}}" class="menu-item">{{$p.Title}}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    <div class="column is-narrow">
+        <p class="menu-label">Policies</p>
+        <ul class="menu-list">
+            {{ $list := where .Site.RegularPages "Section" "policies" }}
+            {{range $p := sort $list ".Title" }}
+            <li>
+                <a href="{{$p.Permalink}}" class="menu-item">{{$p.Title}}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+
+<div class="columns has-text-centered is-centered">
+    <div class="column is-one-third">
+        <span class="content is-small">
+            &copy; 2019 Tierra Technologies Limited. "logmate" is a trademark of Tierra Technologies Limited.
+        </span>
+    </div>
+</div>
+
+<script type="application/javascript">
+
+    // Functions
+    function getAll(selector) {
+        return Array.prototype.slice.call(document.querySelectorAll(selector), 0);
+    }
+
+    // root element
+    var rootEl = document.documentElement;
+    var $modals = getAll('.modal');
+    var $modalButtons = getAll('.modal-button');
+    var $modalCloses = getAll('.modal-close, .modal-background')
+
+    // Modal
+    function openModal(target) {
+        var $target = document.getElementById(target);
+        rootEl.classList.add('is-clipped');
+        $target.classList.add('is-active');
+    }
+
+    function closeModals() {
+        rootEl.classList.remove('is-clipped');
+        $modals.forEach(function ($el) {
+            $el.classList.remove('is-active');
+        });
+    }
+
+    // Modal Event listeners
+
+    if ($modalButtons.length > 0) {
+        $modalButtons.forEach(function ($el) {
+            $el.addEventListener('click', function () {
+                var target = $el.dataset.target;
+                openModal(target);
+            });
+        });
+    }
+
+    if ($modalCloses.length > 0) {
+        $modalCloses.forEach(function ($el) {
+            $el.addEventListener('click', function () {
+                closeModals();
+            });
+        });
+    }
+
+    // Toggle Event Listeners
+
+    var $burgers = getAll('.burger');
+
+    if ($burgers.length > 0) {
+        $burgers.forEach(function ($el) {
+            $el.addEventListener('click', function () {
+                var target = $el.dataset.target;
+                var $target = document.getElementById(target);
+                $el.classList.toggle('is-active');
+                $target.classList.toggle('is-active');
+            });
+        });
+    }
+
+
+</script>

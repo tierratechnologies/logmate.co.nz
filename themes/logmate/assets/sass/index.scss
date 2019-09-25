@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+@import "colours";
+
+.margin-biggest {
+  margin-top: 160px;
+  margin-bottom: 160px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+// Import a Google Font
+//@import url('https://fonts.googleapis.com/css?family=Nunito|Libre+Franklin&display=swap');
+//@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
+//@import url('https://fonts.googleapis.com/css?family=Overpass&display=swap');
+//@import url('https://fonts.googleapis.com/css?family=Telex&display=swap');
+// Update Bulma's global variables
+$family-sans-serif: 'Barlow', sans-serif;
+$font-family: 'Barlow', sans-serif;
+
+$primary: $blue;
+//$link: $blue;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+
+// Bulma
+$body-background-color: $white;
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+
+@import "../../node_modules/bulma/bulma";
+
+// overrides
+$warning: $orange;
+
+
+
+// Bulma PricingTables
+$pricing-plan-border: .1rem solid $white-ter;
+$pricing-plan-border-radius: $radius;
+$pricing-plan-active-shadow: 0 8px 12px 0 rgba($grey, 0.2);
+$pricing-plan-active-transform: scale(1.05);
+$pricing-header-background: $white;
+$pricing-item-background: $white-ter;
+$pricing-item-border: .1rem solid white;
+$pricing-item-color: $grey;
+$pricing-price-background: $white;
+
+@import "../../node_modules/bulma-pricingtable/src/sass/index";
+
+// Bulma Timeline
+$timeline-marker-background-color: $white;
+$timeline-marker-border: .1em solid $grey-light;
+$timeline-line: .1rem solid $grey-light;
+$timeline-content-padding: 1em 0 0 2em;
+$timeline-icon-size: $size-5;
+$timeline-header-width: 4em;
+$dimensions: 16 24 32 48 64 96 128;
+
+@import "../../node_modules/bulma-timeline/src/sass/index";
+
+// Bulma steps
+//@import "../../node_modules/bulma-steps/dist/css/bulma-steps";
+
+// Font Awesome
+$fa-font-path: "../webfonts";
+@import "font-awesome-scss/fontawesome";
+@import "font-awesome-scss/regular";
+@import "font-awesome-scss/solid";
+
