@@ -6,12 +6,5 @@ draft: false
 
 # Pricing
 
-NO hidden prices.
+{{<pricing/pricing-plans>}}
 
-NO fixed term contracts.
-
-Simple. Transparent Pricing plans that are flexible and easy to understand.
-
-{{<pricing/logbook-plan>}}
-
-{{<pricing/operator-plan>}}

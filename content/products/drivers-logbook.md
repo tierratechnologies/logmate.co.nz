@@ -6,9 +6,7 @@ draft: false
 
 # Drivers Logbook
 
-{{< products/hero >}}
-
-## Download
+{{< products/logbook-hero >}}
 
 {{< products/logbook-app-store-buttons >}}
 
