@@ -18,7 +18,7 @@ Thanks for choosing Logmate as your Electronic Work Diary system. To provide you
 
 ### Registration data
 
-When you sign up ("signup" ,"register", "create an account", "join") to be a User of the System, we may collect information we ask you for, like your full legal name, e-mail address, date of birth, password, drivers license and/or transport service license number/version/expiry and mobile phone number. We may store this information so that it can be used for the purposes explained in throughout this policy document.
+When you sign up ("signup" ,"register", "create an account", "join") to be a User of the System, we may collect information we ask you for, like your full legal name, e-mail address, date of birth, password, drivers license and/or transport service license number/version/expiry and mobile phone number. We may store this information so that it can be used for the purposes explained throughout this policy document.
 
 ### Usage & Logbook data
 
@@ -28,7 +28,7 @@ When you use the System, we automatically collect certain information, including
 2.  Technical data, which may include your device or computer make/model/type/version, operating system make/model/type/version, network connection, IP address, application version, browser version/make/model/type.
 3.  We will record geographical location data to assist with the recording of work-time and vehicle data. We may track your location regularly; sending latitude and longitude details to the system when driving a vehicle operated by your employer (the TSL holder for the Vehicle being driven), and sends latitude and longitude details to the system with each work activity when submitted.
 
-We may use cookies and similar technologies to collect this information and you can learn more about such use at the bottom of this Privacy Policy. We may store this information so that is can be used for the purposes explained in Section XXXX.
+We may use cookies and similar technologies to collect this information and you can learn more about such use at the bottom of this Privacy Policy. We may store this information so that is can be used for the purposes explained throughout this policy document.
 
 ## Other services
 
@@ -36,7 +36,7 @@ You may integrate your Logmate account with third party services ("Other Integra
 
 ## Payment data
 
-When you sign up for a Trial or any of our Paid Subscriptions (as defined in the [Terms and Conditions of Use](terms.html)), or make other purchases through the Service, your credit card information and other financial data that we need to process your payment are collected and stored by a Third Party Payment Processors. We may collect some limited information, such as your postal code, mobile number and details of your transaction history.
+When you sign up for a Trial or any of our Paid Subscriptions (as defined in the [Terms and Conditions of Use](/policies/terms/)), or make other purchases through the Service, your credit card information and other financial data that we need to process your payment are collected and stored by a Third Party Payment Processors. We may collect some limited information, such as your postal code, mobile number and details of your transaction history.
 
 In addition, the third party payment processors generally provide us with some limited information related to you, such as a unique token that enables you to make additional purchases using the information they've stored, and your card's type, expiration date, and last four digits. If you choose to pay by invoice, Logmate may need to collect and transfer additional information, like your name, date of birth and phone number, to our invoicing service provider to enable credit checks and send you invoices. The use of your data by our invoicing service provider is subject to its privacy policies.
 
@@ -60,7 +60,7 @@ We may share the information we collect, including your personal information, as
 
 ### Sharing with other services
 
-If you connect your Logmate account to any Other Integrated Service, the default setting is generally that Logmate automatically shares your activity and activity-related stories with that service, including your Location. You understand that such information may be attributed to your account on the Other Integrated Service and may be published on such service. See section XXXX below to learn how you can disable sharing of information on Other Integrated Services.
+If you connect your Logmate account to any Other Integrated Service, the default setting is generally that Logmate automatically shares your activity and activity-related stories with that service, including your Location. You understand that such information may be attributed to your account on the Other Integrated Service and may be published on such service. See section *Sharing with Third Party Services* below to learn how you can disable sharing of information on Other Integrated Services.
 
 In order to connect to a third party service, you will be prompted to enter your access credentials for that third party service. Logmate may store your username and an access token or similar credentials obtained from the third party service, so that you are able to share particular items of content, on that third party service, on an individual basis, without entering your access credentials again.
 
