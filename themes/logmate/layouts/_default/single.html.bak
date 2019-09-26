@@ -26,7 +26,7 @@
                         {{ end }}
 
                         <li>
-                            <a href={{"/pricing/" | absURL}} class="{{if eq .Page.Title "Pricing"}}is-active{{end}}">Pricing</a>
+                            <a href={{"/pricing/" | relURL}} class="{{if eq .Page.Title "Pricing"}}is-active{{end}}">Pricing</a>
                         </li>
                     </ul>
 

@@ -3,7 +3,7 @@
         <!-- Logo -->
         <div class="navbar-brand">
             <a class="navbar-item" href="{{ relURL ($.Site.BaseURL) }}">
-                <img src={{"images/logo-black.jpg" | absURL }} alt="logmate"/>
+                <img src={{"images/logo-black.jpg" | relURL }} alt="logmate"/>
             </a>
 
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
@@ -25,12 +25,12 @@
                     <div class="navbar-dropdown">
                         {{$list := where .Site.RegularPages "Section" "products" }}
                         {{range $p := sort $list ".Title" }}
-                        <a href="{{$p.Permalink}}"
+                        <a href="{{$p.RelPermalink}}"
                            class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
                         {{ end }}
 
 
-                        <a href={{"/pricing/" | absURL}} class="navbar-item {{if eq .Page.Title "Pricing"}}is-active{{end}}">Pricing</a>
+                        <a href={{"/pricing/" | relURL}} class="navbar-item {{if eq .Page.Title "Pricing"}}is-active{{end}}">Pricing</a>
 
 
                     </div>
