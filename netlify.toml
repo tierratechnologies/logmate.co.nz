@@ -13,12 +13,17 @@ command = "npm --prefix themes/logmate/ i && hugo"
     status = 301
 
 [[redirects]]
+    from = "/operators"
+    to = "/"
+    status = 301
+
+[[redirects]]
     from = "/media"
     to = "/"
     status = 301
 
 [[redirects]]
-    from = "/terms"
+    from = "/terms.html"
     to = "/policies/terms/"
     status = 301
 
@@ -33,6 +38,7 @@ command = "npm --prefix themes/logmate/ i && hugo"
     status = 301
 
 [[redirects]]
-    from = "/about.html"
-    to = "/about/company/"
+    from = "/refunds.html"
+    to = "/policies/refunds/"
     status = 301
+
