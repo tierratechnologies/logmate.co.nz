@@ -1,3 +1,12 @@
 [build]
 publish = "public"
 command = "npm --prefix themes/logmate/ i && hugo"
+
+[[redirects]]
+    from = "https://logmate.netlify.com/*"
+    to = "https://logmate.co.nz/:splat"
+    status = 301
+
+[[redirects]]
+    from = "/drivers"
+    to = "/products/drivers-logbook/"
