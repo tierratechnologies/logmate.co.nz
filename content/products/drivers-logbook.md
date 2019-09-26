@@ -6,8 +6,6 @@ draft: false
 
 # Drivers Logbook
 
-{{< products/logbook-hero >}}
-
 {{< products/logbook-app-store-buttons >}}
 
 ## Key Benefits

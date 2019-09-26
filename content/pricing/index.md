@@ -8,3 +8,7 @@ draft: false
 
 {{<pricing/pricing-plans>}}
 
+
+## Accounts
+
+{{<pricing/account-types>}}

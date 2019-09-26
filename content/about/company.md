@@ -13,7 +13,7 @@ We have team members in Japan, USA, India and Gulf Harbour.
 ### Big ambitions
 
 Our aim is to never stop striving to improve what we offer and how we go about it. From the outset, we have always looked
-and things in our own way.
+at things in our own way.
 
 Our plans for the platform are immense; we keep focus by tackling things in small chunks. We are getting better at it and
 I'm sure all of our loyal customers will attest to the lessons learned and improvements that have been made, particularly recently.
