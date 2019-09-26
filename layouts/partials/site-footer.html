@@ -18,7 +18,7 @@
             {{$list := where .Site.RegularPages "Section" "products" }}
             {{range $p := sort $list ".Title" }}
             <li>
-                <a href="{{$p.Permalink}}" class="menu-item">{{$p.Title}}</a>
+                <a href="{{$p.RelPermalink}}" class="menu-item">{{$p.Title}}</a>
             </li>
             {{ end }}
         </ul>
@@ -30,7 +30,7 @@
             {{$list := where .Site.RegularPages "Section" "about" }}
             {{range $p := sort $list ".Title" }}
             <li>
-                <a href="{{$p.Permalink}}" class="menu-item">{{$p.Title}}</a>
+                <a href="{{$p.RelPermalink}}" class="menu-item">{{$p.Title}}</a>
             </li>
             {{ end }}
         </ul>
@@ -41,7 +41,7 @@
             {{ $list := where .Site.RegularPages "Section" "policies" }}
             {{range $p := sort $list ".Title" }}
             <li>
-                <a href="{{$p.Permalink}}" class="menu-item">{{$p.Title}}</a>
+                <a href="{{$p.RelPermalink}}" class="menu-item">{{$p.Title}}</a>
             </li>
             {{ end }}
         </ul>
