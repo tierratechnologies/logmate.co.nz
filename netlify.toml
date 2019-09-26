@@ -10,3 +10,24 @@ command = "npm --prefix themes/logmate/ i && hugo"
 [[redirects]]
     from = "/drivers"
     to = "/products/drivers-logbook/"
+    status = 301
+
+[[redirects]]
+    from = "/media"
+    to = "/"
+    status = 301
+
+[[redirects]]
+    from = "/terms"
+    to = "/policies/terms/"
+    status = 301
+
+[[redirects]]
+    from = "/privacy"
+    to = "/policies/privacy/"
+    status = 301
+
+[[redirects]]
+    from = "/mobile"
+    to = "/policies/mobile/"
+    status = 301
