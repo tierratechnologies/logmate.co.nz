@@ -34,17 +34,18 @@
 
                     </div>
 
-                    <div class="navbar-item has-dropdown is-hoverable">
+                </div>
 
-                        <a class="navbar-link">About</a>
-                        <div class="navbar-dropdown">
-                            {{$list := where .Site.RegularPages "Section" "about" }}
-                            {{range $p := sort $list ".Title" }}
-                            <a href="{{$p.RelPermalink}}"
-                               class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
-                            {{ end }}
+                <div class="navbar-item has-dropdown is-hoverable">
 
-                        </div>
+                    <a class="navbar-link">About</a>
+                    <div class="navbar-dropdown">
+                        {{$list := where .Site.RegularPages "Section" "about" }}
+                        {{range $p := sort $list ".Title" }}
+                        <a href="{{$p.RelPermalink}}"
+                           class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                        {{ end }}
+
                     </div>
                 </div>
 
