@@ -13,7 +13,7 @@ command = "npm --prefix themes/logmate/ i && hugo"
     status = 301
 
 [[redirects]]
-    from = "/operators"
+    from = "/operators.html"
     to = "/"
     status = 301
 
