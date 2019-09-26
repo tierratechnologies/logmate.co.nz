@@ -17,28 +17,28 @@
     "name": "Booths Transport",
     "type": "freight",
     "image": {
-      "file_name": "https://www.booths.co.nz/templates/booths_main/images/booths_logo.jpg"
+      "file_name": "images/booths_logo.jpg"
     }
   },
   {
     "name": "Agtrans",
     "type": "freight",
     "image": {
-      "file_name": "https://www.agtrans.nz/wp-content/uploads/2019/06/AGTRANS_logo_transparent_trucks.png"
+      "file_name": "images/AGTRANS_logo_transparent_trucks.png"
     }
   },
   {
     "name": "Interwaste",
     "type": "logistics",
     "image": {
-      "file_name": "https://www.interwaste.co.nz/sites/default/files/iwaste_logo.png"
+      "file_name": "images/iwaste_logo.png"
     }
   },
   {
     "name": "J.Swap Contractors",
     "type": "logistics",
     "image": {
-      "file_name": "https://jswap.co.nz/wp-content/uploads/2017/11/logo-footer.png"
+      "file_name": "images/jswap-logo-footer.png"
     }
   },
   {
@@ -59,35 +59,35 @@
     "name": "Mountain Bike Station",
     "type": "transport",
     "image": {
-      "file_name": "https://www.mountainbikestation.co.nz/uploads/1/1/4/8/11486764/editor/mtbstation1jpg_2.jpg?1495837793"
+      "file_name": "inmages/mtbstation1jpg_2.jpg"
     }
   },
   {
     "name": "Tongariro River Rafting",
     "type": "transport",
     "image": {
-      "file_name": "https://trr.co.nz/wp-content/uploads/2018/11/logo.png"
+      "file_name": "images/trr-logo.png"
     }
   },
   {
     "name": "Flexi Tours NZ",
     "type": "transport",
     "image": {
-      "file_name": "https://www.flexitoursnz.com/wp-content/uploads/2016/12/logonew.jpg"
+      "file_name": "images/flexi-tours-logonew.jpg"
     }
   },
   {
     "name": "Zero C Cabs",
     "type": "transport",
     "image": {
-      "file_name": "https://static1.squarespace.com/static/5cbfbe01a5682746a17081c5/t/5ce26da7b6e1970001432308/1567474521408/?format=1500w"
+      "file_name": "images/zeroc-world-logo.png"
     }
   },
   {
     "name": "Gravity Nelson",
     "type": "transport",
     "image": {
-      "file_name": "https://nelsonmtb.club/assets/Uploads/f7b0114b4f/gravity-nelson-logo250__FitWzExMDAsNzM0XQ.png"
+      "file_name": "images/gravity-nelson-logo250__FitWzExMDAsNzM0XQ.png"
     }
   },
   {
