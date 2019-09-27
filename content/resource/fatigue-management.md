@@ -4,7 +4,7 @@ date: 2019-09-27T12:38:09+12:00
 draft: false
 ---
 
-## What is fatigue?
+# What is fatigue?
  
 > Fatigue is tiredness, weariness or exhaustion.
 >
@@ -14,7 +14,7 @@ draft: false
 >
 > - [WorkSafe - Fatigue guick guide](https://worksafe.govt.nz/topic-and-industry/work-related-health/fatigue/fatigue-quick-guide/)
     
-# Fatigue management
+## Fatigue management
 
 > "Restricting work-time helps reduce the risk of fatigue in drivers of commercial and heavy motor vehicles."
 >
