@@ -8,6 +8,11 @@ command = "npm --prefix themes/logmate/ i && hugo"
     status = 301
 
 [[redirects]]
+    from = "/about/"
+    to = "/about/company/"
+    status = 301
+
+[[redirects]]
     from = "/drivers"
     to = "/products/drivers-logbook/"
     status = 301
