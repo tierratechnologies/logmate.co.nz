@@ -15,7 +15,7 @@
       "file_name": "images/traffic-light-icon.png"
     },
     "descriptors": [
-      "Our Traffic light colour scheme and simplified metrics mean, at a glance, you know your current work-time status.",
+      "Our Traffic light colour scheme and simplified metrics enable you know your current work-time status.",
       "No squinting or mental calculations required."
     ]
   },
@@ -25,7 +25,7 @@
       "file_name": "images/np_smartphone-notice_2815100_000000.png"
     },
     "descriptors": [
-      "Intelligent Alarms give you a heads up when you need to Take a Break, Resume work, even when you need to End Work for the day."
+      "Intelligent Alarms give you a heads-up when you need to Take a Break or can Resume work. They even let you known when you need to End Work for the day."
     ]
   },
   {
@@ -34,7 +34,7 @@
       "file_name": "images/np_email_2845040_000000.svg"
     },
     "descriptors": [
-      "Automatic delivery of logbook records to nominated Transport Service license holders.",
+      "Automatic delivery of logbook records to your Transport Service License holders.",
       "Access your historic logbook records at the push of a button"
     ]
   },
@@ -45,8 +45,8 @@
     },
     "descriptors": [
       "Did I bring my logbook ?",
-      "Am I legal ?",
-      "Uncertain about how the rules apply ?",
+      "Am I legal to work ?",
+      "How do the rules apply when I drive a mix of vehicle classifications ?",
       "Eliminate the anxiety that comes with having your logbook scrutinized and how the rules apply, in real-time"
     ]
   }
