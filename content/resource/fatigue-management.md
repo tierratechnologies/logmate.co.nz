@@ -12,7 +12,7 @@ draft: false
 >
 > - [WorkSafe - Fatigue - What is the problem](https://worksafe.govt.nz/topic-and-industry/work-related-health/fatigue/fatigue-whats-the-problem/)
 >
-> - [WorkSafe - Fatigue guick guide](https://worksafe.govt.nz/topic-and-industry/work-related-health/fatigue/fatigue-quick-guide/)
+> - [WorkSafe - Fatigue quick guide](https://worksafe.govt.nz/topic-and-industry/work-related-health/fatigue/fatigue-quick-guide/)
     
 ## Fatigue management
 
@@ -33,17 +33,17 @@ draft: false
 ## How does Fatigue affect me as a driver?
 
 > - Slows my ability to react
-> - Reduces my ability to concerntrate
-> - Leads to poor risk judgement calls
+> - Reduces my ability to concentrate
+> - Leads to poor risk judgement 
 > - Results in excessive speed variations
-> - Greater change of drifting over the centre-line
+> - Greater chance of drifting over the centre-line
 
 ## How do I recognise the signs of Fatigue ?
 
 > - Restlessness
 > - Frequent blinking of eyes
 > - Yawning
-> - Late breaking
+> - Late braking
 > - Forgetting recent odometer reading
 > - General drowsiness
 
@@ -58,8 +58,8 @@ draft: false
 ## More resources on the effects of Fatigue
 
 - [Ministry of Transport] (https://www.transport.govt.nz/assets/Uploads/Research/Documents/0f5a557b3c/Fatigue-2017.pdf)
-- [NZTA - Fatigue ](https://www.nzta.govt.nz/safety/driving-safely/fatigue/)
-- [NZTA - Fatigue Infographic](https://www.nzta.govt.nz/safety/driving-safely/fatigue/fatigue-resources/fatigue-infographic/)
+- [NZTA - Fatigue](https://www.nzta.govt.nz/safety/driving-safely/fatigue/)
+- [NZTA - Fatigue Info-graphic](https://www.nzta.govt.nz/safety/driving-safely/fatigue/fatigue-resources/fatigue-infographic/)
 - [NZTA - Review on driver fatigue among drivers in the general public](https://www.nzta.govt.nz/assets/resources/research/reports/342/docs/342.pdf)
 - [NZTA - Analysis of Fatigue Levels in NZ Taxi and Local-Rute Truck Drivers](https://www.nzta.govt.nz/assets/resources/fatigue-levels-in-taxi-and-local-route-drivers/docs/taxi-local-route-fatigue.pdf)
 - [NZTA - Health and fatigue](https://www.nzta.govt.nz/assets/resources/heavy-learner/health-and-fatigue/docs/health-and-fatigue.pdf)
