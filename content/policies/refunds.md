@@ -1,5 +1,8 @@
 ---
-title: "Refunds"
+title: Refunds
+description: Our policy relating to providing refunds
+keywords:
+- refund policy
 date: 2019-09-10T16:20:11+12:00
 draft: false
 ---

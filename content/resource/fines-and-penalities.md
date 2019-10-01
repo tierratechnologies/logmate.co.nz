@@ -1,5 +1,12 @@
 ---
-title: "Logbook Fines"
+title: Logbook Fines
+description: what is at risk for those responsible for keeping and monitoring a drivers work-time
+keywords:
+- logbook fines
+- work-time infringement penalties
+- how much can a driver be fined
+- who is responsible for ensuring drivers keep an accurate logbook
+- how does the HSWA affect me
 date: 2019-09-27T14:51:52+12:00
 draft: false
 ---

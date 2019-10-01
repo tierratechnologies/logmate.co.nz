@@ -1,5 +1,8 @@
 ---
-title: "Terms"
+title: Terms
+description: Our terms of use policy that outlines both parties responsibilities and the nature of services we provide
+keywords:
+- terms of use
 date: 2019-09-10T16:20:00+12:00
 draft: false
 ---

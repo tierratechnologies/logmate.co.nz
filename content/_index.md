@@ -1,7 +1,6 @@
 ---
-title: nz transport agency approved electronic logbook platform
+title: nz transport agency approved electronic work-time compliance platform
 description: simplify your work-time compliance process and record keeping today
-
 keywords:
 - electronic drivers logbook
 - logbook app

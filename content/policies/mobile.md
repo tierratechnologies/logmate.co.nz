@@ -1,5 +1,10 @@
 ---
-title: "Mobile"
+title: Mobile
+description: Our policy relating to the use of the mobile application and services
+keywords: 
+- mobile policy
+- mobile application use
+- use of logmate mobile app
 date: 2019-09-10T16:20:04+12:00
 draft: false
 ---

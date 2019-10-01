@@ -1,5 +1,10 @@
 ---
-title: "Company"
+title: Company
+description: Tierra Technologies owns and operates the logmate platform. An NZTA approved alternate work-time & compliance tool
+keywords:
+- logmate owners
+- tierra technologies
+- operators of logmate
 date: 2019-09-11T10:29:16+12:00
 draft: false
 ---

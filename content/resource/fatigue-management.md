@@ -1,5 +1,11 @@
 ---
-title: "Fatigue Management"
+title: Fatigue Management
+description: what is fatigue and how does it affect you as a commercial driver?
+keywords:
+- fatigue
+- what is fatigue
+- fatigue myths
+- fatigue impacts on drivers 
 date: 2019-09-27T12:38:09+12:00
 draft: false
 ---

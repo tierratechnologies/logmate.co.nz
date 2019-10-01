@@ -1,5 +1,10 @@
 ---
-title: "Privacy"
+title: Privacy
+description: Our policy relating to privacy and the way we use data about you
+keywords:
+- privacy policy
+- how we use data
+-what data we store about you
 date: 2019-09-10T16:20:32+12:00
 draft: false
 ---
