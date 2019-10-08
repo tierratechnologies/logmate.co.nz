@@ -20,6 +20,15 @@ The **Digital Logbook App** caters to all Drivers, Transport Operators and Enfor
 The App itself simplifies keeping an accurate logbook; something that is error prone at the best of times. It also alleviates the admin associated with
 the distribution of completed Shift entries to all Employers and Facilitators.
 
+## Dedicated Admin
+
+As a Driver you will have access to your own [Driver Admin portal](https://driver.logmate.co.nz), which will allow you to:
+
+- View real-time logbook compliance information
+- Easily search and export your logbook history
+- Manage your vehicles and operators
+- Manage your account, subscription and billing
+
 ## Key Benefits
 
 {{< products/logbook-benefits >}}

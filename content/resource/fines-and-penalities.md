@@ -11,7 +11,7 @@ date: 2019-09-27T14:51:52+12:00
 draft: false
 ---
 
-# Fine and Penalties
+# Fines and Penalties
 
 The regulations surrounding compliance is _NO Joke_.
  

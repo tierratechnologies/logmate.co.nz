@@ -13,7 +13,7 @@ draft: false
 
 One plan does it all!
 
-Whether you are a Driver or Transport Operator, simply create an account and you will have access to all **_logmate's_** features.
+Whether you are a **Driver** or **Transport Operator**, simply create an account and you will have access to all **_Logmate_** features.
 
 {{<pricing/account-types>}}
 
