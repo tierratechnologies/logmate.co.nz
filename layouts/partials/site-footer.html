@@ -141,6 +141,9 @@
         var $target = document.getElementById(target);
         rootEl.classList.add('is-clipped');
         $target.classList.add('is-active');
+
+        // check if current position is below fold
+        window.scrollTo(0,0);
     }
 
     function closeModals() {
