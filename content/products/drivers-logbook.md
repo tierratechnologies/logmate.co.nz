@@ -12,11 +12,22 @@ draft: false
 
 # Drivers Logbook
 
-{{< products/logbook-app-store-buttons >}}
+**Logmate** is an NZ Transport Agency approved Electronic logbook and compliance platform. Our goal
+is to simplify your documentation and legal requirements so you can spend your time more efficiently.
+
+The **Digital Logbook App** caters to all Drivers, Transport Operators and Enforcement Officers to make everyones job a litte easier.
+
+The App itself simplifies keeping an accurate logbook; something that is error prone at the best of times. It also alleviates the admin associated with
+the distribution of completed Shift entries to all Employers and Facilitators.
 
 ## Key Benefits
 
 {{< products/logbook-benefits >}}
+
+## Find out more
+
+Head along to our online [User Guides and Resources portal](https://help.logmate.co.nz) and discover more about how **Logmate** can simplify  
+your Work-time recording & compliance needs today.
 
 
 

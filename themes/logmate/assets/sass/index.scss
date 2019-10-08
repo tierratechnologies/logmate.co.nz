@@ -9,6 +9,12 @@
   padding-bottom: 60px;
 }
 
+.margin-moderate {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
 // Import a Google Font
 //@import url('https://fonts.googleapis.com/css?family=Nunito|Libre+Franklin&display=swap');
 //@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri&display=swap');
@@ -36,8 +42,6 @@ $input-shadow: none;
 // overrides
 $warning: $orange;
 
-
-
 // Bulma PricingTables
 $pricing-plan-border: .1rem solid $white-ter;
 $pricing-plan-border-radius: $radius;
@@ -63,7 +67,11 @@ $dimensions: 16 24 32 48 64 96 128;
 @import "../../node_modules/bulma-timeline/src/sass/index";
 
 // Bulma steps
-//@import "../../node_modules/bulma-steps/dist/css/bulma-steps";
+@import "../../node_modules/bulma-o-steps/bulma-steps.scss";
+
+$steps-default-color: $primary;
+$steps-completed-color: $primary;
+$steps-active-color: $primary;
 
 // Font Awesome
 $fa-font-path: "../webfonts";
