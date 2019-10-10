@@ -1,5 +1,5 @@
 ---
-title: Logbook Fines
+title: Fines & Penalties
 description: what is at risk for those responsible for keeping and monitoring a drivers work-time
 keywords:
 - logbook fines
@@ -15,7 +15,7 @@ draft: false
 
 The regulations surrounding compliance is _NO Joke_.
  
-> Use of a paper logbook is prone to errors and omissions.
+>  **Fact**: Use of a paper logbook is prone to errors and omissions.
 > 
 > Are you sure spending a few extra dollars each month is not worth the assurance
 > that comes with using an Electronic logbook? 
@@ -31,7 +31,7 @@ Failed to produce a logbook | $500 | 35
 
 Source: [NZTA website](https://www.nzta.govt.nz/commercial-driving/commercial-safety/work-time-and-logbook-requirements/)
 
-## Offences and prosecutions under Health and Safety at Work Act 2015
+## Offences and prosecutions under Health and Safety at Work Act 2015 (HSWA)
 
 ### Fines
 
@@ -47,5 +47,11 @@ Source: [NZTA website](https://www.nzta.govt.nz/commercial-driving/commercial-sa
 > In addition to a fine, a Court may order that reparation be paid to a victim of offending. 
 
 Source: [WorkSafe website](https://worksafe.govt.nz/laws-and-regulations/prosecutions/prosecution-process/)
+
+### How does the HSWA apply to me?
+
+Find out more about the Health and Safety at Work Act and
+[How it applies to Transport Business and Transport Operators]({{< ref "resource/health-and-safety-at-work.md" >}})
+in New Zealand.
 
  
