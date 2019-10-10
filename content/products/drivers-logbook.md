@@ -1,5 +1,5 @@
 ---
-title: Drivers logbook
+title: Digital logbook
 description: remove the uncertainty and stress of keeping an accurate logbook and ensure your compliance in real-time
 keywords:
 - work-time diary
@@ -10,10 +10,11 @@ date: 2019-09-16T16:44:27+12:00
 draft: false
 ---
 
-# Drivers Logbook
+# Digital Drivers Logbook
 
-**Logmate** is an NZ Transport Agency approved Electronic logbook and compliance platform. Our goal
-is to simplify your documentation and legal requirements so you can spend your time more efficiently.
+**Logmate** is an NZ Transport Agency approved Electronic logbook and
+compliance platform. Our goal is to simplify your documentation and
+legal requirements so you can spend your time more efficiently.
 
 The **Digital Logbook App** caters to all Drivers, Transport Operators and Enforcement Officers to make everyones job a litte easier.
 
