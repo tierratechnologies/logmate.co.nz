@@ -1,19 +1,6 @@
 [
   {
     "avatar": null,
-    "full_name": "Hans Hazen",
-    "job_title": "Senior Customer Support Specialist",
-    "lives": "Kansas, USA",
-    "timezone": "UTC-06:00",
-    "joined": "September, 2017",
-    "biography": [
-      "Hans joined us in September 2017. He lives in Kansas, USA with his young family and is the preacher for a local church.",
-      "He is expecting his 2nd child very soon and is so excited he can't begin to tell you.. or maybe he will.",
-      "Be sure to ask him next time you are chatting to him ;)"
-    ]
-  },
-  {
-    "avatar": null,
     "full_name": "Karthick Palani",
     "job_title": "Customer Support Specialist",
     "lives": "Bangalore, Inida",
@@ -79,7 +66,7 @@
   {
     "avatar": null,
     "full_name": "Ellen Quirke",
-    "job_title": "Customer Success Agent",
+    "job_title": "Customer Success Manager",
     "lives": "Red Beach, Auckland",
     "timezone": "UTC+12:00",
     "joined": "September, 2019",
