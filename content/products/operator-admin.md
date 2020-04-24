@@ -9,6 +9,8 @@ draft: false
 **Logmate** is a great tool for **Transport Operators** to manage their drivers logbook
 collection and provides real-time feedback on all logbook entries.
 
+{{< vimeo 411234452 >}}
+
 ## Dedicated Admin
 
 As a Transport Operator you will have access to your own [Operator Admin portal](https://operator.logmate.co.nz), which will allow you to:
