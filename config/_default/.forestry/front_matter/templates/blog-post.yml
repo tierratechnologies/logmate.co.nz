@@ -2,17 +2,26 @@
 label: Blog post
 hide_body: false
 fields:
-- name: article_title
+- name: title
   type: text
   config:
     required: false
-  label: Article title
-- name: article_body
-  type: textarea
-  default: ''
+  label: title
+  description: title of article used in nav and at top of document
+- name: description
+  type: text
   config:
     required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Article body
+  label: description
+  description: Description of article which is used in meta data
+- name: keywords
+  type: tag_list
+  default: []
+  label: keywords
+  description: article keywords used as tags and meta data
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+  description: name of article author
