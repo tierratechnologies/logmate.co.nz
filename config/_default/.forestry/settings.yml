@@ -9,6 +9,8 @@ sections:
   label: blog
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 upload_dir: config/_default/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
