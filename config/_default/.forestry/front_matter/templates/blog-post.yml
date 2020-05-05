@@ -25,5 +25,15 @@ fields:
     required: false
   label: author
   description: name of article author
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 pages:
 - content/blog/what-is-a-work-time-logbook.md
