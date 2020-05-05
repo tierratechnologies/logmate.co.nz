@@ -9,3 +9,9 @@ The hugo theme currently resides within this repo.
 Uses the noun project and Google fonts
 
 ##
+
+## Development
+
+    hugo server (from root)
+
+should be sass on fly
