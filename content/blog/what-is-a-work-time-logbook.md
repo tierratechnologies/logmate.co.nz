@@ -1,9 +1,11 @@
 +++
 author = "ellen quirke<ellen@logmate.co.nz>"
+date = 2020-04-30T12:00:00Z
 description = "overview of what work-time and logbooks are in new zealand"
 draft = true
 keywords = ["logbook", "compliance", "work-time", "new zealand"]
 title = "What is a Work-Time logbook?"
+
 +++
 # What is a Work-Time logbook?
 
