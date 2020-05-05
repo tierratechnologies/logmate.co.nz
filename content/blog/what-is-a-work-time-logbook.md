@@ -24,33 +24,31 @@ to the administrator of the Transport Service Licence (TSL) they are driving und
 
 There are two types of NZTA Approved logbooks in New Zealand for recording work time compliance:
 
-- Paper Logbooks
-- Electronic Logbooks
+* Paper Logbooks
+* Electronic Logbooks
 
 The Logmate Digital Logbook is one of seven NZTA Approved electronic logbooks.
 
-............. image goes here .............
-
-## What Information Has To Be Recorded?
+![](/uploads/what-is-a-work-time-logbook.png)What Information Has To Be Recorded?
 
 No matter which logbook you have there is specific information that needs to be recorded. All NZTA approved logbooks will
 allow you to record these minimum requirements.
 
 The information required includes:
 
-- driver name (initials and surname, or first and last name)
-- the date of the shift
-- the time the shift starts and finishes
-- the registration number of each vehicle driven
-- the start and finish distance recorder readings (if the vehicle is subject to road user charges)
-- the start and finish times and location for all work-time and rest time
+* driver name (initials and surname, or first and last name)
+* the date of the shift
+* the time the shift starts and finishes
+* the registration number of each vehicle driven
+* the start and finish distance recorder readings (if the vehicle is subject to road user charges)
+* the start and finish times and location for all work-time and rest time
 
 ## Does This Information Get Shared With Anyone?
 
 The information recorded in your logbook also has some requirements around how it is shared. As a driver, you are
 required to:
 
-- supply copies of your logbook to any Transport Service Licence (TSL) Holder that you operate under within 14 days of recording the shift.
-- if requested by an enforcement officer have available immediately all logbook shifts recorded since your previous 24-hour continuous rest break
-- keep copies of your logbook records for at least 12months after the shift was recorded
-- ff requested by an enforcement officer be able to provide copies of your logbook from the previous 12 months
+* supply copies of your logbook to any Transport Service Licence (TSL) Holder that you operate under within 14 days of recording the shift.
+* if requested by an enforcement officer have available immediately all logbook shifts recorded since your previous 24-hour continuous rest break
+* keep copies of your logbook records for at least 12months after the shift was recorded
+* ff requested by an enforcement officer be able to provide copies of your logbook from the previous 12 months
