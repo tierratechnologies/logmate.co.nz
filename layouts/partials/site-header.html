@@ -63,6 +63,19 @@
                     </div>
                 </div>
 
+                <div class="navbar-item has-dropdown is-hoverable">
+
+                    <a class="navbar-link">Blog</a>
+                    <div class="navbar-dropdown">
+                        {{$list := where .Site.RegularPages "Section" "blog" }}
+                        {{range $p := sort $list ".Date" }}
+                        <a href="{{$p.RelPermalink}}"
+                           class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                        {{ end }}
+
+                    </div>
+                </div>
+
 
             </div>
 
