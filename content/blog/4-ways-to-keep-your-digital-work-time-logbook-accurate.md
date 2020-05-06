@@ -6,8 +6,6 @@ keywords = ["Logbook", "Compliance", "Driver", "Rideshare", "New Zealand"]
 title = "4 Ways To Keep Your Digital Work-Time Logbook Accurate"
 
 +++
-![](/uploads/Rideshare-Driver.jpeg)
-
 # 4 Ways To Keep Your Digital Work-Time Logbook Accurate
 
 Ensuring the recording of your work time is accurate is really important. Not only to make sure you are getting enough rest and preventing fatigue but also because in New Zealand as a commercial driver itâ€™s the law.
@@ -16,7 +14,7 @@ We have found that a majority of violations popping up in drivers logbooks arenâ
 
 So I wanted to personally give you some top tips to help you learn how to keep your logbook accurate and error-free.
 
-***
+![](/uploads/Rideshare-Driver.jpeg)
 
 ### 1. Make All Entries In Real-Time
 
