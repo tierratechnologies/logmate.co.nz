@@ -6,7 +6,7 @@ keywords = ["logbook", "compliance", "work-time", "new zealand"]
 title = "What is a Work-Time logbook?"
 
 +++
-# What is a Work-Time logbook?
+# What Is A Work-Time Logbook?
 
 Have you always wondered how commercial drivers on New Zealand roads are held accountable for their work-time? Or are you thinking about becoming a commercial driver and find all the available information for drivers confusing or overwhelming? Well, hopefully, this article can help you understand more about work-time logbooks in New Zealand.
 
