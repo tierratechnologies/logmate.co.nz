@@ -6,6 +6,7 @@ keywords = ["Logbook", "Compliance", "Driver", "Rideshare", "New Zealand"]
 title = "4 Ways To Keep Your Digital Work-Time Logbook Accurate"
 
 +++
+![](/uploads/Rideshare-Driver.jpeg)
 
 # 4 Ways To Keep Your Digital Work-Time Logbook Accurate
 
