@@ -2,7 +2,6 @@
 author = "Ellen Quirke"
 date = 2020-05-01T00:33:01Z
 description = "Ways to keep your Logmate digital logbook accurate"
-draft = true
 keywords = ["Logbook", "Compliance", "Driver", "Rideshare", "New Zealand"]
 title = "4 Ways To Keep Your Digital Work-Time Logbook Accurate"
 
