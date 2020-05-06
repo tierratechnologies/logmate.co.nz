@@ -1,5 +1,5 @@
 +++
-author = "ellen quirke<ellen@logmate.co.nz>"
+author = "Ellen Quirke"
 date = 2020-04-30T12:00:00Z
 description = "overview of what work-time and logbooks are in new zealand"
 keywords = ["logbook", "compliance", "work-time", "new zealand"]

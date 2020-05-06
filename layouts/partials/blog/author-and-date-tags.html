@@ -1,0 +1,14 @@
+<div class="columns is-mobile">
+    <div class="column">
+        <div class="tags has-addons">
+            <span class="tag is-dark">Author:</span>
+            <span class="tag is-light">{{ .Params.Author }}</span>
+        </div>
+    </div>
+    <div class="column">
+        <div class="tags has-addons is-pulled-right">
+            <span class="tag is-dark">Date:</span>
+            <span class="tag is-light">{{ .Date.Format "Mon, 1 Jan 2006" }}</span>
+        </div>
+    </div>
+</div>
