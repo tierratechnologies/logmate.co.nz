@@ -36,4 +36,5 @@ fields:
     display_utc: false
   default: now
 pages:
+- content/blog/4-ways-to-keep-your-digital-work-time-logbook-accurate.md
 - content/blog/what-is-a-work-time-logbook.md
