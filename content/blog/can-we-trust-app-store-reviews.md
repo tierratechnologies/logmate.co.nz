@@ -7,7 +7,6 @@ keywords = ["app store", "review", "feedback", "app", "ratings"]
 title = "Can We Trust App Store Reviews?"
 
 +++
-
 # Can We Trust App Store Reviews?
 
 Getting feedback from customers is extremely important no matter what industry you work in. If you aren’t geared towards understanding your customers wants and needs and enacting required changes, well then you probably won’t last too long. Technology has made it so easy for customers to both give their feedback and to read reviews to make informed decisions. But in a world flooded with so much information how do we know what makes a source of information reliable?
@@ -18,29 +17,39 @@ The Journal of Consumer Research published a [study in 2016](https://academic.ou
 
 So why is the public perception that online reviews are a reliable source of information?
 
+![](/uploads/iphone-technology-iphone-6-plus-apple-17663.jpg)
+
 ### How App Store Reviews Work
 
 The Apple App Store and Google Play Store are the two easiest places to find online reviews for apps since when someone downloads an app onto their device they are given the opportunity to give it a rating. But knowing what we know now are the app store reviews a reliable source of information?
 
-The app store reviews are very straightforward, asking for a star rating out of 5 and an optional written feedback box. Each rating out of 5 is averaged into an overall rating for the app. This is then shown on the app page in the app store and helps to rank search results to prioritise the highest ranked apps. 
+The app store reviews are very straightforward, asking for a star rating out of 5 and an optional written feedback box.
 
-One major downside to the app stores rating system is on the user interface there no correlation between the rating and the app version number. That means a rating from Version 1 of the app can still be present (and affecting the overall rating) even if it is 5 years later and the app has gone through several major developments. Thus, making the rating not actually describe the experience of what a new user would face.
+> **Each rating out of 5 is averaged into an overall rating for the app.** 
+
+This is then shown on the app page in the app store and helps to rank search results to prioritise the highest ranked apps.
+
+One major downside to the app stores rating system is on the user interface there **_no correlation between the rating and the app version number_**. That means a rating from Version 1 of the app can still be present (and affecting the overall rating) even if it is 5 years later and the app has gone through several major developments. Thus, **_making the rating not actually describe the experience of what a new user would face._**
 
 The Apple App store gives the developer the option to remove previous ratings from their overall rating when they deploy a new version of their app. While this helps make the overall rating more representative of the current product, it removes the credibility of that rating because it includes fewer reviews and discounts the reviews of long time users. It also doesn’t show improvement over time.
 
-***
+#### Example
 
-So let’s look at an example. Joe downloaded an app (Version 1.1) and made an error during sign up which affected his onboarding experience so left an angry review of 1 star on the app store. A few days later he realised his mistake and went on to use the app very happily for the next 6 months but never went back to change his rating. This rating will not sit there affecting the overall rating of the app but not actually represent the experience Joe is having.
+Joe downloaded an app (Version 1.1) and made an error during sign up which affected his onboarding experience so left an angry review of 1 star on the app store. A few days later he realised his mistake and went on to use the app very happily for the next 6 months but never went back to change his rating. This rating will not sit there affecting the overall rating of the app but not actually represent the experience Joe is having.
+
+***
 
 ### Feedback For Software-As-A-Service
 
-As we know the emergence of Software-as-a-Service has dramatically changed the game of technology. Now instead of standalone software products, we have software services that are continually being improved and updated. In addition, these updates are pushed out to all existing users of the platform or sold as additional add-on products available through the platform. 
+As we know the emergence of Software-as-a-Service has dramatically changed the game of technology. Now instead of standalone software products, we have software services that are continually being improved and updated. In addition, these updates are pushed out to all existing users of the platform or sold as additional add-on products available through the platform.
 
-> Having a static review/rating system isn’t fit for purpose. 
+> **Having a static review/rating system isn’t fit for purpose.**
 
 When software is so dynamic, always changing and improving, a static rating only misinforms the consumer. Feedback needs to be able to be given at any point in time and asked multiple times over a period of time. This provides context to the review because it shows exactly what product, and version of the product, the user was providing feedback on.
 
 I think improvement is one of the most important metrics to showcase. Being able to see how a company has listened to feedback and improved its software to match the needs of its users provides a lot more confidence in a user than something that has always been highly rated. Because it shows that as time goes on the company prioritises the end-users experience and will do what it takes to keep its users happy.
+
+***
 
 ### The Logmate Story
 
