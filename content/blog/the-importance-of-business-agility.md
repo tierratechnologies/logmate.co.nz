@@ -1,8 +1,7 @@
 +++
 author = "Ellen Quirke"
-date = 2020-05-06T01:20:57Z
+date = 2020-05-10T23:32:00Z
 description = "Why agility is important for business survival in an uncertain environment"
-draft = true
 keywords = ["Business", "Agility", "SaaS", "Logmate"]
 title = "The Importance of Business Agility"
 
