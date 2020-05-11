@@ -10,6 +10,8 @@ title = "What is a Work-Time logbook?"
 
 Have you always wondered how commercial drivers on New Zealand roads are held accountable for their work-time? Or are you thinking about becoming a commercial driver and find all the available information for drivers confusing or overwhelming? Well, hopefully, this article can help you understand more about work-time logbooks in New Zealand.
 
+![](/uploads/what-is-a-work-time-logbook.png)
+
 ### Purpose Of A Logbook
 
 In New Zealand, a logbook provides a method for commercial drivers in the transportation industry to record their work and rest time to stay compliant and legal. Regardless of which type of logbook is being used a driver needs to be able to show an enforcement officer that they are complying with the NZ work-times rules and provide copies of their logbook to the administrator of the Transport Service Licence (TSL) they are driving under.
@@ -22,8 +24,6 @@ There are two types of NZTA Approved logbooks in New Zealand for recording work 
 * Electronic Logbooks
 
 The Logmate Digital Logbook is [one of seven NZTA Approved electronic logbooks](https://www.nzta.govt.nz/commercial-driving/commercial-safety/work-time-and-logbook-requirements/electronic-driver-logbooks/).
-
-![](/uploads/what-is-a-work-time-logbook.png)
 
 ### What Information Has To Be Recorded?
 
