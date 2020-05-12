@@ -60,7 +60,7 @@ We found that 58% of those active users read the survey email, 9% clicked on the
 
 Using some simple statistics we can determine that to have a margin of error of +/-5% we needed a sample size of 258 respondents to be 90% confident of our results.
 
-Through our feedback survey, we have received an **overall experience rating of 4.1 out of 5 stars** and a 4.2 out of 5 stars specifically for the Logmate App.
+Through our feedback survey, we have received an **overall experience rating of 4.1 out of 5 stars** and a 4.1 out of 5 stars specifically for the Logmate App.
 
 ![](/uploads/Ratings-Overall.png)
 
