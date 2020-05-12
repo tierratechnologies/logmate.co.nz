@@ -37,3 +37,5 @@ Think about the start and end shift button as clocking in and out of work. You c
 ***
 
 I hope these tips and tricks will help you keep your violations to a minimum and increase the accuracy of your Digital Logbook entries. I would love to hear what tip you found the most helpful.
+
+_Also published on_ [_medium.com_](https://link.medium.com/Ib2l6OtTp6)
