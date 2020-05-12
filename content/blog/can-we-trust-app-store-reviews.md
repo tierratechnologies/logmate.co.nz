@@ -62,7 +62,7 @@ Using some simple statistics we can determine that to have a margin of error of 
 
 Through our feedback survey, we have received an **overall experience rating of 4.1 out of 5 stars** and a 4.2 out of 5 stars specifically for the Logmate App.
 
-![Ratings of the Logmate Platform by current active users](https://lh3.googleusercontent.com/01AjmCz7pjnWO8fLrzD7UFKjYoL6zvM6FYV5t15Wr5XutXYDzMcNRRRhMH1FoC__gBguuyQE4mcuGNyi9gLmcf1pNhUb3gfV6xnf8bwzPAy8r89n3Y0G7HNqB8qC6BQ1DPqnYVsm "Ratings of the Logmate Platform by current active users" =595x391)
+![](/uploads/Ratings-Overall.png)
 
 We have a schedule in place to send out feedback surveys at specific times along a users journey with us. This gives us the ability to see the particular users experience over time but also gives us the ability to look at all the feedback received at a certain point in time, say after a new version is released or a new product is introduced.
 
