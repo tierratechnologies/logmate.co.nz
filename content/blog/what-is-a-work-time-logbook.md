@@ -46,3 +46,5 @@ The information recorded in your logbook also has some requirements around how i
 * if requested by an enforcement officer have available immediately all logbook shifts recorded since your previous 24-hour continuous rest break
 * keep copies of your logbook records for at least 12months after the shift was recorded
 * if requested by an enforcement officer be able to provide copies of your logbook from the previous 12 months
+
+_Also published on_ [_medium.com_](https://link.medium.com/s469pwqTp6)
