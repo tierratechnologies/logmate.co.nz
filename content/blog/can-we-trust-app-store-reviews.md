@@ -1,8 +1,7 @@
 +++
 author = "Ellen Quirke"
-date = 2020-05-06T00:44:44Z
+date = 2020-05-12T00:03:44Z
 description = "Looking into whether app store reviews are reliable and what other forms of feedback are more reliable."
-draft = true
 keywords = ["app store", "review", "feedback", "app", "ratings"]
 title = "Can We Trust App Store Reviews?"
 
@@ -25,17 +24,17 @@ The Apple App Store and Google Play Store are the two easiest places to find onl
 
 The app store reviews are very straightforward, asking for a star rating out of 5 and an optional written feedback box.
 
-> **Each rating out of 5 is averaged into an overall rating for the app.** 
+> **Each rating out of 5 is averaged into an overall rating for the app.**
 
 This is then shown on the app page in the app store and helps to rank search results to prioritise the highest ranked apps.
 
-One major downside to the app stores rating system is on the user interface there **_no correlation between the rating and the app version number_**. That means a rating from Version 1 of the app can still be present (and affecting the overall rating) even if it is 5 years later and the app has gone through several major developments. Thus, **_making the rating not actually describe the experience of what a new user would face._**
+One major downside to the app stores rating system is on the user interface is there is **_no apparent correlation between the rating and the app version number_**. That means a rating from Version 1 of the app can still be present (and affecting the overall rating) even if it is 5 years later and the app has gone through several major developments. Thus, **_showing a rating that might not accurately describe the experience a new user would face._**
 
 The Apple App store gives the developer the option to remove previous ratings from their overall rating when they deploy a new version of their app. While this helps make the overall rating more representative of the current product, it removes the credibility of that rating because it includes fewer reviews and discounts the reviews of long time users. It also doesn’t show improvement over time.
 
 #### Example
 
-Joe downloaded an app (Version 1.1) and made an error during sign up which affected his onboarding experience so left an angry review of 1 star on the app store. A few days later he realised his mistake and went on to use the app very happily for the next 6 months but never went back to change his rating. This rating will not sit there affecting the overall rating of the app but not actually represent the experience Joe is having.
+Joe downloaded an app (Version 1.1) and made an input error during sign up which affected his onboarding experience. So he left an angry review of 1 star on the app store. A few days later he realised his mistake and went on to use the app very happily for the next 6 months but never went back to change his rating. This rating will now sit there affecting the overall rating of the app but not actually represent the experience Joe is having.
 
 ***
 
@@ -45,9 +44,9 @@ As we know the emergence of Software-as-a-Service has dramatically changed the g
 
 > **Having a static review/rating system isn’t fit for purpose.**
 
-When software is so dynamic, always changing and improving, a static rating only misinforms the consumer. Feedback needs to be able to be given at any point in time and asked multiple times over a period of time. This provides context to the review because it shows exactly what product, and version of the product, the user was providing feedback on.
+When software is so dynamic, always changing and improving, a static rating only misinforms the consumer. Feedback needs to be able to be given at any point in time and asked multiple times throughout a users lifetime with the product. This provides context to the review because it shows exactly what product and version of the product, the user was providing feedback on. It always gives an insight into improvements.
 
-I think improvement is one of the most important metrics to showcase. Being able to see how a company has listened to feedback and improved its software to match the needs of its users provides a lot more confidence in a user than something that has always been highly rated. Because it shows that as time goes on the company prioritises the end-users experience and will do what it takes to keep its users happy.
+I think improvement is one of the most important metrics to showcase. Being able to see how a company has listened to feedback and improved its software to match the needs of its users provides a lot more confidence to new users than something that has always been highly rated. Because it shows that as time goes on the company prioritises the end-users experience and will do what it takes to keep its users happy.
 
 ***
 
