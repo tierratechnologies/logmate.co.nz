@@ -64,17 +64,3 @@ The American National Sleep Foundation has reported that bring awake for 18 hour
 In New Zealand, the current legal BAC limit for operating a motor vehicle is 0.05 for people ages 20 and older and a zero-tolerance for those under 20 years of age. 
 
 In terms of infringements if someone is found to be driving with a BAC between 0.051 and 0.08 they can be fined up to $700 and receive 50 demerit points on their licence. Even worse if they are found to have a BAC over 0.08 they could face a criminal conviction. 
-
-Fatigue In Commerical Drivers
-
-Commercial drivers operate vehicles on New Zealand roads for a living. If you are a full time commercial driver you will understand the amount of time that you spend behind the wheel every day. 
-
-If you aren't imagine this. 
-
-Add up all the time you spend commuting to and from work and the time that you are at work, somewhere between 8 - 12 hours maybe?
-
-Now imagine spending all that time sitting behind the wheel of a vehicle driving. 
-
-[Research has shown](https://www.sciencedirect.com/science/article/pii/S0022437514000048) that after 2 hours of continuous driving subjective fatigue and driving performance measures began to deteriorate. However, after 4 hours of continuous driving, the impact went from deterioration to a significant adverse effect on both measures. However, only 15 minutes of rest was able to provide enough time to recover from 2 hours of continuous driving with the rest needed doubling to 30min for 4 hours to continuous driving. 
-
-The NZ Ministry of Transport has stated on their website that "research shows the longer people spend driving without a break, the greater their level of fatigue. Also, the time spent in other activities such as work, school, and so on, can increase fatigue and affect subsequent driving."
