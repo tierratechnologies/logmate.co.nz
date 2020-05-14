@@ -2,7 +2,6 @@
 author = "Ellen Quirke"
 date = 2020-05-14T02:40:58Z
 description = "Driver fatigue is a serious problem, why is nothing been done about it?"
-draft = true
 keywords = ["fatigue", "driving", "compliance", "drunk driving", "speeding"]
 title = "The Not So Silent Killer on New Zealand Roads"
 
@@ -13,11 +12,11 @@ I want to give you two scenarios that a lot of us would have experienced.
 
 First, imagine this.
 
-You head to the bar after work with your colleagues and accidentally have a few too many wines. What do you do? Get in your car and drive home, or call an Uber? For most of us, that's a no-brainer. We leave the car behind and catch the Uber, a) because drink driving is illegal with severe legal consequences and b) you could get in an accident.
+You head to the bar after work with your colleagues and accidentally have a few too many beers. What do you do? Get in your car and drive home, jump in a rideshare? For most of us, that's a no-brainer. We leave the car behind and catch the rideshare, a) because drink driving is illegal with severe legal consequences and b) you could get in an accident.
 
 Well, how about scenario two.
 
-Your toddler has decided to be nocturnal and is trying to strong-arm everyone else in your household to follow suit. On one particular night, your darling child won't even let you get 10min of solid sleep. You reluctantly pull yourself to work the next morning and struggle your way through the day. It hits 5 pm and its time to go home. At this point, you've not actually slept for 36 hours. Do you get in your car and still drive home? Unfortunately, the answer is probably yes.
+Your toddler has decided to be nocturnal and is trying to strong-arm everyone else in your household to follow suit. On one particular night, your darling cherub won't even let you get 10min of solid sleep. You reluctantly pull yourself to work the next morning and struggle your way through the day. It hits 5 pm and its time to go home. At this point, you've not actually slept for 36 hours. Do you get in your car and still drive home? Unfortunately, the answer is probably yes.
 
 While these two scenarios are seemingly very different, the outcomes of the choice to get behind the wheel are scarily similar. In this story I want to talk about the massive impact driving fatigued can have on road safety and what should be done about it.
 
@@ -27,7 +26,7 @@ While these two scenarios are seemingly very different, the outcomes of the choi
 
 It is something we have all experienced at some point in our lives.
 
-And whether you have experienced it a lot or a little you will definitely remember how it made you feel.
+And whether you have experienced it a little or a lot you will definitely remember how it made you feel.
 
 Drowsy
 
@@ -43,6 +42,8 @@ Really the list could go on.
 
 But the surprising reality is, it is not often that someone makes the decision to not get behind the wheel because they are feeling fatigued. Minimising fatigue should be made a priority in all of our lives simply for the health benefits. However, minimising fatigue of those driving on New Zealand roads will save lives.
 
+***
+
 ### In 2018 fatigue was a factor in:
 
 23 Fatal Accidents
@@ -51,7 +52,7 @@ But the surprising reality is, it is not often that someone makes the decision t
 
 556 Minor Injury Crashes
 
-Resulting in:
+#### Resulting in:
 
 28 deaths
 
@@ -59,9 +60,11 @@ Resulting in:
 
 743 minor injuries
 
-That's 910 lives that were adversely affected in 2018 because a driver made the decision to drive while fatigued.
+***
 
-It is important to note that research shows fatigue is difficult to identify and recognise as having a role in a crash (Williamson and Chamberlain, 2005). So the contribution of fatigue to crashes may be under-represented.
+That's **910 lives that were adversely affected** in 2018 because a driver made the decision to drive while fatigued.
+
+It is important to note that research shows fatigue is difficult to identify and recognise as having a role in a crash ([Williamson and Chamberlain, 2005](http://dmiftp.uqtr.ca/FMeunier/iar6002/ProjetEEG/Review_of_on-road_driver_fatigue_monitoring_devices-2.pdf)). So the contribution of fatigue to crashes may be under-represented.
 
 > When we compare the cause of all fatal crashes in New Zealand in 2018, fatigue is the fourth leading cause behind drink/drug driving, speeding and international drivers.
 
@@ -85,7 +88,7 @@ In other countries, a lot of research is going into ways police are able to meas
 
 #### Fatigued Driving Is Drunk Driving
 
-The American National Sleep Foundation has reported that being awake for 18 hours is the equivalent of driving with a Blood Alcohol Content (BAC) of 0.05. And extending that out to 24 hours of no sleep results in the equivalent impairment of a BAC of 0.10.
+The American National Sleep Foundation [has reported that](https://drowsydriving.org/about/facts-and-stats/) being awake for 18 hours is the equivalent of driving with a Blood Alcohol Content (BAC) of 0.05. And extending that out to 24 hours of no sleep results in the equivalent impairment of a BAC of 0.10.
 
 In New Zealand, the [current legal BAC limit](https://breathalysers.nz/nz-driving-bac-limits/) for operating a motor vehicle is 0.05 for people ages 20 and older and a zero-tolerance for those under 20 years of age.
 
@@ -97,7 +100,7 @@ When looking at the "Limits" section in the NZ Road code there are three subhead
 
 Both the Speed and Alchohol and Drug Limit pages are filled with information about the required laws surrounding each topic and then the fines and penalties for breaching said laws are highlighted. Reading this you get a sense of how important it is to follow the laws surrounding these limits and what happens to you if you don't.
 
-However, when I navigated to the [Driver Fatigue page](https://www.nzta.govt.nz/resources/roadcode/about-limits/driver-fatigue) it is a completely different story. Here I found suggestions on how to minimise your exposure to fatigue, how to recognise fatigue and what to do when you are fatigued. Definitely important information to have, don't get me wrong, but no word of fines, penalties or punishments.
+However, when I navigated to the [Driver Fatigue page](https://www.nzta.govt.nz/resources/roadcode/about-limits/driver-fatigue) it is a completely different story. Here I found suggestions on how to minimise your exposure to fatigue, how to recognise fatigue and what to do when you are fatigued. Definitely, important information to have, don't get me wrong, but no word of fines, penalties or punishments.
 
 Also interesting to note in the last time the Driver Fatigue page was updated was 2010. Compare that to the alcohol and drug page being updated in 2014 and the speeding page in 2015.
 
