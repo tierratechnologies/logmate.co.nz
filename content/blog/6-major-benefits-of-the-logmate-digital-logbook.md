@@ -8,7 +8,7 @@ title = "6 Major Benefits Of The Logmate Digital Logbook"
 +++
 # 6 Major Benefits Of The Logmate Digital Logbook
 
-                     ![](/uploads/screen-shot-2020-05-25-at-1-15-18-pm.png)
+                      ![](/uploads/main_logbook_page.png)
 
 When it comes to compliance and legal requirements, making major decisions can be quite daunting. And deciding which Logbook Compliance Tool to use is a big choice for a commercial driver. The original paper logbook has been a comfortable tool for many in the industry for a long time. While it still maintains your basic level of legal requirements it is severely limited in what additional value it can add. As a driver, making the switch to digital can have a significant positive impact on your daily operations.
 
