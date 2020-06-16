@@ -50,19 +50,19 @@ A passenger service driver is picking up and dropping off people from one locati
 
 I suppose there is an added risk to the passengers within that vehicle if a passenger service driver is operating in a fatigued state. They are trusting the driver is operating in a safe manner and that they will get them from point A to point B safely. And the driver is taking on passengers knowing that their safety is his priority.
 
-##### But what about other road users, cyclists or pedestrians. They are trusting that anyone who is operating a motor vehicle is doing so in a safe manner, especially those that are driving as part of their employment. When a cyclist gets knocked off their bike, does it matter what type of driver was behind the wheel and what their cargo was?
+> But what about other road users, cyclists or pedestrians. They are trusting that anyone who is operating a motor vehicle is doing so in a safe manner, especially those that are driving as part of their employment. When a cyclist gets knocked off their bike, does it matter what type of driver was behind the wheel and what their cargo was?
 
 No where does the affects of fatigue change by the type of "cargo" you have in your vehicle. A driver, regardless of the contents of their vehicle poses the same risk to other road users if they are driving in a fatigued state.
 
 ### What Is The Impact?
 
-If you want to learn more about fatigue check out our post " The Not So Silent Killer on New Zealand Roads". There we highlight the effects of driving while fatigued compared to driving with other impairments and some suggestions on how we can do more. 
+If you want to learn more about fatigue check out our post ["The Not So Silent Killer on New Zealand Roads"](https://logmate.co.nz/blog/the-not-so-silent-killer-on-nz-roads/). There we highlight the effects of driving while fatigued compared to driving with other impairments and some suggestions on how we can improve.
 
 During the Covid-19 pandemic in New Zealand, we have seen countless news stories of how courier drivers are run off their feet, seeing volumes of deliveries greater than what we normally see during the Christmas holiday period. Unfortunately, this is nothing new. In an article published on [Stuff](https://www.stuff.co.nz/business/better-business/104705738/long-days-no-annual-leave-no-breaks--courier-drivers-reveal-difficulties-of-job) in 2018, it was shown that "fourteen-hour days with no break was the new norm for courier drivers".
 
 [Research has shown](https://www.sciencedirect.com/science/article/pii/S0022437514000048) that after 2 hours of continuous driving subjective fatigue and driving performance measures begin to deteriorate and after 4 hours, this turns into a significant adverse effect on both measures. However, only 15 minutes of rest provides enough time to recover from 2 hours of continuous driving with the rest needed doubling to 30min for 4 hours to continuous driving. The NZ Ministry of Transport even backs up these findings publishing on their website that "research shows the longer people spend driving without a break, the greater their level of fatigue. Also, the time spent in other activities such as work, school, and so on, can increase fatigue and affect subsequent driving."
 
-##### So why can SPS drivers operate for 7 hours straight and courier drivers have no restrictions?
+> So why can SPS drivers operate for 7 hours straight and courier drivers have no restrictions?
 
 ### But Short-Haul Light Goods Vehicles Aren't The Same A Long-Haul Heavy Goods Vehicles, Right?
 
@@ -72,4 +72,4 @@ Generally, it is not driving alone that causes fatigue but rather several contri
 
 Microsleeps are short bursts of sleep, often experienced without the person even being aware they took place ([tuck.com](https://www.tuck.com/microsleep/)). During this time (which can last anywhere between a few seconds to a few minutes) a driver will not be able to respond to an external stimulus such as crossing the centre line, an upcoming turn or traffic lights. 
 
-Microsleep episodes do not discriminate based on the type of work a driver is undertaking or what their cargo is. So why do our work-time rules?
+> Microsleep episodes do not discriminate based on the type of work a driver is undertaking or what their cargo is. So why do our work-time rules?
