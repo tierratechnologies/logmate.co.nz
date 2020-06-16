@@ -13,7 +13,7 @@ While there are no restrictions in place to prevent the general public from driv
 
 The New Zealand work time and logbook requirements were updated in 2017 and are designed to minimise the risk of fatigue for commercial drivers. If you don't already know the standard work time rules are as follows:
 
-* After 5.5 hours of being "on-duty" a 30min rest-break is required
+* After 5.5 hours of being "on-duty," a 30min rest-break is required
 * A "cumulative work day" can have a maximum of 13 hours of work (on-duty) time and must include a continuous 10-hour rest break. This has to be completed within a 24 hour period.
 * A "cumulative work period" is the sum of all the work (on-duty) time completed between two continuous 24 hour rest periods and can be no longer than 70 hours total.
 
