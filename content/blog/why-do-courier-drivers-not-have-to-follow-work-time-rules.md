@@ -73,3 +73,9 @@ Generally, it is not driving alone that causes fatigue but rather several contri
 Microsleeps are short bursts of sleep, often experienced without the person even being aware they took place ([tuck.com](https://www.tuck.com/microsleep/)). During this time (which can last anywhere between a few seconds to a few minutes) a driver will not be able to respond to an external stimulus such as crossing the centre line, an upcoming turn or traffic lights. 
 
 > Microsleep episodes do not discriminate based on the type of work a driver is undertaking or what their cargo is. So why do our work-time rules?
+
+### What Can We Do?
+
+We need to recognise that all commercial driving is exposed to the same risks associated with fatigue. Fatigue can occur long before someone gets behind the wheel of a vehicle. Furthermore, the type of vehicle and/or the type of work being completed has little effect on the level of fatigue it can impart on a driver. 
+
+The exceptions included for the Small Passenger Service and Light Short-Haul Goods Delivery Industries don't accurately reflect the type of work (or the hours of work) that are being done by drivers. Continuing to allow these exceptions not only puts the drivers at risk but also all other NZ road users. 
