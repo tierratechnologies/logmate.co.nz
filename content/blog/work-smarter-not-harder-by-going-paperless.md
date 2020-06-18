@@ -52,3 +52,7 @@ Work time compliance regulations for the Transportation Industry in New Zealand 
 Firstly, putting pen to paper means the quality of reporting comes down to the legibility of someone’s handwriting. Then calculating the work and rest time durations relies on their mathematical ability. Finally, the operator needs to decide if they can trust the logbook they are receiving is error-free, or invest the time (and chance of further errors) through manually revising it.
 
 Going paperless allows technology to do the work for you. Times and locations are auto-populated, work and rest time balance automatically calculated and real-time feedback means avoiding accidental mistakes.
+
+### Have All Your Tools In One Place
+
+Software-as-a-service (SaaS) prides itself on the ability to be a piece of a bigger puzzle and easily integrate with each other to provide the end customer with all the products they need seamlessly working together. Currently, at Logmate we are working hard to make this a reality. Soon in the future you 
