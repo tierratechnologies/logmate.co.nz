@@ -37,8 +37,12 @@ With the introduction of additional rideshare companies in New Zealand and the i
 
 The second relevant exemption is for the light vehicle short-haul good delivery industry (ie, courier services).
 
-* A driver of a goods vehicle does not have to maintain a logbook if the vehicle only requires a class 1 or 2 licence to be driven and is operated only within a 50km radius of the vehicle operator’s usual business location or is driven within a 50km radius from a base of operations.
+* A driver of a goods vehicle does not have to maintain a logbook if the vehicle only requires a class 1 or 2 licenses to be driven and is operated only within a 50km radius of the vehicle operator’s usual business location or is driven within a 50km radius from a base of operations.
 * The base of operations means a site office established for at least 24 hours or a local depot to which drivers report daily for assignment of tasks or to commence driving.
+
+  ![](https://images.unsplash.com/photo-1556011308-d6aedab5ed8f?utm_medium=medium&w=700&q=50&auto=format)
+
+  Photo by [🇨🇭 Claudio Schwarz | @purzlbaum](https://unsplash.com/@purzlbaum?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### So What's The Difference?
 
