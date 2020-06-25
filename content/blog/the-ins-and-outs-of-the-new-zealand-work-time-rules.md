@@ -61,7 +61,20 @@ Essentially, if you return to "on-duty" in your logbook prior to completing your
 
 A 30min break is required after a maximum of 5.5 hours of "on-duty" time (or 7 hours if you are purely operating under a Small Passenger Service Licence).
 
-### 5. Calculating The Countdown Timer
+### 5. Cumulative Work Period
+
+People often get really confused with the Cumulative Work Period believing that it is represented by a calendar week (Monday to Sunday). However, this is not the case! Rather it is a collection of CWDs that
+
+* begins after a continuous 24-hour rest break and, 
+* can only be a maximum of 70 total hours of on-duty time. 
+
+So a cumulative work period could anywhere from 1 day through to 10 days or more. 
+
+The 24-hours continuous rest break is calculated by looking back at the end time of your most recent shift and the time when you are starting a new shift and looking at the duration. 
+
+For Example: if you ended at a shift at 6:30am on a Saturday and started your next shift at 10:00am on Sunday the duration between these two times is 27 hours and 30min. This would mean a new Cumulative Work Period would begin. 
+
+### 6. Calculating The Countdown Timer
 
 The countdown timer in the Logmate Digital Logbook is an extremely useful tool to be able to stay on top of when you need to change between on and off duty. However, we have had some questions about how the countdown timer calculates its durations. 
 
@@ -74,3 +87,10 @@ The countdown timer in the Logmate Digital Logbook is an extremely useful tool t
 * After 4 hours you decide to take a break (when the timer says 2 hours 59 minutes). After clicking on break and returning to the dashboard your countdown time will display 29 minutes. The amount of time required to record it as a break. 
 * During your break, you actually decide you are finished work for the day and won't work again until tomorrow. However, you forget to click End Shift in your logbook. After 1 hour and 15 minutes you remember and open back up your logbook and click End Shift.
 * After Locking the shift and returning to the dashboard you will see your countdown timer says 8 hours and 45minutes. This is because the 1 hour 15min break taken at the end of your shift is counted towards your 10-hour continuous rest-break. 
+
+### 7. Seeing Your Balances
+
+Along the top of your Logmate Digital Logbook, you will be able to see two circles (as shown in the image below). 
+
+1. The left-hand circle represents your Cumulative Work Period. This total will continue to increase adding together all your "on-duty" time until a 24-hour continuous rest break is taken. 
+2. The right-hand circle represents your Shift. This is the duration for the time you started your current active shift and will reset after you end & lock your shift and wait 10 hours before starting a new shift  (and CWD)
