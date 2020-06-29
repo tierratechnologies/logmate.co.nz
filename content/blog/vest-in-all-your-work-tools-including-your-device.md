@@ -15,9 +15,9 @@ title = "Invest In All Your Work-Tools; Including Your Mobile Device"
 
 As most people are aware the world of technology moves at a rapid pace. While this is a major benefit of technology it does come with its challenges including the risk of getting left behind. We want to provide the information you need to make sure you are able to continue enjoying the benefits of the Logmate Digital Logbook now and in the future.
 
-We consider ourselves an actively managed app. This means that our development team is continually working in the background to improve the Logmate Digital Logbook App and its functions. This includes making changes that are required, fixing any bugs that crop up quickly to minimise interruptions to service and introducing new features and functionality to continue to be the best Digital Logbook available in New Zealand.
+We consider ourselves an actively managed app. This means that our development team is continually working in the background to improve the Logmate Digital Logbook App and its functions. This includes making changes as required, fixing any bugs that crop up quickly to minimise interruptions to service and introducing new features and functionality to continue to be the best Digital Logbook available in New Zealand.
 
-As we continue to develop the Logmate App to perform at its best and provide all the tools you require as a commercial driver, new versions of the Logmate Digital Logbook App will be released. And as each new App Version is released newer technology (both hardware and software) is going to be required from you as a user.
+As we continue to develop the Logmate App to perform at its best and provide all the tools you require as a commercial driver, new versions of the Logmate Digital Logbook App will be released. As each new App Version is released newer technology (both hardware and software) is going to be required from you as a user.
 
 ![](/uploads/0_qzviqlvn3i-010jv.jpeg)
 
@@ -27,21 +27,21 @@ As a commercial driver, you have several work-tools that help you be successful 
 
 * Yourself (professionalism, clothing, personal care etc)
 * Your vehicle
-* Your website/marketing material
+* Any website/marketing material
 * Your mobile device (access to compliance and facilitation platforms)
 
 Each of these areas has a profound impact on how you operate as a commercial driver. Let's take a close look at your vehicle as an example.
 
 #### Investing In Your Vehicle
 
-Your vehicle can be your pride and joy. Not only does the upkeep of the vehicle show your professionalism but it also the primary tool you use to earn an income. If your vehicle isn't available to use then you aren't earning money,  as simple as that. So what do you do to ensure your vehicle is up to scratch? You:
+Your vehicle can be your pride and joy. Not only does the upkeep of the vehicle show your professionalism but it is also the primary tool you use to earn an income. If your vehicle isn't available to use then you aren't earning money,  as simple as that. So what do you do to ensure your vehicle is up to scratch? You:
 
-* Research the most cost-effective, safe and reliable model
+* Research the most cost-effective, safe and reliable model when looking to purchase a new vehicle
 * Do self-inspections to monitor any changes
 * Schedule regular services and maintain it at COF/WOF standard
-* Upgrade when required
+* Upgrade your vehicle when required
 
-The reward for putting the investment (both time and money) into your vehicle? Knowing that it is safe to operate and it will be available for you to earn money more often and not sitting at the mechanics costing you money.
+The reward for putting the investment (both time and money) into your vehicle? Knowing that it is safe to operate and it will be available for you to earn money more often rather than sitting at the mechanics costing you money.
 
 ![](/uploads/photo-1550355291-bbee04a92027.jpeg)
 
