@@ -9,26 +9,24 @@ title = "The Ins And Outs Of The New Zealand Work Time Rules"
 +++
 # The Ins And Outs Of The New Zealand Work Time Rules
 
-The New Zealand work time rules for commercial drivers in New Zealand were designed to manage the risk of fatigue for drivers who are on our roads the most. Furthermore, the requirement of recording work and rest time into an NZTA approved Logbook aids in ensuring all drivers required to do so are following the work time rules. However, we are seeing more and more drivers confused by what these rules are.
+As a commercial driver in New Zealand, you will already know that you have to follow the NZ Work Time Rules and record your work/rest time in a logbook. However, this doesn't mean that it is all easy to understand. 
 
-In this article, I want to share with you the simple way to understand the work time rules and so you can become a domain knowledge expert. I also want to show how the Logmate Digital Logbook is designed to help you follow these rules to keep you safe on the road and complaint.
+In this article, I want to share with you the simple ways to understand the work time rules and how the Logmate Digital Logmate can help.
 
 ## The Work Time Rules & The Logmate Digital Logbook In 8 Easy Steps
 
 ### 1. Cumulative Work Day
 
-The NZTA refers to a Cumulative Work Day in the legislation but we think that's confusing, so we are going to just call it your Work Day!
+The NZTA refers to a Cumulative Work Day in the legislation but personally I think that's confusing; so we are going to just call it your Work Day!
 
-* Every day that you work is a Work Day, which is made up of two parts;
-  * your Work Shift (we will talk about this more next)
-  * a 10-hour continuous rest break.
-* Your Work Day can be a maximum of 24 hours
-* A new Work Day will starts after your continuous 10-hour rest break is finished. 
-  * **_Note:_** _If you were to start a new work shift in your Digital Logbook before the 10 hours is finished you would be continuing your previous Work Day rather than starting a new one._ 
+* Your Work Day includes a single Work Shift which can be a maximum of 14 hours in duration; from start to finish.
+* You need to take at least 10 hours off after you finish a Work Shift in order to start your new Work Day (by starting a new Work Shift). Anything less than 10 hours will continue your previous Work Shift/Day rather than starting a new one.
 
 ### 2. A Work Shift
 
-A "Work Shift" is the terminology we use in the Logmate Digital Logbook to describe your on-duty time., and is the same as what the NZTA describes as your "working window". It is designed to represent all "on-duty time" including breaks less than 10-hours in duration.
+In your Logmate Digital Logbook, you will have a Start Shift button and End Shift button. The time between these two entries represents your Work Shift.
+
+A "Work Shift" is the terminology we use in the Logmate Digital Logbook to describe your on-duty time, and is the same as what the NZTA describes as your "working window". It is designed to represent all "on-duty time" including breaks less than 10-hours in duration.
 
 * Each Work Day should only have one Work Shift
 * When you click End Shift you are committing to taking a continuous 10-hour rest break, indicating when you return to work you will be starting a new Work Day.
