@@ -9,17 +9,17 @@ title = "Invest In All Your Work-Tools; Including Your Mobile Device"
 +++
 # Invest In All Your Work-Tools; Including Your Mobile Device
 
-![](/uploads/0_qzviqlvn3i-010jv.jpeg)
-
-Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
 ### Your work-tools require investment and upkeep; your mobile device is no different.
+
+***
 
 As most people are aware the world of technology moves at a rapid pace. While this is a major benefit of technology it does come with its challenges including the risk of getting left behind. We want to provide the information you need to make sure you are able to continue enjoying the benefits of the Logmate Digital Logbook now and in the future.
 
 We consider ourselves an actively managed app. This means that our development team is continually working in the background to improve the Logmate Digital Logbook App and its functions. This includes making changes that are required, fixing any bugs that crop up quickly to minimise interruptions to service and introducing new features and functionality to continue to be the best Digital Logbook available in New Zealand.
 
 As we continue to develop the Logmate App to perform at its best and provide all the tools you require as a commercial driver, new versions of the Logmate Digital Logbook App will be released. And as each new App Version is released newer technology (both hardware and software) is going to be required from you as a user.
+
+![](/uploads/0_qzviqlvn3i-010jv.jpeg)
 
 ### Investing In Your Work-Tools
 
