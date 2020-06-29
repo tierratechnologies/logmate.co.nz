@@ -51,18 +51,18 @@ Photo by [Adam Stefanca](https://unsplash.com/@adam_stefanca?utm_source=medium&u
 
 #### Is Your Mobile Device Any Different?
 
-Simply put all of your work-tools play a part in your ability to operate as a commercial driver. While one may take priority over another from time to time, they are all still important. 
+Simply put all of your work-tools play a part in your ability to operate as a commercial driver. While one may take priority over another from time to time, they are all still very important. 
 
-If you are using Logmate for your Logbook solution your mobile-device becomes a vital work-tool. So you should follow the same steps you use for your vehicle for your mobile device and:
+If you are using Logmate for your logbook solution your mobile device becomes a vital work-tool. So you should follow the same steps you use for your vehicle for your mobile device and:
 
-* Research the most cost-effective, safe and reliable model of mobile device
-* Ensure it is well taken care of always operational
+* Research the most cost-effective and reliable model of mobile device
+* Ensure it is well taken care of and always operational
 * Keep the operating system and all applications up to date
-* Upgrade mobile device when required
+* Upgrade your mobile device when required
 
 ### So What Should You Do?
 
-Now, we aren't saying you have to go out and buy the most expensive top of the line mobile device. Often time the most expensive options are only that because they have the best cameras, biggest screen and highest resolution. But as a work-tool, you don't need all the bells and whistles. You just need a reliable device that uses up-to-date technology, with features that ensure you have:
+Now, we aren't saying you have to go out and buy the most expensive top of the line mobile device. Often times the most expensive options are only that because they have the best cameras, biggest screen and highest resolution. But as a work-tool, you don't need all the bells and whistles. You just need a reliable device that uses up-to-date technology, with features that ensure you have:
 
 1. Reliable internet connectivity (especially through mobile data)
 2. Accurate GPS coordinate location information
