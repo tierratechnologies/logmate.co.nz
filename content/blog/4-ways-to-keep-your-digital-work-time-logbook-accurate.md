@@ -18,7 +18,7 @@ So I wanted to personally give you some top tips to help you learn how to keep y
 
 ### 1. Make All Entries In Real-Time
 
-The benefit of using a digital logbook is that most of the information for your entries is generated automatically. The time, date and location are all auto-populated into your logbook entry from data available on your device. So when you make an entry in your digital logbook in real-time it means the information being auto-filled is most likely correct. Making entries in real-time is also an NZTA requirement so not doing so could result in a hefty fine.
+The benefit of using a digital logbook is that most of the information for your entries is generated automatically. The time, date and location are all auto-populated into your logbook entry from data available on your device. So when you make an entry in your digital logbook in real-time it means the information being auto-filled is more likely to be correct. Making entries in real-time is also an NZTA requirement so not doing so could result in a hefty fine.
 
 ### 2. Check Twice, Save Once
 
@@ -32,7 +32,12 @@ When you complete a shift in your Digital Logbook your shift record is sent to t
 
 ### 4. If In Doubt, Take A Break
 
-Think about the start and end shift button as clocking in and out of work. You can only do each one once in a day. So if you are finishing up work but aren’t 100% sure you are finished for the day just click the Break button. This will end your work hours but continue your 14-hour “working window”. That way if you do get a surprise and go back on shift a violation won’t be recorded in your logbook. Also if you don’t end up returning to work and end your shift later in the day, your 10-hour rest break will include when you first started the rest break record in your logbook.
+Think about the start and end shift button as clocking in and out of work. You can only start your shift once and finish it once within your workday, but you can have a mixture of on-duty and rest breaks throughout your work shift. So if you are finishing up your on-duty time work but aren’t 100% sure you are completely finished for the day just click the Take Break button. This will essentially "push pause" on your work shift.
+
+* That way if you do get a surprise and go back on shift; it is possible to do so (without a violation being recorded in your logbook) and you will simply be recording an in-shift rest break
+* If you don’t end up returning to work and end your work shift later in the day, the duration of time that has passed since you started the in-shift rest break will be counted towards your required 10-hour rest break to start a new work shift. 
+
+Just remember any rest breaks less than 30min in duration won't count as a rest-break and instead be counted towards your on-duty time. 
 
 ***
 
