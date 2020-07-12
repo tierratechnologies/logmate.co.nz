@@ -1,8 +1,7 @@
 +++
 author = "Ellen Quirke"
-date = 2020-06-01T23:34:30Z
+date = 2020-07-12T21:00:00Z
 description = "All your work-tools require investment and upkeep; your mobile device is no different."
-draft = true
 keywords = ["Update", "Software", "Mobile Device", "Logmate App"]
 title = "Invest In All Your Work-Tools; Including Your Mobile Device"
 
@@ -13,9 +12,9 @@ title = "Invest In All Your Work-Tools; Including Your Mobile Device"
 
 ***
 
-As most people are aware the world of technology moves at a rapid pace. While this is a major benefit of technology it does come with its challenges including the risk of getting left behind. We want to provide the information you need to make sure you are able to continue enjoying the benefits of the Logmate Digital Logbook now and in the future.
+As most people are aware the world of technology moves at a rapid pace. While this is a major benefit of technology it does come with its challenges, including the risk of getting left behind. We want to provide the information you need to make sure you are able to continue enjoying the benefits of the Logmate Digital Logbook now and in the future.
 
-We consider ourselves an actively managed app. This means that our development team is continually working in the background to improve the Logmate Digital Logbook App and its functions. This includes making changes as required, fixing any bugs that crop up quickly to minimise interruptions to service and introducing new features and functionality to continue to be the best Digital Logbook available in New Zealand.
+We consider ourselves an actively managed app. This means that our development team is continually working in the background to improve the Logmate Digital Logbook App and its functions. This includes making changes as required, fixing any bugs that crop up quickly to minimise interruptions to service and introducing new features and functionality to continue to provide a top-shelf Digital Logbook.
 
 As we continue to develop the Logmate App to perform at its best and provide all the tools you require as a commercial driver, new versions of the Logmate Digital Logbook App will be released. As each new App Version is released newer technology (both hardware and software) is going to be required from you as a user.
 
@@ -41,7 +40,7 @@ Your vehicle can be your pride and joy. Not only does the upkeep of the vehicle 
 * Schedule regular services and maintain it at COF/WOF standard
 * Upgrade your vehicle when required
 
-The reward for putting the investment (both time and money) into your vehicle? Knowing that it is safe to operate and it will be available for you to earn money more often rather than sitting at the mechanics costing you money.
+The reward for putting the investment (both time and money) into your vehicle? Knowing that it is safe to operate and it will be available for you to earn money more often, rather than sitting at the mechanics costing you money.
 
 ![](/uploads/photo-1550355291-bbee04a92027.jpeg)
 
@@ -51,7 +50,7 @@ Photo by [Adam Stefanca](https://unsplash.com/@adam_stefanca?utm_source=medium&u
 
 #### Is Your Mobile Device Any Different?
 
-Simply put all of your work-tools play a part in your ability to operate as a commercial driver. While one may take priority over another from time to time, they are all still very important. 
+Simply put all of your work-tools play a part in your ability to operate as a commercial driver. While one may take priority over another from time to time, they are all still very important.
 
 If you are using Logmate for your logbook solution your mobile device becomes a vital work-tool. So you should follow the same steps you use for your vehicle for your mobile device and:
 
@@ -62,12 +61,12 @@ If you are using Logmate for your logbook solution your mobile device becomes a 
 
 ### So What Should You Do?
 
-Now, we aren't saying you have to go out and buy the most expensive top of the line mobile device. Often times the most expensive options are only that because they have the best cameras, biggest screen and highest resolution. But as a work-tool, you don't need all the bells and whistles. You just need a reliable device that uses up-to-date technology, with features that ensure you have:
+We aren't saying you have to go out and buy the most expensive top of the line mobile device. Often times the most expensive options are only that because they have the best cameras, biggest screen and highest resolution. But as a work-tool, you don't need all the bells and whistles. You just need a reliable device that uses up-to-date technology, with features that ensure you have:
 
 1. Reliable internet connectivity (especially through mobile data)
 2. Accurate GPS coordinate location information
 3. Storage of log-in information to utilise quick login methods
-4. Uninterrupted use of Logmate as new updates are rolled out 
+4. Uninterrupted use of Logmate as new updates are rolled out
 
 Also, remember if you are operating as a sole trader you can claim the purchase of the mobile device as work-tool and benefit from the initial purchase price and on-going depreciation.
 
