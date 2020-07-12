@@ -1,6 +1,6 @@
 +++
 author = "Ellen Quirke"
-date = 2020-07-12T21:00:00Z
+date = 2020-07-12T20:45:00Z
 description = "All your work-tools require investment and upkeep; your mobile device is no different."
 keywords = ["Update", "Software", "Mobile Device", "Logmate App"]
 title = "Invest In All Your Work-Tools; Including Your Mobile Device"
