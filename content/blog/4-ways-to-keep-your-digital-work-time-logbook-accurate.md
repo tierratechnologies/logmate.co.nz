@@ -32,12 +32,12 @@ When you complete a shift in your Digital Logbook your shift record is sent to t
 
 ### 4. If In Doubt, Take A Break
 
-Think about the start and end shift button as clocking in and out of work. You can only start your shift once and finish it once within your workday, but you can have a mixture of on-duty and rest breaks throughout your work shift. So if you are finishing up your on-duty time work but aren’t 100% sure you are completely finished for the day just click the Take Break button. This will essentially "push pause" on your work shift.
+Think about the start and end shift button as clocking in and out of work. You can only start your shift once and finish it once within your workday, but you can have a mixture of on-duty and rest breaks throughout your work shift. So if you are finishing up your on-duty time work but aren’t 100% sure you are completely finished for the day just click the Break button. This will essentially "push pause" on your work shift.
 
-* That way if you do get a surprise and go back on shift; it is possible to do so (without a violation being recorded in your logbook) and you will simply be recording an in-shift rest break
-* If you don’t end up returning to work and end your work shift later in the day, the duration of time that has passed since you started the in-shift rest break will be counted towards your required 10-hour rest break to start a new work shift. 
+* That way if you do get a surprise and go back on shift it is possible to do so (without a violation being recorded in your logbook) and you will simply be recording an in-shift rest break
+* If you do not end up returning to work and end your work shift later in the day, the duration of time that has passed since you started the in-shift rest break will be counted towards your required 10-hour rest break before starting a new work shift.
 
-Just remember any rest breaks less than 30min in duration won't count as a rest-break and instead be counted towards your on-duty time. 
+Just remember any rest breaks less than 30min in duration will not count as a rest-break and instead be counted towards your on-duty time.
 
 ***
 
