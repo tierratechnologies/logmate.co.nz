@@ -2,7 +2,6 @@
 author = "Ellen Quirke"
 date = 2020-06-15T23:41:52Z
 description = "Why does the cargo you're carrying change how a driver should behave?"
-draft = true
 keywords = ["Fatigue", "Compliance", "Passenger Service", "Courier Drivers", "Legislation"]
 title = "The Work-Time Rules Exceptions That Put Road Users At Risk"
 
@@ -21,7 +20,7 @@ If you don't already know, the standard work time rules are as follows:
 * A "cumulative work day" can have a maximum of **_13 hours of work_** (on-duty) time and must include a continuous **_10-hour rest break_**. This has to be completed within a **_24 hour period_**.
 * A "cumulative work period" is the sum of all the work (on-duty) time completed between **_two continuous 24 hour rest periods_** and can be no longer than **_70 hours total_**.
 
-On the surface, the work-time rules are fairly straight-forward and appear to set out clear expectations on what is safe and effective for commercial drives to manage their fatigue. Unfortunately, it is not that simple. There are **two key exceptions** (and many other smaller ones) to these work-time requirements that increase the risk to other road users. These apply to Small Passenger Service Drivers and Light Vehicle Short-Haul Goods Drivers (essentially couriers).
+On the surface, the work-time rules are fairly straight-forward and appear to set out clear expectations on what is safe and effective for commercial drives to manage their fatigue. Unfortunately, it is not that simple. There are **two key exceptions** (and many other smaller ones) to these work-time requirements that increase the risk to other road users. These apply to Small Passenger Service Drivers and Light Vehicle Short-Haul Goods Drivers (couriers services).
 
 ### Small Passenger Service Industry
 
@@ -37,7 +36,7 @@ However, with the introduction of the new work-time rules,[ a Small Passenger Se
 
 Unfortunately, the industry has evolved very quickly and the reason for the exemption is probably now the exception and not the standard experience.
 
-With the introduction of additional rideshare companies in New Zealand and the increase of demand from the New Zealand public, drivers are more often than not accepting their next trip before dropping off their current one. For some drivers, they are doing this through a single rideshare company. However, for others, they could be operating for several different rideshare companies at the same time.
+With the introduction of additional rideshare companies in New Zealand and the increase of demand from the New Zealand public, drivers are more often than not accepting their next trip before dropping off their current passenger. For some drivers, they are doing this through a single rideshare company. However, for others, they could be operating for several different rideshare companies at the same time.
 
 So why are small passenger Service Drivers still allowed 7 hours of continuous work when the reason for the exemption no longer fits the true working conditions of these drivers?
 
@@ -47,7 +46,7 @@ So why are small passenger Service Drivers still allowed 7 hours of continuous w
 
 The second relevant exemption is for the light vehicle short-haul good delivery industry (ie, courier services).
 
-* A driver of a goods vehicle does not have to maintain a logbook if the vehicle only requires a class 1 or 2 licenses to be driven and is operated only within a 50km radius of the vehicle operator’s usual business location or is driven within a 50km radius from a base of operations.
+* A driver of a goods vehicle does not have to maintain a logbook or follow the work time requirements if the vehicle only requires a class 1 or 2 licenses to be driven and is operated only within a 50km radius of the vehicle operator’s usual business location or is driven within a 50km radius from a base of operations.
 * The base of operations means a site office established for at least 24 hours or a local depot to which drivers report daily for assignment of tasks or to commence driving.
 
   ![](https://images.unsplash.com/photo-1556011308-d6aedab5ed8f?utm_medium=medium&w=700&q=50&auto=format)
@@ -62,7 +61,9 @@ Personally, I have been having a tough time understanding why courier drivers in
 
 I suppose there is an added risk to the passengers within that vehicle if a small passenger service driver is operating in a fatigued state. They trust the driver is operating in a safe manner and that they will get them from point A to point B safely. And the driver is taking on passengers knowing that their safety is their priority.
 
-> But what about other road users, cyclists or pedestrians? They are trusting that anyone who is operating a motor vehicle is doing so in a safe manner, especially those that are driving as part of their employment. When a cyclist gets knocked off their bike, does it matter what type of driver was behind the wheel and what their cargo was? No!
+But what about other road users, cyclists or pedestrians? They are trusting that anyone who is operating a motor vehicle is doing so in a safe manner, especially those that are driving as part of their employment.
+
+> **_When a cyclist gets knocked off their bike, does it matter what type of driver was behind the wheel and what their cargo was? No!_**
 
 Also, where does the affects of fatigue change by the type of "cargo" you have in your vehicle? A driver, regardless of the contents of their vehicle, poses the same risk to other road users if they are driving in a fatigued state.
 
@@ -78,7 +79,7 @@ During the Covid-19 pandemic in New Zealand, we have seen countless news stories
 
 The NZ Ministry of Transport even backs up these findings publishing on their website that "research shows the longer people spend driving without a break, the greater their level of fatigue. Also, the time spent in other activities such as work, school, and so on, can increase fatigue and affect subsequent driving."
 
-> So why can SPS drivers operate for 7 hours straight and courier drivers have no restrictions?
+> **_So why can SPS drivers operate for 7 hours straight and courier drivers have no restrictions?_**
 
 ***
 
@@ -90,7 +91,7 @@ Generally, it is not driving alone that causes fatigue but rather several contri
 
 Microsleeps are short bursts of sleep, often experienced without the person even being aware they took place ([tuck.com](https://www.tuck.com/microsleep/)). During this time (which can last anywhere between a few seconds to a few minutes) a driver will not be able to respond to an external stimulus such as crossing the centre line, an upcoming turn or traffic lights.
 
-> Microsleep episodes do not discriminate based on the type of work a driver is undertaking or what their cargo is. So why do our work-time rules?
+> **_Microsleep episodes do not discriminate based on the type of work a driver is undertaking or what their cargo is. So why do our work-time rules?_**
 
 ***
 
