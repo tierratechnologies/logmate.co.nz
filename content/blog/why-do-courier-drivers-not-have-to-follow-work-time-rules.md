@@ -8,9 +8,9 @@ title = "The Work-Time Rules Exceptions That Put Road Users At Risk"
 +++
 # The Work-Time Rule Exceptions That Put Road Users At Risk
 
-![](/uploads/architecture-auto-automobiles-bridge-210182.jpg)
-
 While there are no restrictions in place to prevent the general public from driving fatigued like there is for drink driving, there are regulations for commercial drivers. However, did you know not every commercial driver in New Zealand has to follow the same rules?
+
+![](/uploads/architecture-auto-automobiles-bridge-210182.jpg)
 
 The [New Zealand work-time and logbook requirements](https://www.nzta.govt.nz/commercial-driving/commercial-safety/work-time-and-logbook-requirements/) were updated in 2017 and are designed to minimise the occurrence of fatigue for commercial drivers. 
 
