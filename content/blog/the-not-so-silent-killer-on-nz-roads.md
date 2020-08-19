@@ -6,6 +6,10 @@ keywords = ["fatigue", "driving", "compliance", "drunk driving", "speeding"]
 title = "The Not So Silent Killer on New Zealand Roads"
 
 +++
+# The Not So Silent Killer on New Zealand Roads
+
+##### Driver fatigue is a serious problem, why is nothing been done about it?
+
 ![](/uploads/adult-dark-depressed-face-262218.jpg)
 
 I want to give you two scenarios that a lot of us would have experienced.
@@ -110,7 +114,7 @@ Also interesting to note in the last time the Driver Fatigue page was updated wa
 
 Fatigue is a massive contributor to road accidents in New Zealand. **The statistics on fatal crashes that are attributed to fatigue are most likely underreported due to the difficulties of determining fatigue as a cause.** However, if we look at the amount of minor injury crashes attributed to fatigue the number has increased from 469 in 1990 to 743 in 2018. That is **almost a twofold increase in the number of accidents** and this trend is more likely representative of the true effect of driver fatigue on our roads.
 
-Since we have a lack of the ability to monitor driver fatigue and there are **no consequences for driving while fatigue** I don't think we will see an improvement in these numbers anytime soon. 
+Since we have a lack of the ability to monitor driver fatigue and there are **no consequences for driving while fatigue** I don't think we will see an improvement in these numbers anytime soon.
 
 > The public opinion on driver fatigue needs to change.
 
