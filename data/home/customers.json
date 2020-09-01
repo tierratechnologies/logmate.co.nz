@@ -14,13 +14,6 @@
     }
   },
   {
-    "name": "Booths Transport",
-    "type": "freight",
-    "image": {
-      "file_name": "images/booths_logo.jpg"
-    }
-  },
-  {
     "name": "Agtrans",
     "type": "freight",
     "image": {
