@@ -21,27 +21,6 @@
     }
   },
   {
-    "name": "Interwaste",
-    "type": "logistics",
-    "image": {
-      "file_name": "images/iwaste_logo.png"
-    }
-  },
-  {
-    "name": "J.Swap Contractors",
-    "type": "logistics",
-    "image": {
-      "file_name": "images/jswap-logo-footer.png"
-    }
-  },
-  {
-    "name": "Hireaccess Ltd",
-    "type": "logistics",
-    "image": {
-      "file_name": "images/hire-access-logo.jpg"
-    }
-  },
-  {
     "name": "Mahu City Express",
     "type": "transport",
     "image": {
@@ -84,17 +63,52 @@
     }
   },
   {
-    "name": "Grape Escape",
-    "type": "transport",
-    "image": {
-      "file_name": "https://static.wixstatic.com/media/570560_512c32036b454ca3b35c9c51e41be487~mv2.png"
-    }
-  },
-  {
     "name": "Zoomy",
     "type": "rideshare",
     "image": {
       "file_name": "https://zoomy.co.nz/images/logo-zoomy.png"
+    }
+  },
+  {
+    "name": "Didi",
+    "type": "rideshare",
+    "image": {
+      "file_name": "https://newzealand.didiglobal.com/wp-content/uploads/sites/18/2020/08/00_DiDi_Logo_NZ.png"
+    }
+  },
+  {
+    "name": "Central Transport",
+    "type": "freight",
+    "image": {
+      "file_name": "http://centraltransport.co.nz/wp-content/uploads/2014/11/centraltransport-logo.jpg"
+    }
+  },
+  {
+    "name": "Waipa Civil",
+    "type": "transport",
+    "image": {
+      "file_name": "https://www.waipacivil.co.nz/images/600/191/waipa-civil-logo-sml"
+    }
+  },
+  {
+    "name": "TAA Logistics",
+    "type": "logistics",
+    "image": {
+      "file_name": "https://images.squarespace-cdn.com/content/5f3afce32468400e00f6a0b3/1597803774678-IHOWU6G3GXXSO153RGIX/TAA+LOGO++.jpg?content-type=image%2Fjpeg"
+    }
+  },
+  {
+    "name": "Freedom Drivers",
+    "type": "rideshare",
+    "image": {
+      "file_name": "https://freedomdrivers.co.nz/style/images/logo/logo_freedom.png"
+    }
+  },
+  {
+    "name": "Driving Miss Daisy",
+    "type": "rideshare",
+    "image": {
+      "file_name": "https://drivingmissdaisy.co.nz/wp-content/uploads/2019/11/DMD-logo-header@2x.png"
     }
   }
 ]
