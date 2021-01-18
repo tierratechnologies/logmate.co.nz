@@ -66,7 +66,7 @@
     "name": "Zoomy",
     "type": "rideshare",
     "image": {
-      "file_name": "https://zoomy.co.nz/images/logo-zoomy.png"
+      "file_name": "images/logo-zoomy.png"
     }
   },
   {
@@ -80,7 +80,7 @@
     "name": "Central Transport",
     "type": "freight",
     "image": {
-      "file_name": "http://centraltransport.co.nz/wp-content/uploads/2014/11/centraltransport-logo.jpg"
+      "file_name": "images/centraltransport-logo.jpg"
     }
   },
   {
