@@ -1,9 +1,9 @@
 +++
-author = ""
-date = 2021-02-15T21:02:10Z
-description = ""
+author = "Ellen Quirke"
+date = 2021-02-15T23:30:10Z
+description = "Following and recording work-time in your logbook regardless of type of work."
 draft = true
-keywords = []
+keywords = ["Logmate", "Logmate App", "Worktime", "requirements", "NZTA", "New Zealand"]
 title = "How To Record Work-time For Rideshare And Non-driving Employment"
 
 +++
