@@ -55,15 +55,15 @@ Other Duties encompasses all types of work that isn't driving. For example:
 
 ### Why It Is Important?
 
-1. **It's the law.**
+**It's the law.**
 
-   The following comes from the [Land Transport Rule: Work Time and Logbooks 2007](https://www.nzta.govt.nz/assets/resources/rules/docs/work-time-and-logbooks-2007-as-at-1-October-2017.pdf).
+The following comes from the [Land Transport Rule: Work Time and Logbooks 2007](https://www.nzta.govt.nz/assets/resources/rules/docs/work-time-and-logbooks-2007-as-at-1-October-2017.pdf).
 
 ![](/uploads/screen-shot-2021-02-16-at-12-15-42-pm.png)
 
-2. **Prevent fatigue related accidents on our roads.**
+**Prevent fatigue related accidents on our roads.**
 
-   In 2019 [36 deaths in road accidents](https://www.transport.govt.nz/statistics-and-insights/safety-annual-statistics/) were attributed to driver fatigue on New Zealand roads. That is 36 peoples lives that ended because a person operating a motor vehicle was driving in a fatigued state. Anything we can do in the transportation industry to minimise this statistic is extremely vital. That is why is is important to remember that all types of work contribute to a cumulative fatigue affect which can only be reduced by rest.
+In 2019 [36 deaths in road accidents](https://www.transport.govt.nz/statistics-and-insights/safety-annual-statistics/) were attributed to driver fatigue on New Zealand roads. That is 36 peoples lives that ended because a person operating a motor vehicle was driving in a fatigued state. Anything we can do in the transportation industry to minimise this statistic is extremely vital. That is why is is important to remember that all types of work contribute to a cumulative fatigue affect which can only be reduced by rest.
 
 If you have any more questions about recording other employment in your Logmate Digital Logbook please contact our [Customer Support Team](https://help.logmate.co.nz/en/articles/3383687-how-do-i-contact-logmate-customer-support).
 
