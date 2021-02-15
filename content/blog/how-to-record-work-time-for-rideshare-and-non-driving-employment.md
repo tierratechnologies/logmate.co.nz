@@ -61,7 +61,7 @@ Other Duties encompasses all types of work that isn't driving. For example:
 
 ![](/uploads/screen-shot-2021-02-16-at-12-15-42-pm.png)
 
-1. **Prevent fatigue related accidents on our roads.**
+2. **Prevent fatigue related accidents on our roads.**
 
    In 2019 [36 deaths in road accidents](https://www.transport.govt.nz/statistics-and-insights/safety-annual-statistics/) were attributed to driver fatigue on New Zealand roads. That is 36 peoples lives that ended because a person operating a motor vehicle was driving in a fatigued state. Anything we can do in the transportation industry to minimise this statistic is extremely vital. That is why is is important to remember that all types of work contribute to a cumulative fatigue affect which can only be reduced by rest.
 
