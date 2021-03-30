@@ -158,9 +158,9 @@ parties. We will only disclose your personal data to:
 ## Generate Duty of Proof
 
 Logmate will keep a Drivers work-time history private, however, there are obligations
-under [The Land Transport Act 1998 (“The Act”)](www.legislation.govt.nz/act/public/1998/0110/latest/DLM433613.html) to
+under [The Land Transport Act 1998 (“The Act”)](https://www.legislation.govt.nz/act/public/1998/0110/latest/DLM433613.html) to
 provide records to enforcement officers when demanded, as outlined
-in [section 30ZD](www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?search=sw_096be8ed80df60cc_30ZD_25_se&p=1&id=DLM434624)
+in [section 30ZD](https://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?search=sw_096be8ed80df60cc_30ZD_25_se&p=1&id=DLM434624)
 of The Act.
 
 The provision of a Drivers work-time history is the responsibility of the Driver. At no time will Logmate provide access
