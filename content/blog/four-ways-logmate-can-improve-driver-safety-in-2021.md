@@ -1,9 +1,9 @@
 +++
-author = ""
+author = "Ellen Quirke"
 date = 2021-01-25T21:43:45Z
-description = "Driver safety is our top priority, lets work together to improve the safety of our roads this year"
+description = "Discussing the four key factors at the heart of the Logmate System that sets us apart"
 draft = true
-keywords = ["driver safety"]
+keywords = ["software", "saas", "technology", "compliance"]
 title = "The Four Key Factors That Make Logmates Digital Logbook The Best Choice For Your Business"
 
 +++
@@ -47,7 +47,6 @@ We all know that mistakes happen. When that happens with pen and paper there is 
 1. We display countdown timers that show exactly how much longer a driver has until a break is due or when they can return to work.
 2. We auto-populate the time and location fields when an entry is made.
 3. If something looks not quite right in an entry or what they are trying to enter isn't possible (like a time in the future) we will display an error message and prevent the entry from being made.
-4. 
 
 ### Conclusion
 
