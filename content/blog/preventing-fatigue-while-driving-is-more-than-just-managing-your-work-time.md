@@ -1,6 +1,6 @@
 +++
 author = "Ellen Quirke"
-date = 2021-06-29T22:20:32Z
+date = 2021-08-15T22:20:32Z
 description = "Drivers continue to push their working hours motivated by income even while fatigued. Here we talk about ways to minimise becoming fatigued"
 draft = true
 keywords = ["driver fatigue", "driving", "work time", "fatigue", "logmate"]
