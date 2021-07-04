@@ -8,20 +8,22 @@ title = "The Four Key Factors At The Heart Of The Logmate System"
 +++
 # The Four Key Factors At The Heart Of The Logmate System
 
-Logmate is a system built around people. We believe that people should always be made the priority and building tools with that mindset allows us to truly understand the needs of the Industry. 
+![](/uploads/pexels-fauxels-3184418.jpeg)
 
-The Logmate Digital Logbook was designed with four key principles in mind. 
+Logmate is a system built around people. We believe that people should always be made the priority and building tools with that mindset allows us to truly understand the needs of the Industry.
+
+The Logmate Digital Logbook was designed with four key principles in mind.
 
 1. Simplicity
 2. Visibility
 3. Accountability
 4. Accuracy
 
-In this post, I am going to talk about how these four key principles are visible throughout the platform and why it makes the Logmate Digital Logbook the best choice if you are looking to start using an electronic logbook for your business. 
+In this post, I am going to talk about how these four key principles are visible throughout the platform and why it makes the Logmate Digital Logbook the best choice if you are looking to start using an electronic logbook for your business.
 
 ### Easy and Simple To Use
 
-We understand that the biggest barrier to entry when switching to a technology solution is often the perception that it is going to be complicated or difficult to use. That is why we have prioritised keeping things simple at Logmate, in every aspect of our business. 
+We understand that the biggest barrier to entry when switching to a technology solution is often the perception that it is going to be complicated or difficult to use. That is why we have prioritised keeping things simple at Logmate, in every aspect of our business.
 
 * Entries are made at a touch of a button and a majority of the entry is auto-populated
 * Our design is completely stripped back with only necessary information being displayed
@@ -49,8 +51,8 @@ We all know that mistakes happen. When that happens with pen and paper there is 
 
 ### Conclusion
 
-As it stands today we believe the Logmate System is an effective tool for compliance in the Transport Industry in New Zealand. It simplifies keeping a logbook for drivers and provides insights to Operators which improves business management. However, at Logmate we always think things can be improved. 
+As it stands today we believe the Logmate System is an effective tool for compliance in the Transport Industry in New Zealand. It simplifies keeping a logbook for drivers and provides insights to Operators which improves business management. However, at Logmate we always think things can be improved.
 
-Over the past 18 months, we have been going through a complete redevelopment of the Logmate System which will not only allow us to improve the way in which the current system operates but will enable us to continue to build tools in conjunction with the needs of the industry. 
+Over the past 18 months, we have been going through a complete redevelopment of the Logmate System which will not only allow us to improve the way in which the current system operates but will enable us to continue to build tools in conjunction with the needs of the industry.
 
-We will have more updates over the coming months both about what the new system will feature as well as when to expect changes. 
+We will have more updates over the coming months both about what the new system will feature as well as when to expect changes.
