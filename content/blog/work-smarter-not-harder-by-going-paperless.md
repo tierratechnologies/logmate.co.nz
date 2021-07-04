@@ -69,3 +69,7 @@ Work time compliance regulations for the Transportation Industry in New Zealand 
 Going paperless allows technology to do the work for you. Times and locations are auto-populated, work and rest time balances are automatically calculated and real-time feedback means avoiding accidental mistakes.
 
 ### Conclusion
+
+Here at Logmate, we want to feel like every dollar and minute we spend has a purpose and we believe our customers feel the same way. By going paperless with us you will be saving both time and money by streamlining your compliance processes. 
+
+Compliance is an important part of the Transport Industry but if it gets in the way of business operations it is often devauled. We believe by removing the stress of managing compliance by going paperless it can still be made a priority by both Operators and Drivers while not affecting the bottom line. 
