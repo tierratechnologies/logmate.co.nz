@@ -8,7 +8,7 @@ title = "The Four Key Factors At The Heart Of The Logmate System"
 +++
 # The Four Key Factors At The Heart Of The Logmate System
 
-![](/uploads/pexels-fauxels-3184418.jpeg)
+![](/uploads/pexels-fauxels-3184418-1.jpeg)
 
 Logmate is a system built around people. We believe that people should always be made the priority and building tools with that mindset allows us to truly understand the needs of the Industry.
 
