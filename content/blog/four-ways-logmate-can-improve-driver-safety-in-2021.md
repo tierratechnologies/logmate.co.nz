@@ -1,8 +1,7 @@
 +++
 author = "Ellen Quirke"
-date = 2021-07-04T22:43:45Z
+date = 2021-07-04T21:54:00Z
 description = "Discussing the four key factors at the heart of the Logmate System that sets us apart"
-draft = true
 keywords = ["software", "saas", "technology", "compliance"]
 title = "The Four Key Factors At The Heart Of The Logmate System"
 
