@@ -1,8 +1,7 @@
 +++
 author = "Ellen Quirke"
-date = 2020-07-27T01:17:02Z
-description = "How going paperless can help Transport Operators and Drivers improve their compliance requirements"
-draft = true
+date = 2020-08-05T23:13:02Z
+description = "How going paperless can help Operators and Drivers in the Transport Industry"
 keywords = ["Compliance", "Transport Operator", "Tech Tools", "Logmate"]
 title = "Work Smarter, Not Harder By Going Paperless"
 
