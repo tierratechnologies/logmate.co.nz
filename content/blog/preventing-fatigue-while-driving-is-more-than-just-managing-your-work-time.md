@@ -1,6 +1,6 @@
 +++
 author = "Ellen Quirke"
-date = 2021-08-29T23:00:32Z
+date = 2021-08-28T23:00:32Z
 description = "Drivers continue to push their working hours motivated by income even while fatigued. Here we talk about ways to minimise becoming fatigued"
 keywords = ["driver fatigue", "driving", "work time", "fatigue", "logmate"]
 title = "Preventing Fatigue While Driving Is More Than Just Managing Your Work Time"
