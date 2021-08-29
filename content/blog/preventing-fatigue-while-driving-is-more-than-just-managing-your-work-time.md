@@ -6,7 +6,7 @@ keywords = ["driver fatigue", "driving", "work time", "fatigue", "logmate"]
 title = "Preventing Fatigue While Driving Is More Than Just Managing Your Work Time"
 
 +++
-## Preventing Fatigue While Driving Is More Than Just Managing Your Work Time
+# Preventing Fatigue While Driving Is More Than Just Managing Your Work Time
 
 ![](/uploads/pexels-eberhard-grossgasteiger-1612461.jpeg)
 
@@ -22,7 +22,7 @@ However, we continue to see drivers making more risky choices with their decisio
 
 So in this article, we are going to talk about some strategies to reduce driver fatigue so that you can safely maximise your driving hours.
 
-## Stay Hydrated
+### 1. Stay Hydrated
 
 Hydration is my number one tip to preventing the onset of fatigue. Water plays a vital role in making sure essential nutrients are transported to cells in your body and removing waste products. Since we lose water through sweat, urine and even just breathing we need to make sure we are replacing it adequately. Even the smallest amount of water loss can start to make you feel sluggish.
 
@@ -30,7 +30,7 @@ So how much water do you need to drink? The [Mayo Clinic]() has reported that me
 
 So make sure you have a water bottle handy in your vehicle and sip on it throughout the day to make sure you are staying hydrated and energised.
 
-## Light Exercise
+### 2. Light Exercise
 
 While heavy exercise can contribute to feeling fatigued light exercise can actually help prevent it. In fact, a study by the [University of Georgia](https://www.sciencedaily.com/releases/2008/02/080228112008.htm) found that:
 
@@ -38,7 +38,7 @@ While heavy exercise can contribute to feeling fatigued light exercise can actua
 
 At it isn't as hard as you might think. It could be as simple as getting out of your car during your lunch break at taking a 30min walk. The combination of a slightly, elevated heart rate, fresh air and movement of your body will overall make you feel refreshed and energised.
 
-## Get A Good Nights Sleep
+### 3. Get A Good Nights Sleep
 
 We all know that getting a good night sleep is impactful on most areas of our life. But how much does it really effect us? It is recommended that an adult gets 8 hours of sleep per night; however, this can be slightly more or slightly less for some people. When you don't get enough sleep for a single night you might just feel a bit sleepy; however, lack of sleep has a cumulative affect. If you continue to not get enough sleep feelings of fatigue will start to creep in. 
 
@@ -46,7 +46,7 @@ Unfortunately, continued lack of sleep can also affect other areas of our overal
 
 There is only one way to reverse the affect of lack of sleep and I'm sure you can guess what that is.  To catch up on sleep. Now because of the cumulative affect of sleep deprivation over time it will take time to be able to catch back up on the sleep missed. This could mean increasing the hours you sleep each day for a week or even up to a month depending how sleep deprived you have been. However, the outcome of feeling fresher and not fatigued will be worth it.
 
-## Make Good Food Choices
+### 4. Make Good Food Choices
 
 What we put in our mouths has a huge impact on the state of our body and mind. Foods that are high in sugar can cause massive fluctuations in blood sugar. While you may feel energised for a period of time (while your blood sugar is high) you will quickly turn to feel lethargic and sluggish. The same goes for heavy starches or fatty meats. All of these foods contribute to weighing down both our body and our mind.
 
