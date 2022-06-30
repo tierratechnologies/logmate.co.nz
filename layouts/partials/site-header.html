@@ -26,7 +26,7 @@
                         {{$list := where .Site.RegularPages "Section" "products" }}
                         {{range $p := sort $list ".Title" }}
                         <a href="{{$p.RelPermalink}}"
-                           class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                           class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
                         {{ end }}
 
                     </div>
@@ -44,7 +44,7 @@
                         {{$list := where .Site.RegularPages "Section" "resource" }}
                         {{range $p := sort $list ".Title" }}
                         <a href="{{$p.RelPermalink}}"
-                           class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                           class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
                         {{ end }}
 
                     </div>
@@ -57,7 +57,7 @@
                         {{$list := where .Site.RegularPages "Section" "about" }}
                         {{range $p := sort $list ".Title" }}
                         <a href="{{$p.RelPermalink}}"
-                           class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                           class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
                         {{ end }}
 
                     </div>
@@ -70,7 +70,7 @@
                         {{$list := where .Site.RegularPages "Section" "blog" }}
                         {{range $p := sort $list.ByDate.Reverse }}
                         <a href="{{$p.RelPermalink}}"
-                           class="navbar-item {{if eq $p.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                           class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
                         {{ end }}
 
                     </div>
