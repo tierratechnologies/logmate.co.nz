@@ -1,15 +1,16 @@
 [
   {
     "avatar": null,
-    "full_name": "Michaela Hogan",
-    "job_title": "Customer Support Specialist",
-    "lives": "Nelson, New Zealand",
+    "full_name": "Reuben White",
+    "job_title": "Customer Support Specialist & Junior Developer",
+    "lives": "Tauranga, New Zealand",
     "timezone": "UTC+12:00",
-    "joined": "June, 2020",
+    "joined": "Feb, 2023",
     "biography": [
-      "Michaela joined us in June 2020. She lives in sunny Nelson at the top of New Zealand's South Island.",
-      "She is a mother of 2 kids; has a background in Financial Services, and has been involved in Customer Support for several years.",
-      "Michaela covers most week days during business hours and assists with the authoring of Support materials."
+      "Reuben joined us in early 2023, and is based in Tauranga, New Zealand.",
+      "He has a background in customer support, previously working in the crypto space, and still enjoys trading in his spare time.",
+      "Reuben completed a Bachelor of Computer and Information Science at AUT in 2020, majoring in Software Development.",
+      "He is around in the morning's to provide support, so feel free to reach out to him with any questions."
     ]
   },  
   {
@@ -38,20 +39,7 @@
       "Paul is one of the most experienced Crypto Engineers in New Zealand, but loves New Zealand too much to move the USA where the money is.",
       "We love him for it."
     ]
-  },
-  {
-    "avatar": null,
-    "full_name": "Sam Peacy",
-    "job_title": "Senior Software Engineer",
-    "lives": "Auckland, New Zealand",
-    "timezone": "UTC+09:00",
-    "joined": "August, 2017",
-    "biography": [
-      "Originally from the UK, Sam is a true English gentle-man.",
-      "Sam helps on the incumbent Ruby on Rails backend and Admins and basically saves our bacon when we need it most.",
-      "We love him for it too."
-    ]
-  },
+  },  
   {
     "avatar": null,
     "full_name": "Rick Cranswick",
@@ -80,13 +68,13 @@
     "avatar": null,
     "full_name": "Ellen Quirke",
     "job_title": "Operations Manager",
-    "lives": "Red Beach, Auckland",
+    "lives": "Manguaturoto, Northland",
     "timezone": "UTC+12:00",
     "joined": "September, 2019",
     "biography": [
       "Ellen holds a Class 2 Driver license endorsement and has a family background in vehicles &amp; the transport industry.",
-      "She brings with her an impressive list of skills &amp; achievements; most notably as a member of the New Zealand Swim Team at the 2014 Commonwealth Games",
-      "Ellen completed her Master of Sport and Recreation First Class Honors (Exercise Physiology) at AUT in 2018 and holds a Bachelor of Kinesiology."
+      "They bring an impressive list of skills &amp; achievements; most notably as a member of the New Zealand Swim Team at the 2014 Commonwealth Games",
+      "Ellen completed their Masters of Sport and Recreation First Class Honors (Exercise Physiology) at AUT in 2018 and holds a Bachelor of Kinesiology."
     ]
   },
   {

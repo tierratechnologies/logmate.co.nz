@@ -27,13 +27,7 @@
       "file_name": "images/mahu-city-express-logo.png"
     }
   },
-  {
-    "name": "Mountain Bike Station",
-    "type": "transport",
-    "image": {
-      "file_name": "images/mtbstation1jpg_2.jpg"
-    }
-  },
+  
   {
     "name": "Tongariro River Rafting",
     "type": "transport",
@@ -47,14 +41,7 @@
     "image": {
       "file_name": "images/flexi-tours-logonew.jpg"
     }
-  },
-  {
-    "name": "Zero C Cabs",
-    "type": "transport",
-    "image": {
-      "file_name": "images/zeroc-world-logo.png"
-    }
-  },
+  },  
   {
     "name": "Gravity Nelson",
     "type": "transport",
@@ -75,14 +62,7 @@
     "image": {
       "file_name": "images/00_DiDi_Logo_NZ.png"
     }
-  },
-  {
-    "name": "Central Transport",
-    "type": "freight",
-    "image": {
-      "file_name": "images/centraltransport-logo.jpg"
-    }
-  },
+  },  
   {
     "name": "Waipa Civil",
     "type": "transport",
@@ -101,7 +81,7 @@
     "name": "Freedom Drivers",
     "type": "rideshare",
     "image": {
-      "file_name": "https://freedomdrivers.co.nz/style/images/logo/logo_freedom.png"
+      "file_name": "https://freedomdrivers.co.nz/wp-content/uploads/2022/07/freedom-drivers-logo-retina.png"
     }
   },
   {
@@ -109,6 +89,27 @@
     "type": "rideshare",
     "image": {
       "file_name": "https://drivingmissdaisy.co.nz/wp-content/uploads/2019/11/DMD-logo-header@2x.png"
+    }
+  },
+  {
+    "name": "Happy Mobility",
+    "type": "rideshare",
+    "image": {
+      "file_name": "https://static.wixstatic.com/media/d70c2c_0acbd544b3714dc1af86cc24ec38aa8c~mv2.png/v1/fill/w_494,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Happy%20Mobility%20Logo.png"
+    }
+  },
+  {
+    "name": "Interflow",
+    "type": "rideshare",
+    "image": {
+      "file_name": "images/interflow-logo.jpg"
+    }
+  },
+  {
+    "name": "Mini-tankers",
+    "type": "transport",
+    "image": {
+      "file_name": "https://www.minitankers.co.nz/themes/minitankers/images/logo.png"
     }
   }
 ]
