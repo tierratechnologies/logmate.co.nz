@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "T2V47AQDDE.nz.co.logmate.app",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

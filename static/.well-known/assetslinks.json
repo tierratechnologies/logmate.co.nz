@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nz.co.logmate.app",
+      "sha256_cert_fingerprints":
+      ["e7:dd:0c:aa:e6:33:50:73:51:20:d2:21:df:d7:e9:b9:ec:3d:76:69:f9:9c:20:8f:0a:43:08:16:2b:23:c5:e3"]
+    }
+  }]
+  
