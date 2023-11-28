@@ -52,3 +52,7 @@ command = "npm --prefix themes/logmate/ i && hugo"
     to = "/policies/refunds/"
     status = 301
 
+[[headers]]
+    for = "/.well-known/*"
+    [headers.values]
+        Content-Type = "application/json"
