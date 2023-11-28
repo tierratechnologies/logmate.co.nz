@@ -1,10 +1,15 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "nz.co.logmate.app",
-      "sha256_cert_fingerprints":
-      ["e7:dd:0c:aa:e6:33:50:73:51:20:d2:21:df:d7:e9:b9:ec:3d:76:69:f9:9c:20:8f:0a:43:08:16:2b:23:c5:e3"]
+      "sha256_cert_fingerprints": [
+        "E7:DD:0C:AA:E6:33:50:73:51:20:D2:21:DF:D7:E9:B9:EC:3D:76:69:F9:9C:20:8F:0A:43:08:16:2B:23:C5:E3",
+        "83:DB:BA:53:87:58:DC:F9:7C:0C:4E:3F:0A:87:62:2D:A4:0E:22:66:5F:FB:67:21:FF:F7:9F:4B:97:6B:F9:CE"
+      ]
     }
-  }]
-  
+  }
+]
