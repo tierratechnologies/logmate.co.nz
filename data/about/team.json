@@ -1,4 +1,17 @@
 [
+    {
+    "avatar": null,
+    "full_name": "Evan Caldon",
+    "job_title": "Customer Success Manager",
+    "lives": "Christchurch, New Zealand",
+    "timezone": "UTC+12:00",
+    "joined": "July, 2024",
+    "biography": [
+      "Based in Christchurch, New Zealand since 2021, Evan kicked off his professional career in his home state of Minnesota as a Project Manager at an exhibit design company.",
+      "After being whisked away from the snowy winters of Minnesota by his Kiwi partner, he became the CSM at Hilti NZ for two years working with SaaS products daily.",
+      "Evan holds a BA in Communication, has won a NZ National Wrestling title, and you'll be hard-pressed to beat him in a game of cribbage or scrabble."
+    ]
+  }, 
   {
     "avatar": null,
     "full_name": "Reuben White",
@@ -62,19 +75,6 @@
     "biography": [
       "Based in Auckland, New Zealand since 2002, Jay provides executive advisory services and serves on the boards of a select group of technology-oriented software, services, and internet businesses around the world.",
       "Jay is the former President &amp; CEO of Sagebrush Corporation, a leader in educational software, and was a senior executive at Reynolds &amp; Reynolds. In addition, he has held key management positions with Allen-Bradley and McKinsey &amp; Co."
-    ]
-  },
-  {
-    "avatar": null,
-    "full_name": "Ellen Quirke",
-    "job_title": "Operations Manager",
-    "lives": "Manguaturoto, Northland",
-    "timezone": "UTC+12:00",
-    "joined": "September, 2019",
-    "biography": [
-      "Ellen holds a Class 2 Driver license endorsement and has a family background in vehicles &amp; the transport industry.",
-      "They bring an impressive list of skills &amp; achievements; most notably as a member of the New Zealand Swim Team at the 2014 Commonwealth Games",
-      "Ellen completed their Masters of Sport and Recreation First Class Honors (Exercise Physiology) at AUT in 2018 and holds a Bachelor of Kinesiology."
     ]
   },
   {
