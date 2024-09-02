@@ -88,3 +88,39 @@ $fa-font-path: "../webfonts";
 @import "font-awesome-scss/regular";
 @import "font-awesome-scss/solid";
 
+
+// custom modal styles
+.modal {
+  .modal-content {
+    overflow: visible;
+    max-height: none;
+    width: 100%;
+    max-width: 900px; 
+  }
+  
+  .modal-card-body {
+    overflow: visible;
+  }
+
+  .columns {
+    margin-bottom: 0;
+  }
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .modal-buttons {
+    margin-top: auto;
+  }
+
+// centering the modal close button on mobile
+  @include mobile {
+    .modal-close {
+      transform: translateX(50%);
+    }
+  }
+}
+
