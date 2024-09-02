@@ -15,10 +15,7 @@
         </div>
 
         <!-- Menu-->
-        {{ $cp := "" }}
-        {{ with .File }}
-        {{ $cp = .UniqueID }}
-        {{ end }}
+        {{ $cp := .File.UniqueID }}
 
         <div id="main-nav" class="navbar-menu">
             <div class="navbar-start">
