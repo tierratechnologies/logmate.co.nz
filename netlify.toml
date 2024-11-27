@@ -1,0 +1,58 @@
+[build]
+publish = "public"
+command = "npm --prefix themes/logmate/ i && hugo"
+
+[[redirects]]
+    from = "https://logmate.netlify.com/*"
+    to = "https://logmate.co.nz/:splat"
+    status = 301
+
+[[redirects]]
+    from = "/about/"
+    to = "/about/company/"
+    status = 301
+
+[[redirects]]
+    from = "/drivers"
+    to = "/products/drivers-logbook/"
+    status = 301
+
+[[redirects]]
+    from = "/operators.html"
+    to = "/"
+    status = 301
+
+[[redirects]]
+    from = "/media"
+    to = "/"
+    status = 301
+
+[[redirects]]
+    from = "/media/"
+    to = "/about/company/"
+    status = 301
+
+[[redirects]]
+    from = "/terms.html"
+    to = "/policies/terms/"
+    status = 301
+
+[[redirects]]
+    from = "/privacy.html"
+    to = "/policies/privacy/"
+    status = 301
+
+[[redirects]]
+    from = "/mobile.html"
+    to = "/policies/mobile/"
+    status = 301
+
+[[redirects]]
+    from = "/refunds.html"
+    to = "/policies/refunds/"
+    status = 301
+
+[[headers]]
+    for = "/.well-known/*"
+    [headers.values]
+        Content-Type = "application/json"
