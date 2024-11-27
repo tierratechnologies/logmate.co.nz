@@ -37,7 +37,7 @@ $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
 
-@import "../../node_modules/bulma/bulma";
+@import "../../node_modules/bulma/bulma.sass";
 
 // overrides
 $warning: $orange;
@@ -53,7 +53,7 @@ $pricing-item-border: .1rem solid white;
 $pricing-item-color: $grey;
 $pricing-price-background: $white;
 
-@import "../../node_modules/bulma-pricingtable/src/sass/index";
+@import "../../node_modules/bulma-pricingtable/src/sass/index.sass";
 
 // Bulma Timeline
 $timeline-marker-background-color: $white;
