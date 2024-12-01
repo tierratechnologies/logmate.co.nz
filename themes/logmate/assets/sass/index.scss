@@ -124,3 +124,30 @@ $fa-font-path: "../webfonts";
   }
 }
 
+// Store button hover animation
+.steps-content {
+  position: relative;  // Establish stacking context
+  z-index: 2;         // Higher z-index to ensure clickability
+  
+  a {
+    position: relative;  // Establish stacking context
+    z-index: 2;         // Keep same z-index as parent
+    display: inline-block;  // Ensure proper hover area
+    
+    img {
+      transition: transform 0.1s ease-in-out;
+      
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+  }
+}
+
+// Ensure steps line doesn't block clicks
+.steps-segment {
+  .steps-marker {
+    z-index: 1;  // Lower z-index than content
+  }
+}
+
