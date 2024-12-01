@@ -63,11 +63,11 @@ draft: false
 
 ## More resources on the effects of Fatigue
 
-- [Ministry of Transport] (https://www.transport.govt.nz/assets/Uploads/Research/Documents/0f5a557b3c/Fatigue-2017.pdf)
+- [Ministry of Transport](https://www.transport.govt.nz/statistics-and-insights/safety-annual-statistics/sheet/fatigue)
 - [NZTA - Fatigue](https://www.nzta.govt.nz/safety/driving-safely/fatigue/)
-- [NZTA - Fatigue Info-graphic](https://www.nzta.govt.nz/safety/driving-safely/fatigue/fatigue-resources/fatigue-infographic/)
+- [NZTA - Fatigue Info-graphic](https://www.nzta.govt.nz/assets/Safety/docs/fatigue-infographic-A4.pdf)
 - [NZTA - Review on driver fatigue among drivers in the general public](https://www.nzta.govt.nz/assets/resources/research/reports/342/docs/342.pdf)
 - [NZTA - Analysis of Fatigue Levels in NZ Taxi and Local-Rute Truck Drivers](https://www.nzta.govt.nz/assets/resources/fatigue-levels-in-taxi-and-local-route-drivers/docs/taxi-local-route-fatigue.pdf)
 - [NZTA - Health and fatigue](https://www.nzta.govt.nz/assets/resources/heavy-learner/health-and-fatigue/docs/health-and-fatigue.pdf)
-- [Drowsy Driving and Automobile Crashes](https://one.nhtsa.gov/people/injury/drowsy_driving1/drowsy.html)
+- [Drowsy Driving and Automobile Crashes](https://www.nhtsa.gov/risky-driving/drowsy-driving)
 - [WorkSafe - Case Studies - Change in attitude key to tackling fatigue](https://worksafe.govt.nz/the-toolshed/case-studies/work-related-health-case-studies/change-in-attitude-key-to-tackling-fatigue/)
