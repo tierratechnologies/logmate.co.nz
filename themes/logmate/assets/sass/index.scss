@@ -3,10 +3,10 @@
 @import "colours";
 
 .margin-biggest {
-  margin-top: 60px;
-  margin-bottom: 60px;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .margin-moderate {
@@ -35,7 +35,7 @@ $family-sans-serif: 'Barlow', sans-serif;
 $font-family: 'Barlow', sans-serif;
 
 $primary: $blue;
-//$link: $blue;
+$radius: 3px;
 $widescreen-enabled: false;
 $fullhd-enabled: false;
 
@@ -91,11 +91,24 @@ $fa-font-path: "../webfonts";
 
 // custom modal styles
 .modal {
+  padding-right: 0 !important; // Prevent padding shifts
+  
+  &::before {
+    content: '';
+    width: 15px; // Width of scrollbar
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: inherit;
+  }
+
   .modal-content {
     overflow: visible;
     max-height: none;
     width: 100%;
-    max-width: 900px; 
+    max-width: 900px;
+    margin: 0 20px;
   }
   
   .modal-card-body {
@@ -116,10 +129,31 @@ $fa-font-path: "../webfonts";
     margin-top: auto;
   }
 
-// centering the modal close button on mobile
+  // centering the modal close button on mobile
   @include mobile {
     .modal-close {
       transform: translateX(50%);
+    }
+  }
+}
+
+// Prevent body shift when modal opens
+body {
+  &.has-modal {
+    width: 100%;
+    position: fixed;
+    padding-right: 15px !important; // Add padding to body to compensate for scrollbar
+    
+    .navbar {
+      width: 100%;
+      .container {
+        padding: 0 1.5rem;
+      }
+    }
+    
+    // Only adjust content containers
+    > .container:not(.navbar .container) {
+      padding-right: 15px;
     }
   }
 }
@@ -148,6 +182,310 @@ $fa-font-path: "../webfonts";
 .steps-segment {
   .steps-marker {
     z-index: 1;  // Lower z-index than content
+  }
+}
+
+// Add new hero styles
+.hero {
+  &.is-medium {
+    padding: 6rem 1.5rem;
+    
+    @include desktop {
+      padding: 7rem 1.5rem;
+    }
+  }
+  
+  .hero-title {
+    font-size: 3.5rem;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    color: $grey-darker;
+    margin-bottom: 2.5rem;
+    
+    @include desktop {
+      font-size: 4rem;
+    }
+    
+    .highlight {
+      color: $success;
+      display: block;
+      margin-top: 0.75rem;
+      font-size: 0.95em;
+    }
+  }
+  
+  .hero-content {
+    max-width: 540px;
+    margin-bottom: 3rem;
+    
+    .subtitle {
+      &.is-3 {
+        line-height: 1.3;
+        color: $grey-darker;
+      }
+      
+      &.is-5 {
+        line-height: 1.5;
+        font-weight: 400;
+        opacity: 0.85;
+      }
+    }
+  }
+  
+  .buttons {
+    .button {
+      &.is-success {
+        font-weight: 500;
+        padding-left: 2rem;
+        padding-right: 2rem;
+      }
+      
+      &.is-white {
+        border: 2px solid $grey-lighter;
+        
+        &:hover {
+          border-color: $grey-light;
+          background: $white-bis;
+        }
+      }
+    }
+  }
+}
+
+// Add spacing and visual hierarchy
+.steps-section {
+  padding: 4rem 1.5rem;
+  
+  .title {
+    margin-bottom: 3rem;
+  }
+  
+  .steps {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .steps-content {
+    padding: 1.5rem;
+    
+    .store-buttons {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 1.5rem;
+      
+      img {
+        height: 48px;
+        
+        @include tablet {
+          height: 56px;
+        }
+      }
+    }
+  }
+}
+
+// Add to your existing hero styles
+// .hero {
+//   .image {
+//     max-width: 100%;
+//     
+//     @include tablet {
+//       max-width: 95%;
+//       margin: 0 auto;
+//     }
+//     
+//     @include desktop {
+//       max-width: 105%;
+//       margin-left: -2.5%;
+//     }
+//   }
+// }
+
+// Adjust section spacing for better vertical rhythm
+section.section {
+  padding: 4rem 1.5rem;  // Increased from 3rem
+  
+  @include desktop {
+    padding: 5rem 1.5rem;  // Increased from 3.5rem
+  }
+  
+  &.has-background-white-bis {
+    padding: 4.5rem 1.5rem;  // Slightly more padding for sections with background
+    
+    @include desktop {
+      padding: 5.5rem 1.5rem;
+    }
+  }
+}
+
+// Update hero spacing
+.hero.is-medium {
+  padding: 5rem 1.5rem;  // Increased from 3rem
+  
+  @include desktop {
+    padding: 6rem 1.5rem;  // Increased from 4rem
+  }
+  
+  .hero-body {
+    padding: 0;
+  }
+}
+
+// Adjust container max-width for better content width
+.container {
+  @include desktop {
+    max-width: 1080px;  // Slightly increased
+    width: 95%;
+    margin: 0 auto;
+  }
+}
+
+// Improve section spacing
+section.section {
+  padding: 3rem 1.5rem;
+  
+  @include desktop {
+    padding: 3.5rem 1.5rem;  // Less aggressive padding
+  }
+  
+  &.has-background-white-bis {
+    padding: 3rem 1.5rem;  // Consistent with other sections
+    
+    @include desktop {
+      padding: 3.5rem 1.5rem;
+    }
+  }
+}
+
+// Improve steps section spacing
+.steps-section {
+  .steps {
+    max-width: 1000px;  // Wider steps container
+    margin: 3rem auto;  // More vertical margin
+    
+    @include desktop {
+      margin: 4rem auto;
+    }
+  }
+}
+
+// Adjust column gaps
+.columns.is-vcentered {
+  gap: inherit;  // Remove custom gap
+}
+
+// Add/update navbar styles
+.navbar {
+  width: 100%;
+  
+  .container {
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    
+    @include desktop {
+      width: 95%;
+    }
+  }
+
+  // New styles for navbar buttons
+  .navbar-end {
+    .navbar-item {
+      padding: 0.375rem;  // Match other button spacings
+      
+      .button {
+        margin: 0;  // Remove margin, use parent padding instead
+      }
+    }
+  }
+}
+
+// Update modal styles to not affect navbar
+body {
+  &.has-modal {
+    width: 100%;
+    position: fixed;
+    
+    // Remove the padding adjustment for navbar
+    .navbar {
+      width: 100%;
+      .container {
+        padding: 0 1.5rem;  // Keep consistent padding
+      }
+    }
+    
+    // Only adjust content containers
+    > .container:not(.navbar .container) {
+      padding-right: 15px;
+    }
+  }
+}
+
+// Adjust store button spacing - make it tighter
+.steps-content {
+  .columns {
+    &.is-centered {
+      margin: 0;  // Remove default column margins
+      
+      .column.is-narrow {
+        padding: 0.5rem;  // Consistent padding for store buttons
+      }
+    }
+  }
+}
+
+// Customer logos section styling
+.customer-logos {
+  .columns {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: -0.75rem;  // Negative margin to offset padding
+    
+    .column {
+      flex: 0 0 auto;
+      width: auto;
+      padding: 0.75rem;
+      
+      img {
+        max-height: 60px;  // Control logo height
+        width: auto;
+        filter: grayscale(100%);  // Make logos grayscale
+        opacity: 0.8;  // Slightly transparent
+        transition: all 0.2s ease;
+        
+        &:hover {
+          filter: grayscale(0);  // Remove grayscale on hover
+          opacity: 1;  // Full opacity on hover
+        }
+      }
+    }
+  }
+}
+
+// Add spacing between section titles and content
+section.section {
+  .has-text-centered {
+    .title {
+      margin-bottom: 2rem;  // Consistent spacing under titles
+    }
+  }
+  
+  // Specific spacing for key benefits section
+  &.has-background-white-bis {
+    .title {
+      margin-bottom: 2.5rem;  // Slightly more space for sections with background
+    }
+  }
+}
+
+// Specific spacing for customers section
+.customer-logos {
+  .title {
+    margin-bottom: 2.5rem;
   }
 }
 

@@ -21,6 +21,17 @@
         {{ end }}
 
         <div id="main-nav" class="navbar-menu">
+            <div class="is-hidden-desktop" style="padding: 1rem;">
+                <div class="buttons">
+                    <a class="button is-primary is-fullwidth modal-button mb-2" data-target="modal-login">
+                        Log in
+                    </a>
+                    <a class="button is-success is-fullwidth modal-button" data-target="modal-signup">
+                        Start Free Trial
+                    </a>
+                </div>
+            </div>
+
             <div class="navbar-start">
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-link">Products</a>
@@ -83,20 +94,17 @@
 
             </div>
 
-            <div class="navbar-end">
-
+            <div class="navbar-end is-hidden-touch">
                 <div class="navbar-item">
-                    <a class="button is-primary is-fullwidth modal-button" data-target="modal-login">
+                    <a class="button is-primary modal-button" data-target="modal-login">
                         Log in
                     </a>
                 </div>
-
                 <div class="navbar-item">
-                    <a class="button is-success is-fullwidth modal-button" data-target="modal-signup">
-                        Start your FREE Trial
+                    <a class="button is-success modal-button" data-target="modal-signup">
+                        Start Free Trial
                     </a>
                 </div>
-
             </div>
 
         </div>
