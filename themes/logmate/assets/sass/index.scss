@@ -17,8 +17,9 @@
 }
 
 .footer-icon {
-  float: left;
-  margin-right: 10px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
   width: 24px;
   height: 24px;
 }
@@ -486,6 +487,17 @@ section.section {
 .customer-logos {
   .title {
     margin-bottom: 2.5rem;
+  }
+}
+
+// Add styles for the menu item to ensure proper alignment
+.menu-item {
+  display: flex;         // Use flexbox for alignment
+  align-items: center;   // Center items vertically
+  padding: 0.5em 0;     // Add some vertical padding
+  
+  @include mobile {
+    justify-content: center;  // Center in mobile view
   }
 }
 
