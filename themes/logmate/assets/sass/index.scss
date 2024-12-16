@@ -494,3 +494,261 @@ section.section {
     }
   }
 }
+
+.benefits-grid {
+    display: grid;
+    gap: 2rem;
+    margin-top: 3rem;
+    padding: 0 1rem;
+    
+    @include tablet {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2.5rem;
+    }
+    
+    @include desktop {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 2rem;
+    }
+}
+
+.benefit-card {
+    background: $white;
+    border-radius: $radius;
+    padding: 2rem;
+    height: 100%;
+    box-shadow: 0 2px 12px rgba($grey, 0.08);
+    text-align: center;
+    
+    .benefit-icon {
+        width: 64px;
+        height: 64px;
+        margin: 0 auto 1.5rem;
+        
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+    }
+    
+    .benefit-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: $grey-darker;
+        margin-bottom: 0.75rem;
+        text-align: center;
+    }
+    
+    .benefit-subtitle {
+        color: $grey-dark;
+        margin-bottom: 1rem;
+        text-align: center;
+    }
+    
+    .benefit-content {
+        color: $grey-dark;
+        font-size: 0.95rem;
+        text-align: center;
+        
+        p {
+            margin-bottom: 0.75rem;
+            
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+.logo-scroll {
+    position: relative;
+    width: 100%;
+    height: 80px;
+    overflow: hidden;
+    margin: 2rem 0;
+    background: $white;
+    
+    &::before,
+    &::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        width: 120px;
+        height: 100%;
+        z-index: 2;
+        pointer-events: none;
+    }
+    
+    &::before {
+        left: 0;
+        background: linear-gradient(to right, $white, transparent);
+    }
+    
+    &::after {
+        right: 0;
+        background: linear-gradient(to left, $white, transparent);
+    }
+
+    .logo-track {
+        display: inline-flex;
+        animation: scroll 30s linear infinite;
+        
+        &:hover {
+            animation-play-state: paused;
+        }
+    }
+    
+    .logo-item {
+        flex: 0 0 160px;
+        padding: 0.5rem 1rem;
+        
+        figure {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+            img {
+                max-height: 100%;
+                width: auto;
+                object-fit: contain;
+                filter: grayscale(100%);
+                opacity: 0.7;
+                transition: all 0.3s ease;
+                
+                &:hover {
+                    filter: grayscale(0%);
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}
+
+@keyframes scroll {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-50%);
+    }
+}
+
+// Adjust speed on mobile
+@include mobile {
+    .logo-scroll {
+        .logo-track {
+            animation-duration: 15s;
+        }
+    }
+}
+
+.logos {
+    overflow: hidden;
+    padding: 2rem 0;
+    background: $white;
+    white-space: nowrap;
+    position: relative;
+    
+    &:before,
+    &:after {
+        position: absolute;
+        top: 0;
+        width: 150px;
+        height: 100%;
+        content: "";
+        z-index: 2;
+    }
+    
+    &:before {
+        left: 0;
+        background: linear-gradient(to left, rgba($white, 0), $white);
+    }
+    
+    &:after {
+        right: 0;
+        background: linear-gradient(to right, rgba($white, 0), $white);
+    }
+    
+    &:hover .logos-slide {
+        animation-play-state: paused;
+    }
+    
+    .logos-slide {
+        display: inline-block;
+        animation: 35s slide infinite linear;
+        
+        .logo-item {
+            display: inline-block;
+            vertical-align: middle;
+            width: 200px;
+            text-align: center;
+            
+            img {
+                height: 75px;
+                max-width: 170px;
+                object-fit: contain;
+                filter: grayscale(100%);
+                opacity: 0.7;
+                transition: all 0.3s ease;
+                padding: 0 15px;
+                
+                &:hover {
+                    filter: grayscale(0%);
+                    opacity: 1;
+                }
+            }
+        }
+    }
+    
+    // Mobile adjustments
+    @include mobile {
+        padding: 1.5rem 0;
+        
+        &:before,
+        &:after {
+            width: 80px;
+        }
+        
+        .logos-slide {
+            animation-duration: 25s;
+            
+            .logo-item {
+                width: 160px;
+                
+                img {
+                    height: 60px;
+                    max-width: 140px;
+                    padding: 0 10px;
+                }
+            }
+        }
+    }
+    
+    // Tablet adjustments
+    @include tablet-only {
+        .logos-slide {
+            animation-duration: 30s;
+            
+            .logo-item {
+                width: 180px;
+                
+                img {
+                    height: 65px;
+                    max-width: 155px;
+                    padding: 0 12px;
+                }
+            }
+        }
+    }
+}
+
+@keyframes slide {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
