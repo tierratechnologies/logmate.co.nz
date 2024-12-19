@@ -3,10 +3,10 @@
 @import "colours";
 
 .margin-biggest {
-  margin-top: 60px;
-  margin-bottom: 60px;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .margin-moderate {
@@ -15,6 +15,16 @@
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+.footer-icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+  width: 24px;
+  height: 24px;
+}
+
+
 // Import a Google Font
 //@import url('https://fonts.googleapis.com/css?family=Nunito|Libre+Franklin&display=swap');
 //@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri&display=swap');
@@ -26,7 +36,7 @@ $family-sans-serif: 'Barlow', sans-serif;
 $font-family: 'Barlow', sans-serif;
 
 $primary: $blue;
-//$link: $blue;
+$radius: 3px;
 $widescreen-enabled: false;
 $fullhd-enabled: false;
 
@@ -79,3 +89,666 @@ $fa-font-path: "../webfonts";
 @import "font-awesome-scss/regular";
 @import "font-awesome-scss/solid";
 
+
+// custom modal styles
+.modal {
+  padding-right: 0 !important; // Prevent padding shifts
+
+  &::before {
+    content: '';
+    width: 15px; // Width of scrollbar
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: inherit;
+  }
+
+  .modal-content {
+    overflow: visible;
+    max-height: none;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 20px;
+  }
+
+  .modal-card-body {
+    overflow: visible;
+  }
+
+  .columns {
+    margin-bottom: 0;
+  }
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .modal-buttons {
+    margin-top: auto;
+  }
+
+  // centering the modal close button on mobile
+  @include mobile {
+    .modal-close {
+      transform: translateX(50%);
+    }
+  }
+}
+
+// Prevent body shift when modal opens
+body {
+  &.has-modal {
+    width: 100%;
+    position: fixed;
+    padding-right: 15px !important;
+
+    .navbar {
+      width: 100%;
+
+      .container {
+        padding: 0 1.5rem;
+      }
+    }
+
+    // Only adjust content containers
+    >.container:not(.navbar .container) {
+      padding-right: 15px;
+    }
+  }
+}
+
+// Store button hover animation
+.steps-content {
+  position: relative;
+  z-index: 2;
+
+  a {
+    position: relative;
+    z-index: 2;
+    display: inline-block;
+
+    img {
+      transition: transform 0.1s ease-in-out;
+
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+  }
+}
+
+// Ensure steps line doesn't block clicks
+.steps-segment {
+  .steps-marker {
+    z-index: 1; // Lower z-index than content
+  }
+}
+
+// Add new hero styles
+.hero {
+  &.is-medium {
+    padding: 6rem 1.5rem;
+
+    @include desktop {
+      padding: 7rem 1.5rem;
+    }
+  }
+
+  .hero-title {
+    font-size: 3.5rem;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    color: $grey-darker;
+    margin-bottom: 2.5rem;
+
+    @include desktop {
+      font-size: 4rem;
+    }
+
+    .highlight {
+      color: $success;
+      display: block;
+      margin-top: 0.75rem;
+      font-size: 0.95em;
+    }
+  }
+
+  .hero-content {
+    max-width: 540px;
+    margin-bottom: 3rem;
+
+    .subtitle {
+      &.is-3 {
+        line-height: 1.3;
+        color: $grey-darker;
+      }
+
+      &.is-5 {
+        line-height: 1.5;
+        font-weight: 400;
+        opacity: 0.85;
+      }
+    }
+  }
+
+  .buttons {
+    .button {
+      &.is-success {
+        font-weight: 500;
+        padding-left: 2rem;
+        padding-right: 2rem;
+      }
+
+      &.is-white {
+        border: 2px solid $grey-lighter;
+
+        &:hover {
+          border-color: $grey-light;
+          background: $white-bis;
+        }
+      }
+    }
+  }
+}
+
+// Add spacing and visual hierarchy
+.steps-section {
+  padding: 4rem 1.5rem;
+
+  .title {
+    margin-bottom: 3rem;
+  }
+
+  .steps {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .steps-content {
+    padding: 1.5rem;
+
+    .store-buttons {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 1.5rem;
+
+      img {
+        height: 48px;
+
+        @include tablet {
+          height: 56px;
+        }
+      }
+    }
+  }
+}
+
+// Add to your existing hero styles
+// .hero {
+//   .image {
+//     max-width: 100%;
+//     
+//     @include tablet {
+//       max-width: 95%;
+//       margin: 0 auto;
+//     }
+//     
+//     @include desktop {
+//       max-width: 105%;
+//       margin-left: -2.5%;
+//     }
+//   }
+// }
+
+// Adjust section spacing for better vertical rhythm
+section.section {
+  padding: 4rem 1.5rem;
+
+  @include desktop {
+    padding: 5rem 1.5rem;
+  }
+
+  &.has-background-white-bis {
+    padding: 4.5rem 1.5rem;
+
+    @include desktop {
+      padding: 5.5rem 1.5rem;
+    }
+  }
+}
+
+// Update hero spacing
+.hero.is-medium {
+  padding: 5rem 1.5rem;
+
+  @include desktop {
+    padding: 6rem 1.5rem;
+  }
+
+  .hero-body {
+    padding: 0;
+  }
+}
+
+// Adjust container max-width for better content width
+.container {
+  @include desktop {
+    max-width: 1080px;
+    width: 95%;
+    margin: 0 auto;
+  }
+}
+
+// Improve section spacing
+section.section {
+  padding: 3rem 1.5rem;
+
+  @include desktop {
+    padding: 3.5rem 1.5rem;
+  }
+
+  &.has-background-white-bis {
+    padding: 3rem 1.5rem;
+
+    @include desktop {
+      padding: 3.5rem 1.5rem;
+    }
+  }
+}
+
+// Improve steps section spacing
+.steps-section {
+  .steps {
+    max-width: 1000px;
+    margin: 3rem auto;
+
+    @include desktop {
+      margin: 4rem auto;
+    }
+  }
+}
+
+// Adjust column gaps
+.columns.is-vcentered {
+  gap: inherit; // Remove custom gap
+}
+
+// Add/update navbar styles
+.navbar {
+  width: 100%;
+
+  .container {
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+
+    @include desktop {
+      width: 95%;
+    }
+  }
+
+  // New styles for navbar buttons
+  .navbar-end {
+    .navbar-item {
+      padding: 0.375rem;
+
+      .button {
+        margin: 0;
+      }
+    }
+  }
+}
+
+// Update modal styles to not affect navbar
+body {
+  &.has-modal {
+    width: 100%;
+    position: fixed;
+
+    // Remove the padding adjustment for navbar
+    .navbar {
+      width: 100%;
+
+      .container {
+        padding: 0 1.5rem;
+      }
+    }
+
+    // Only adjust content containers
+    >.container:not(.navbar .container) {
+      padding-right: 15px;
+    }
+  }
+}
+
+// Adjust store button spacing - make it tighter
+.steps-content {
+  .columns {
+    &.is-centered {
+      margin: 0; // Remove default column margins
+
+      .column.is-narrow {
+        padding: 0.5rem;
+      }
+    }
+  }
+}
+
+
+// Add spacing between section titles and content
+section.section {
+  .has-text-centered {
+    .title {
+      margin-bottom: 2rem;
+    }
+  }
+
+  &.has-background-white-bis {
+    .title {
+      margin-bottom: 2.5rem;
+    }
+  }
+}
+
+// Specific spacing for customers section
+.customer-logos {
+  .title {
+    margin-bottom: 2.5rem;
+  }
+}
+
+// Add styles for the menu item to ensure proper alignment
+.menu-item {
+  display: flex;
+  align-items: center;
+  padding: 0.5em 0;
+
+  @include mobile {
+    justify-content: center;
+  }
+}
+
+// Google/Apple DL buttons - mobile alignment
+.steps-content {
+  .columns.is-centered.is-vcentered {
+    @include until($desktop) {
+      margin-left: 0;
+      margin-right: 0;
+      justify-content: flex-start;
+
+      .column.is-narrow {
+        padding-left: 0;
+        padding-right: 1rem;
+
+        a {
+          display: block;
+          text-align: left;
+        }
+      }
+    }
+  }
+}
+
+.benefits-grid {
+    display: grid;
+    gap: 2rem;
+    margin-top: 3rem;
+    padding: 0 1rem;
+    
+    @include tablet {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2.5rem;
+    }
+    
+    @include desktop {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 2rem;
+    }
+}
+
+.benefit-card {
+    background: $white;
+    border-radius: $radius;
+    padding: 2rem;
+    height: 100%;
+    box-shadow: 0 2px 12px rgba($grey, 0.08);
+    text-align: center;
+    
+    .benefit-icon {
+        width: 64px;
+        height: 64px;
+        margin: 0 auto 1.5rem;
+        
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+    }
+    
+    .benefit-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: $grey-darker;
+        margin-bottom: 0.75rem;
+        text-align: center;
+    }
+    
+    .benefit-subtitle {
+        color: $grey-dark;
+        margin-bottom: 1rem;
+        text-align: center;
+    }
+    
+    .benefit-content {
+        color: $grey-dark;
+        font-size: 0.95rem;
+        text-align: center;
+        
+        p {
+            margin-bottom: 0.75rem;
+            
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+.logo-scroll {
+    position: relative;
+    width: 100%;
+    height: 80px;
+    overflow: hidden;
+    margin: 2rem 0;
+    background: $white;
+    
+    &::before,
+    &::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        width: 120px;
+        height: 100%;
+        z-index: 2;
+        pointer-events: none;
+    }
+    
+    &::before {
+        left: 0;
+        background: linear-gradient(to right, $white, transparent);
+    }
+    
+    &::after {
+        right: 0;
+        background: linear-gradient(to left, $white, transparent);
+    }
+
+    .logo-track {
+        display: inline-flex;
+        animation: scroll 30s linear infinite;
+        
+        &:hover {
+            animation-play-state: paused;
+        }
+    }
+    
+    .logo-item {
+        flex: 0 0 160px;
+        padding: 0.5rem 1rem;
+        
+        figure {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+            img {
+                max-height: 100%;
+                width: auto;
+                object-fit: contain;
+                filter: grayscale(100%);
+                opacity: 0.7;
+                transition: all 0.3s ease;
+                
+                &:hover {
+                    filter: grayscale(0%);
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}
+
+@keyframes scroll {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-50%);
+    }
+}
+
+// Adjust speed on mobile
+@include mobile {
+    .logo-scroll {
+        .logo-track {
+            animation-duration: 15s;
+        }
+    }
+}
+
+.logos {
+    overflow: hidden;
+    padding: 2rem 0;
+    background: $white;
+    white-space: nowrap;
+    position: relative;
+    
+    &:before,
+    &:after {
+        position: absolute;
+        top: 0;
+        width: 150px;
+        height: 100%;
+        content: "";
+        z-index: 2;
+    }
+    
+    &:before {
+        left: 0;
+        background: linear-gradient(to left, rgba($white, 0), $white);
+    }
+    
+    &:after {
+        right: 0;
+        background: linear-gradient(to right, rgba($white, 0), $white);
+    }
+    
+    &:hover .logos-slide {
+        animation-play-state: paused;
+    }
+    
+    .logos-slide {
+        display: inline-block;
+        animation: 35s slide infinite linear;
+        
+        .logo-item {
+            display: inline-block;
+            vertical-align: middle;
+            width: 200px;
+            text-align: center;
+            
+            img {
+                height: 75px;
+                max-width: 170px;
+                object-fit: contain;
+                filter: grayscale(100%);
+                opacity: 0.7;
+                transition: all 0.3s ease;
+                padding: 0 15px;
+                
+                &:hover {
+                    filter: grayscale(0%);
+                    opacity: 1;
+                }
+            }
+        }
+    }
+    
+    // Mobile adjustments
+    @include mobile {
+        padding: 1.5rem 0;
+        
+        &:before,
+        &:after {
+            width: 80px;
+        }
+        
+        .logos-slide {
+            animation-duration: 25s;
+            
+            .logo-item {
+                width: 160px;
+                
+                img {
+                    height: 60px;
+                    max-width: 140px;
+                    padding: 0 10px;
+                }
+            }
+        }
+    }
+    
+    // Tablet adjustments
+    @include tablet-only {
+        .logos-slide {
+            animation-duration: 30s;
+            
+            .logo-item {
+                width: 180px;
+                
+                img {
+                    height: 65px;
+                    max-width: 155px;
+                    padding: 0 12px;
+                }
+            }
+        }
+    }
+}
+
+@keyframes slide {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}

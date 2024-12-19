@@ -3,11 +3,11 @@
         <!-- Logo -->
         <div class="navbar-brand">
             <a class="navbar-item" href={{"/" | relURL }}>
-                <img src={{"images/logo-black.jpg" | relURL }} alt="logmate"/>
+                <img src={{"images/logo-black.jpg" | relURL }} alt="logmate" />
             </a>
 
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
-               data-target="main-nav">
+                data-target="main-nav">
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
@@ -15,9 +15,23 @@
         </div>
 
         <!-- Menu-->
-        {{ $cp := .File.UniqueID }}
+        {{ $cp := "" }}
+        {{ with .File }}
+        {{ $cp = .UniqueID }}
+        {{ end }}
 
         <div id="main-nav" class="navbar-menu">
+            <div class="is-hidden-desktop" style="padding: 1rem;">
+                <div class="buttons">
+                    <a class="button is-primary is-fullwidth modal-button mb-2" data-target="modal-login">
+                        Log in
+                    </a>
+                    <a class="button is-success is-fullwidth modal-button" data-target="modal-signup">
+                        Start Free Trial
+                    </a>
+                </div>
+            </div>
+
             <div class="navbar-start">
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-link">Products</a>
@@ -26,14 +40,15 @@
                         {{$list := where .Site.RegularPages "Section" "products" }}
                         {{range $p := sort $list ".Title" }}
                         <a href="{{$p.RelPermalink}}"
-                           class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                            class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
                         {{ end }}
 
                     </div>
 
                 </div>
 
-                <a href={{"/pricing/" | relURL}} class="navbar-item {{ if eq .Page.Title "Pricing" }}is-active{{end}}">Pricing</a>
+                <a href={{"/pricing/" | relURL}} class="navbar-item {{ if eq .Page.Title " Pricing"
+                    }}is-active{{end}}">Pricing</a>
 
                 <a class="navbar-item" href="https://help.logmate.co.nz" target="_blank">User Guides</a>
 
@@ -44,7 +59,7 @@
                         {{$list := where .Site.RegularPages "Section" "resource" }}
                         {{range $p := sort $list ".Title" }}
                         <a href="{{$p.RelPermalink}}"
-                           class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                            class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
                         {{ end }}
 
                     </div>
@@ -57,7 +72,7 @@
                         {{$list := where .Site.RegularPages "Section" "about" }}
                         {{range $p := sort $list ".Title" }}
                         <a href="{{$p.RelPermalink}}"
-                           class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                            class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
                         {{ end }}
 
                     </div>
@@ -70,7 +85,7 @@
                         {{$list := where .Site.RegularPages "Section" "blog" }}
                         {{range $p := sort $list.ByDate.Reverse }}
                         <a href="{{$p.RelPermalink}}"
-                           class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
+                            class="navbar-item {{if eq $p.File.UniqueID $cp}}is-active{{end}}">{{$p.Title}}</a>
                         {{ end }}
 
                     </div>
@@ -79,20 +94,17 @@
 
             </div>
 
-            <div class="navbar-end">
-
+            <div class="navbar-end is-hidden-touch">
                 <div class="navbar-item">
-                    <a class="button is-primary is-fullwidth modal-button" data-target="modal-login">
+                    <a class="button is-primary modal-button" data-target="modal-login">
                         Log in
                     </a>
                 </div>
-
                 <div class="navbar-item">
-                    <a class="button is-success is-fullwidth modal-button" data-target="modal-signup">
-                        Start your FREE Trial
+                    <a class="button is-success modal-button" data-target="modal-signup">
+                        Start Free Trial
                     </a>
                 </div>
-
             </div>
 
         </div>

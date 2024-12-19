@@ -7,13 +7,6 @@
     }
   },
   {
-    "name": "Ola New Zealand",
-    "type": "rideshare",
-    "image": {
-      "file_name": "images/ola-logo.svg"
-    }
-  },
-  {
     "name": "Agtrans",
     "type": "freight",
     "image": {
@@ -27,7 +20,6 @@
       "file_name": "images/mahu-city-express-logo.png"
     }
   },
-  
   {
     "name": "Tongariro River Rafting",
     "type": "transport",
@@ -47,13 +39,6 @@
     "type": "transport",
     "image": {
       "file_name": "images/gravity-nelson-logo250__FitWzExMDAsNzM0XQ.png"
-    }
-  },
-  {
-    "name": "Zoomy",
-    "type": "rideshare",
-    "image": {
-      "file_name": "images/logo-zoomy.png"
     }
   },
   {
@@ -109,7 +94,7 @@
     "name": "Mini-tankers",
     "type": "transport",
     "image": {
-      "file_name": "https://www.minitankers.co.nz/themes/minitankers/images/logo.png"
+      "file_name": "images/mini-tankers-logo.png"
     }
   }
 ]

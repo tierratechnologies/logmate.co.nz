@@ -1,19 +1,27 @@
-<section class="section" style="">
+<section class="section">
     <div class="container">
         <div class="columns is-centered has-text-centered">
-            <div class="column is-one-third">
+            <div class="column is-half">
                 <h3 class="title">We <span class="icon red"><i class="fa fa-heart"></i></span> our Customers</h3>
             </div>
         </div>
-        <div class="columns is-centered is-multiline is-vcentered is-mobile">
+    </div>
+    
+    <div class="logos">
+        <div class="logos-slide">
             {{ range $i,$c := sort .Site.Data.home.customers "name" "asc"}}
-            <div class="column is-2 is-narrow">
-                <figure class="image is-fullwidth">
-                    <img title="{{ .title }}" src="{{ .image.file_name | relURL }}" alt="{{ .title }}">
-                </figure>
+            <div class="logo-item">
+                <img title="{{ .title }}" src="{{ .image.file_name | relURL }}" alt="{{ .title }}">
+            </div>
+            {{ end }}
+        </div>
+        
+        <div class="logos-slide">
+            {{ range $i,$c := sort .Site.Data.home.customers "name" "asc"}}
+            <div class="logo-item">
+                <img title="{{ .title }}" src="{{ .image.file_name | relURL }}" alt="{{ .title }}">
             </div>
             {{ end }}
         </div>
     </div>
-
 </section>

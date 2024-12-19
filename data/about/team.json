@@ -1,4 +1,17 @@
 [
+    {
+    "avatar": null,
+    "full_name": "Evan Caldon",
+    "job_title": "Operations Manager & Customer Success Manager",
+    "lives": "Christchurch, New Zealand",
+    "timezone": "UTC+12:00",
+    "joined": "July, 2024",
+    "biography": [
+      "Based in Christchurch, New Zealand, Evan kicked off his professional career in his home state of Minnesota as a Project Manager at a small exhibit design company.",
+      "After being whisked away from the snowy winters of MN by his Kiwi partner, he became the CSM at Hilti NZ for two years working with a global team and SaaS products daily.",
+      "Evan joined us in July of 2024, sits in a hot sauna regularly, reads on the beach often, wrestled for 20+ years, and you'll be hard-pressed to beat him in a game of cribbage."
+    ]
+  }, 
   {
     "avatar": null,
     "full_name": "Reuben White",
@@ -7,10 +20,10 @@
     "timezone": "UTC+12:00",
     "joined": "Feb, 2023",
     "biography": [
-      "Reuben joined us in early 2023, and is based in Tauranga, New Zealand.",
-      "He has a background in customer support, previously working in the crypto space, and still enjoys trading in his spare time.",
-      "Reuben completed a Bachelor of Computer and Information Science at AUT in 2020, majoring in Software Development.",
-      "He is around in the morning's to provide support, so feel free to reach out to him with any questions."
+      "Based in Tauranga, New Zealand, Reuben joined us in early 2023.",
+      "He has a background in Customer Support, having previously working in the crypto space, and still enjoys trading in his spare time.",
+      "Reuben completed a Bachelor of Computer and Information Science at AUT in 2020, majoring in Software Development, and currently works closely with our Dev team.",
+      "He is around during the day to provide support, so feel free to reach out with any questions you may have."
     ]
   },  
   {
@@ -21,9 +34,9 @@
     "timezone": "UTC+05:30",
     "joined": "September, 2017",
     "biography": [
-      "Karthick joined us in September 2017. He lives in Bangalore, India.",
-      "He is a qualified Network engineer and a young man with a bright future.",
-      "Karthick covers the late nights so be sure to stop by and say Hi if you find yourself with a few minutes to spare."
+      "Based in Bangalore, India, Karthick joined us in September of 2017.",
+      "He is a qualified Network Engineer and a young man with a bright future.",
+      "Karthick covers the late nights here in New Zealand to provide support, so feel free to reach out if you have any questions."
     ]
   },
   {
@@ -34,8 +47,8 @@
     "timezone": "UTC+12:00",
     "joined": "October, 2018",
     "biography": [
-      "Paul started working with the Dev team late 2018. He lives in Gulf Harbour, New Zealand with his young family.",
-      "He has worked in Silicon Valley; calls Senior Google Engineers 'buddy', and races one of the fastest non-production rally cars in New Zealand with his brother and dad.",
+      "Based in Gulf Harbour, New Zealand with his young family, Paul started working with our Dev team in late 2018.",
+      "He has worked in Silicon Valley, calls Senior Google Engineers “buddy”, and races one of the fastest non-production rally cars in New Zealand with his brother and dad.",
       "Paul is one of the most experienced Crypto Engineers in New Zealand, but loves New Zealand too much to move the USA where the money is.",
       "We love him for it."
     ]
@@ -48,8 +61,8 @@
     "timezone": "UTC+12:00",
     "joined": "August, 2019",
     "biography": [
-      "Rick is the former managing partner of Crowe Howarth Accountants in the Hawkes Bay, and now works around New Zealand providing Strategic advisory and Governance to several tech start-ups.",
-      "Based in the Hawkes Bay, Rick works as a key member of the Management team providing advice, guidance and generally keep the wheels moving."
+      "Based in Hawkes Bay, New Zealand, Rick is the former managing partner of Crowe Howarth Accountants. He now works around New Zealand providing Strategic Advisory and Governance to several tech start-ups.",
+      "Rick is a key member of our Management team providing advice and guidance to help keep the wheels moving."
     ]
   },
   {
@@ -60,21 +73,8 @@
     "timezone": "UTC+12:00",
     "joined": "August, 2015",
     "biography": [
-      "Based in Auckland, New Zealand since 2002, Jay provides executive advisory services and serves on the boards of a select group of technology-oriented software, services, and internet businesses around the world.",
-      "Jay is the former President &amp; CEO of Sagebrush Corporation, a leader in educational software, and was a senior executive at Reynolds &amp; Reynolds. In addition, he has held key management positions with Allen-Bradley and McKinsey &amp; Co."
-    ]
-  },
-  {
-    "avatar": null,
-    "full_name": "Ellen Quirke",
-    "job_title": "Operations Manager",
-    "lives": "Manguaturoto, Northland",
-    "timezone": "UTC+12:00",
-    "joined": "September, 2019",
-    "biography": [
-      "Ellen holds a Class 2 Driver license endorsement and has a family background in vehicles &amp; the transport industry.",
-      "They bring an impressive list of skills &amp; achievements; most notably as a member of the New Zealand Swim Team at the 2014 Commonwealth Games",
-      "Ellen completed their Masters of Sport and Recreation First Class Honors (Exercise Physiology) at AUT in 2018 and holds a Bachelor of Kinesiology."
+      "Based in Auckland, New Zealand since 2002, Jay provides Executive Advisory services and serves on the boards of a select group of technology-oriented software, services, and internet businesses around the world.",
+      "He is the former President & CEO of Sagebrush Corporation (a leader in educational software) and was a senior executive at Reynolds & Reynolds. In addition, Jay has held key management positions with Allen-Bradley and McKinsey & Co."
     ]
   },
   {
@@ -85,8 +85,8 @@
     "timezone": "UTC+12:00",
     "joined": "June, 2012",
     "biography": [
-      "Based in Matakana, New Zealand with his young family, Greg is a software engineer &amp; serial entrepreneur.",
-      "Greg is the driving force behind the business; performing everything from Software Development &amp; Design, commercial negotiations, and when required Customer Support."
+      "Based in Matakana, New Zealand with his young family, Greg is a software engineer & serial entrepreneur.",
+      "Greg is the driving force behind the business; performing everything from Software Development & Design, to commercial negotiations, and when required, Customer Support."
     ],
     "mission_statement": "My goal is to build <strong>logmate</strong> into a best-in-class logbook and compliance platform."
   }

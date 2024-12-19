@@ -80,7 +80,7 @@
       {
         "date": "2015-03-01 00:00:00",
         "descriptors": [
-          "Move platform to AWS (Sydney)"
+          "Moved platform to AWS (Sydney)"
         ]
       },
       {
@@ -108,13 +108,13 @@
       {
         "date": "2017-01-01 00:00:00",
         "descriptors": [
-          "Greg buys Matt shares in business"
+          "Greg buys Matt's shares of the business"
         ]
       },
       {
         "date": "2017-10-10 00:00:00",
         "descriptors": [
-          "New passenger service rules come into effect.",
+          "New passenger service rules come into effect",
           "Uber &amp; Zoomy come onboard"
         ]
       },
@@ -198,7 +198,7 @@
       {
         "date": "2020-10-01 00:00:00",
         "descriptors": [
-          "Rideshare Subscription changes came into effect"
+          "Rideshare Subscription changes come into effect"
         ]
       }
     ]
@@ -244,22 +244,22 @@
     ]
   },
   {
-    "year": "2024",
+    "year": "2025",
     "events" : [
       {
-        "date": "2024-04-01 00:00:00",
+        "date": "2025-03-01 00:00:00",
         "descriptors": [
           "1st phase rollout of revised Platform planned"
         ]
       },
       {
-        "date": "2024-07-01 00:00:00",
+        "date": "2025-06-01 00:00:00",
         "descriptors": [
           "2nd phase rollout of revised Platform planned"
         ]
       },
       {
-        "date": "2024-10-01 00:00:00",
+        "date": "2025-09-01 00:00:00",
         "descriptors": [
           "3rd phase rollout of revised Platform planned"
         ]
